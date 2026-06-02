@@ -22,6 +22,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [22 Cdo 3325/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13F2084723D2889AC1257F4800368474?openDocument) — 27. 10. 2015, kat. A
+  > „Podání účastníka učiněné vůči soudu v elektronické podobě prostřednictvím datové schránky je doručeno okamžikem, kdy bylo podání dodáno do datové schránky soudu"
+- *NS* [26 Cdo 282/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B86C4B08D9B542C3C1257CAD0034285E?openDocument) — 19. 3. 2014, kat. A
+  > „Rozhodce může svůj rozhodčí nález vydaný v řízení podle zákona č. 216/1994 Sb. (ve znění pozdějších předpisů) doručovat do datové schránky těch účastníků, kteří požádali Ministerstvo vnitra o umožnění dodávání dokumentů podle § 18a zákona č. 300/2008 Sb. (ve znění pozdějších předpisů)"
+
 #### Rozsah věcné působnosti — čtyři okruhy
 
 § 1 vymezuje předmět úpravy ve čtyřech samostatných okruzích, které je třeba odlišovat, protože se vážou k různým právním režimům:
@@ -180,6 +187,11 @@ Agentura nepostupuje formálně podle § 37 odst. 3 SŘ (jak by činil běžný 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 2/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53F2A7EB069C9212C125861E00404144?openDocument) — 31. 8. 2020, kat. A
+  > „Tam, kde v případech uvedených v § 229 odst. 1 a 2 o. s. ř. rozhodl odvolací soud, lze podat žalobu pro zmatečnost buď jen proti jeho rozhodnutí, nebo rovněž proti rozhodnutí soudu prvního stupně, jestliže trpí zmatečností rozhodnutí soudu prvního stupně však nelze napadnout samostatně, neboť jeho právní moc (jako jedna z podmínek pro podání žaloby pro zmatečnost) se odvíjí (až) od rozhodnutí odvolacího soudu. V řízení o žalobě pro zmatečnost soud samostatně nerozhoduje (způsobem uvedeným v § 95 o. s. ř.) o přípustnosti „rozšiřování“ tvrzených důvodů zmatečnosti s tím, zda později (v průběhu řízení o již podané žalobě) uplatněné důvody zmatečnosti jsou včasné, se vypořádá v důvodech rozhodnutí o žalobě pro zmatečnost. Osoba, která podává žalobu pro zmatečnost z důvodu zmatečnostní vady uvedené v § 229 odst. 1 písm. c/ o. s. ř., musí tvrdit (chce-li s takovou žalobou uspět), že jako…"
+
 #### Povinné zřízení ze zákona (odst. 1, 3)
 
 § 4 přináší klíčový rys režimu DS PFO: **schránka vzniká ex offo** — Agentura ji zřizuje **bezplatně a bezodkladně** poté, co obdrží informaci o zápisu osoby do příslušné evidence:
@@ -246,6 +258,13 @@ Praktický význam odst. 4–6 po DEPO novele výrazně klesl — drtivá větš
 > *(6) Splňuje-li žádost o zřízení datové schránky právnické osoby požadavky stanovené v odstavcích 4 a 5, zřídí Agentura datovou schránku právnické osoby, jinak právnickou osobu po předchozí marné výzvě k odstranění nedostatků žádosti vyrozumí o tom, že datovou schránku právnické osoby nelze zřídit. Má-li již právnická osoba zřízenu datovou schránku právnické osoby, Agentura ji vyrozumí, že datovou schránku právnické osoby nelze zřídit.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 143/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E52DD02B67C88A6C1258654001B7F71?openDocument) — 27. 10. 2020, kat. A
+  > „Fyzická osoba, oprávněná jednat jménem právnické osoby podle § 21 o. s. ř. (ve spojení s § 120 z. v. r.) může jménem právnické osoby učinit elektronické podání podle § 22 z. v. r. i ze své datové schránky (z datové schránky fyzické osoby podle § 8 odst. 1 zákona o elektronických úkonech). V takovém případě je podání podepsáno touto fyzickou osobou (§ 18 odst. 2 zákona o elektronických úkonech) je-li přitom z podání zřejmé, že je činí jménem právnické osoby např. jako předseda jejího statutárního orgánu [§ 21 odst. 1 písm. a) o. s. ř.], jde o podání této právnické osoby učiněné a podepsané fyzickou osobou oprávněnou jednat za dotčenou právnickou osobu"
+- *NS* [29 ICdo 2/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/53F2A7EB069C9212C125861E00404144?openDocument) — 31. 8. 2020, kat. A
+  > „Tam, kde v případech uvedených v § 229 odst. 1 a 2 o. s. ř. rozhodl odvolací soud, lze podat žalobu pro zmatečnost buď jen proti jeho rozhodnutí, nebo rovněž proti rozhodnutí soudu prvního stupně, jestliže trpí zmatečností rozhodnutí soudu prvního stupně však nelze napadnout samostatně, neboť jeho právní moc (jako jedna z podmínek pro podání žaloby pro zmatečnost) se odvíjí (až) od rozhodnutí odvolacího soudu. V řízení o žalobě pro zmatečnost soud samostatně nerozhoduje (způsobem uvedeným v § 95 o. s. ř.) o přípustnosti „rozšiřování“ tvrzených důvodů zmatečnosti s tím, zda později (v průběhu řízení o již podané žalobě) uplatněné důvody zmatečnosti jsou včasné, se vypořádá v důvodech rozhodnutí o žalobě pro zmatečnost. Osoba, která podává žalobu pro zmatečnost z důvodu zmatečnostní vady uvedené v § 229 odst. 1 písm. c/ o. s. ř., musí tvrdit (chce-li s takovou žalobou uspět), že jako…"
 
 #### Povinné zřízení pro všechny PO v registru osob (odst. 1)
 
@@ -386,6 +405,11 @@ Praktický důsledek: každý nový starosta po komunálních volbách obdrží 
 > *- b) uvědomit neprodleně Agenturu o tom, že hrozí nebezpečí zneužití datové schránky; pověřená osoba uvědomí rovněž toho, kdo ji určil pověřenou osobou.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 143/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E52DD02B67C88A6C1258654001B7F71?openDocument) — 27. 10. 2020, kat. A
+  > „Fyzická osoba, oprávněná jednat jménem právnické osoby podle § 21 o. s. ř. (ve spojení s § 120 z. v. r.) může jménem právnické osoby učinit elektronické podání podle § 22 z. v. r. i ze své datové schránky (z datové schránky fyzické osoby podle § 8 odst. 1 zákona o elektronických úkonech). V takovém případě je podání podepsáno touto fyzickou osobou (§ 18 odst. 2 zákona o elektronických úkonech) je-li přitom z podání zřejmé, že je činí jménem právnické osoby např. jako předseda jejího statutárního orgánu [§ 21 odst. 1 písm. a) o. s. ř.], jde o podání této právnické osoby učiněné a podepsané fyzickou osobou oprávněnou jednat za dotčenou právnickou osobu"
 
 #### Čtyři kategorie „přímých oprávněných osob" (odst. 1–4)
 
@@ -975,6 +999,19 @@ Zpětné znepřístupnění DS ke dni omezení svobody (§ 11 odst. 1) **anuluje
 
 > **Centrální ustanovení zákona.** § 17 je **nejdůležitější paragraf** celého ZDS. Stanoví **povinnost OVM doručovat datovou schránkou** a zavádí **fikci doručení 10 dnů**, která radikálně mění mechaniku procesního práva ve všech řízeních, kde jsou účastníky držitelé zpřístupněné DS.
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 588/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D350EB53D4430FB4C12588680017C38F?openDocument) — 13. 4. 2022, kat. A
+  > „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje"
+- *NS* [22 Cdo 3325/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13F2084723D2889AC1257F4800368474?openDocument) — 27. 10. 2015, kat. A
+  > „Podání účastníka učiněné vůči soudu v elektronické podobě prostřednictvím datové schránky je doručeno okamžikem, kdy bylo podání dodáno do datové schránky soudu"
+- *NS* [26 Cdo 282/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B86C4B08D9B542C3C1257CAD0034285E?openDocument) — 19. 3. 2014, kat. A
+  > „Rozhodce může svůj rozhodčí nález vydaný v řízení podle zákona č. 216/1994 Sb. (ve znění pozdějších předpisů) doručovat do datové schránky těch účastníků, kteří požádali Ministerstvo vnitra o umožnění dodávání dokumentů podle § 18a zákona č. 300/2008 Sb. (ve znění pozdějších předpisů)"
+- *NS* [21 Cdo 3489/2012](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D72A2CDA61833DD3C1257C360045EAFE?openDocument) — 6. 11. 2013, kat. A
+  > „Každému, kdo má zpřístupněnou datovou schránku, soud doručuje rozhodnutí, předvolání a další listiny do datové schránky, aniž by adresát o takové doručení musel žádat nebo soudu sdělovat identifikátor své datové schránky. Soud zjišťuje z úřední povinnosti, zda má adresát zřízenou a zpřístupněnou datovou schránku ten, kdo má zřízenou a zpřístupněnou datovou schránku, má právo očekávat, že mu soud bude veškerá rozhodnutí, předvolání a jiné listiny doručovat v elektronické podobě do datové schránky. Tímto způsobem se nedoručuje jen tehdy, byly-li listiny doručeny při jednání nebo při jiném úkonu soudu nebo nedošlo-li k řádnému doručení listiny do datové schránky"
+- *NS* [11 Co 393/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/F4153CB988CA4CDFC1257C5A0054CA41?openDocument) — 12. 7. 2013, kat. A
+  > „Pravidla počítání času podle § 57 o. s. ř. platí i pro běh lhůty u doručování do datových schránek"
+
 #### Povinnost doručovat DS (odst. 1) — třístupňová priorita
 
 § 17 odst. 1 obsahuje **tvrdou normativní povinnost** OVM doručovat prostřednictvím DS. Doručování není **opcí** — je obligatorním způsobem, je-li splněna trojice podmínek:
@@ -1060,6 +1097,15 @@ Doručování mezi OVM nemusí probíhat přes DS, je-li mezi nimi zavedena **ji
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [27 Cdo 143/2020](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/2E52DD02B67C88A6C1258654001B7F71?openDocument) — 27. 10. 2020, kat. A
+  > „Fyzická osoba, oprávněná jednat jménem právnické osoby podle § 21 o. s. ř. (ve spojení s § 120 z. v. r.) může jménem právnické osoby učinit elektronické podání podle § 22 z. v. r. i ze své datové schránky (z datové schránky fyzické osoby podle § 8 odst. 1 zákona o elektronických úkonech). V takovém případě je podání podepsáno touto fyzickou osobou (§ 18 odst. 2 zákona o elektronických úkonech) je-li přitom z podání zřejmé, že je činí jménem právnické osoby např. jako předseda jejího statutárního orgánu [§ 21 odst. 1 písm. a) o. s. ř.], jde o podání této právnické osoby učiněné a podepsané fyzickou osobou oprávněnou jednat za dotčenou právnickou osobu"
+- *NS* [22 Cdo 3325/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/13F2084723D2889AC1257F4800368474?openDocument) — 27. 10. 2015, kat. A
+  > „Podání účastníka učiněné vůči soudu v elektronické podobě prostřednictvím datové schránky je doručeno okamžikem, kdy bylo podání dodáno do datové schránky soudu"
+- *NS* [3 VSPH 605/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/3B259F3BBEDF60DFC1257A4E0065E3B9?openDocument) — 30. 5. 2011, kat. A
+  > „Přihláška pohledávky je podáním věřitele, které v případě, že bylo odesláno z datové schránky tohoto věřitele do datové schránky příslušného soudu osobou uvedenou v § 18 odst. 1 až 4 zákona č. 300/2008 Sb. ve znění pozdějších předpisů má z hlediska úpravy obsažené v ustanovení § 18 odst. 2 tohoto zákona stejné účinky jako procesní úkon učiněný písemně a podepsaný"
+
 #### „Druhý směr" doručování — osoba → OVM (odst. 1)
 
 § 18 řeší **opačný směr** než § 17: úkony **soukromé osoby vůči OVM**. Tedy: podání žádostí, opravných prostředků, daňových přiznání, odvolání, žalob (proti OVM v rámci řízení o opravných prostředcích) atd.
@@ -1103,6 +1149,11 @@ Odst. 2 výslovně připouští, že **pověřená osoba činí úkon s plnými 
 > *(4) Za dodání dokumentu podle odstavce 1 věty první náleží provozovateli informačního systému datových schránek odměna, kterou stanoví cenový orgán podle cenových předpisů5). Odměnu hradí fyzická osoba, podnikající fyzická osoba nebo právnická osoba, z jejíž datové schránky byl dokument odeslán. Tato osoba může určit, že bude hradit i dodání dokumentu, který je odpovědí na dokument dodaný podle předchozí věty. Odměnu podle věty první může za fyzickou osobu, podnikající fyzickou osobu nebo právnickou osobu, z jejíž datové schránky byl dokument odeslán, s jejím souhlasem hradit rovněž jiná fyzická osoba, podnikající fyzická osoba nebo právnická osoba.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [26 Cdo 282/2014](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B86C4B08D9B542C3C1257CAD0034285E?openDocument) — 19. 3. 2014, kat. A
+  > „Rozhodce může svůj rozhodčí nález vydaný v řízení podle zákona č. 216/1994 Sb. (ve znění pozdějších předpisů) doručovat do datové schránky těch účastníků, kteří požádali Ministerstvo vnitra o umožnění dodávání dokumentů podle § 18a zákona č. 300/2008 Sb. (ve znění pozdějších předpisů)"
 
 #### Soukromoprávní „dodávání" jako třetí pilíř (odst. 1)
 
@@ -1315,6 +1366,11 @@ Vyhledávač DS je dostupný na portálu mojedatovaschranka.cz a jako API služb
 
 > **Druhý nosný institut zákona.** §§ 22–26 upravují **autorizovanou konverzi dokumentů** — institut, který tvoří **právní most mezi listinným a elektronickým světem**. Konverze činí možným, aby elektronizace komunikace s OVM nezůstala omezena na dokumenty, které vznikly elektronicky, ale aby zahrnula i celé spektrum listinných dokumentů (rodné listy, smlouvy, plné moci, technické nákresy, znalecké posudky).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 588/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D350EB53D4430FB4C12588680017C38F?openDocument) — 13. 4. 2022, kat. A
+  > „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje"
+
 #### Definice konverze (odst. 1) — obousměrnost
 
 Konverze je definována ve dvou variantách:
@@ -1459,6 +1515,11 @@ Tento režim **není zpoplatněn správním poplatkem** (na rozdíl od konverze 
 > *(5) Konverzí se nepotvrzuje správnost a pravdivost údajů obsažených ve vstupu a jejich soulad s právními předpisy.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 588/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D350EB53D4430FB4C12588680017C38F?openDocument) — 13. 4. 2022, kat. A
+  > „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje"
 
 #### Ověření vstupu při konverzi elektronický → listina (odst. 1)
 
