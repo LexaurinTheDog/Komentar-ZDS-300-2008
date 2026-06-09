@@ -59,6 +59,42 @@ Druhý odstavec zcela vylučuje doručování dokumentů obsahujících **utajov
 
 > **Praktický dopad:** Pokud má OVM doručit účastníkovi řízení utajovaný dokument (např. soudní rozhodnutí, jehož součástí je výpis z trestního rejstříku s utajovanými informacemi), DS se nepoužije a uplatní se „papírové" doručování dle § 35a a násl. ZOUTI.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Krajský soud doručuje rozhodnutí o náhradě škody insolvenčnímu správci, který je v insolvenčním řízení ustanoven jako správce konkrétního dlužníka. Insolvenční správce má zřízenou DS PFO (jako fyzická osoba s licencí Ministerstva spravedlnosti). Soud váhá, zda jej má pro účely tohoto řízení považovat za „orgán veřejné moci" [§ 1 odst. 1 písm. a)], nebo za soukromou osobu, a tedy zda doručení do jeho DS PFO má povahu úředního doručení podle § 17. Důkazy k obstarání: výpis ze seznamu insolvenčních správců, ustanovující usnesení insolvenčního soudu, výpis z ISDS o typu DS správce.
+
+**2. Právní otázka.** Spadá insolvenční správce při výkonu funkce v insolvenčním řízení pod legislativní zkratku „orgán veřejné moci" podle § 1 odst. 1 písm. a), a jakou povahu má doručení dokumentu do jeho datové schránky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 odst. 1 písm. a) — vymezuje OVM tak, že pod něj výslovně řadí i insolvenční správce; písm. b) — odlišuje soukromoprávní „dodávání".
+- *Související ustanovení téhož zákona:* § 4 (DS PFO insolvenčního správce), § 6 odst. 5 (OVM má jen DS OVM — vzniká dualismus), § 17 (doručování OVM s plnými účinky), § 18a (P2P dodávání).
+- *Související předpisy:* zákon č. 182/2006 Sb. (insolvenční zákon), § 412 a násl. o postavení a úkonech správce; zákon č. 412/2005 Sb. (vyloučení utajovaných informací — odst. 2).
+- *Judikatura:* NS 26 Cdo 282/2014 (rozhodce smí doručovat do DS účastníků, kteří aktivovali dodávání podle § 18a) — potvrzuje, že povaha odesílatele a režim doručení se posuzují podle zákonného zařazení, nikoli podle technického typu schránky.
+
+**4. Subsumpce.** § 1 odst. 1 písm. a) řadí insolvenční správce pod OVM výslovně, avšak jen „v rozsahu výkonu jejich zákonných oprávnění". Při úkonu, který správce činí jako veřejný funkcionář (výzva věřitelům, přezkum přihlášek), jedná jako OVM. Spornou okolností je, že technicky disponuje DS PFO, nikoli DS OVM — typ schránky však nemění právní povahu úkonu. Podmínka „dokument umožňuje el. doručení" je splněna; podmínka „adresát má zpřístupněnou DS" je rovněž splněna.
+
+**5. Řešení.** Soud doručí rozhodnutí do DS PFO insolvenčního správce a doručení má plné účinky podle § 17 odst. 6 (do vlastních rukou), neboť rozhodující je zákonné zařazení správce, ne typ DS. Praxe se ustálila na využívání jediné DS PFO pro veškerou komunikaci správce. Riziko: pokud by se argumentovalo, že úkon nesouvisí s výkonem funkce (např. soukromá korespondence správce), režim OVM by se neuplatnil — proto je třeba z dokumentu vždy patrné, v jaké kapacitě správce vystupuje.
+
+**6. Varianty.** (a) Kdyby dokument obsahoval utajovanou informaci, § 1 odst. 2 by doručení do DS zcela vyloučil a uplatnil by se § 35a ZOUTI. (b) Kdyby šlo o čistě soukromou zprávu jiné osoby správci (nikoli úkon OVM), nešlo by o doručování podle § 17, ale o dodávání podle § 18a (dobrovolné, zpoplatněné).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „typ schránky určuje režim":* Lze namítnout, že insolvenční správce s DS PFO není OVM, protože OVM se zřizuje pouze DS OVM (§ 6 odst. 5). Neutralizace: § 1 odst. 1 definuje OVM materiálně (podle funkce), nikoli podle typu schránky; § 4 výslovně zřizuje správci DS PFO — zákonodárce tedy dualismus předpokládá.
+- *Protiargument „výčet OVM je demonstrativní":* Někdo by mohl tvrdit, že výčet v písm. a) je příkladmý a lze pod něj podřadit i další subjekty (např. pověřené obecní úřady). Neutralizace: výčet je taxativní co do typů (státní orgány, ÚSC, FO/PO se svěřenou působností, notáři, exekutoři, insolvenční správci); „svěřená působnost v oblasti veřejné správy" je otevřená kategorie, ale musí mít zákonný podklad.
+- *Slabé místo:* Hranice „výkonu zákonných oprávnění" správce není ostrá; u hraničních úkonů (správa majetkové podstaty vs. osobní jednání) může být sporné, zda jde o úkon OVM.
+
+### H. Praktický závěr
+
+§ 1 vymezuje čtyři okruhy úpravy (úkony přes DS, P2P dodávání, ISDS, konverze) a zavádí klíčovou zkratku „OVM". Pro praxi je rozhodující odlišovat režim § 17 (úřední doručování, závazné) od režimu § 18a (soukromé dodávání, dobrovolné). Utajované informace jsou z DS zcela vyloučeny.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda odesílatel/adresát spadá pod některý z typů OVM v § 1 odst. 1 písm. a).
+- [ ] Posoudit, zda úkon souvisí s výkonem zákonných oprávnění (u notářů, exekutorů, insolvenčních správců).
+- [ ] Vyloučit, že dokument obsahuje utajované informace (odst. 2) — pak se DS nepoužije.
+- [ ] Rozlišit, zda jde o úřední doručování (§ 17), nebo soukromé dodávání (§ 18a).
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS o typu a stavu DS; ustanovující/jmenovací akt (usnesení soudu, licence MS); výpis z příslušné evidence (seznam insolvenčních správců); klasifikace dokumentu z hlediska utajení.
+
 ---
 
 ## § 2 — Datová schránka
@@ -96,6 +132,42 @@ Od 1. 4. 2023 byly kompetence ze zákona č. 471/2022 Sb. převedeny z Ministers
 - **Provozovatelem** ISDS je samostatný subjekt — držitel poštovní licence (Česká pošta), což zákon výslovně rozlišuje v § 14 odst. 2.
 
 > **Terminologie:** Zákonná zkratka „Agentura" se v zákoně vyskytuje v všech ustanoveních, kde dříve stál pojem „ministerstvo". Při praktické práci s historickými verzemi zákona (před 1. 4. 2023) je tato terminologická změna nutné mít na paměti.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Občan obdrží do své DS FO marketingovou nabídku od podnikatele (PFO), který zneužívá ISDS k rozesílání reklamy. Občan má za to, že DS je „úřední" kanál a že jej nelze takto využívat k reklamě. Současně zvažuje, zda mu vzniká nárok na náhradu nákladů, které musel vynaložit na přečtení (např. čas, datový tarif). Důkazy: výpis ze DS s reklamní zprávou, identifikátor odesílatele, údaj o tom, zda měl občan příjem soukromých zpráv zapnutý.
+
+**2. Právní otázka.** Lze datovou schránku užít k zaslání nevyžádaného obchodního sdělení, a jaké jsou důsledky toho, že DS je zákonem vymezena funkčně třemi účely podle § 2 odst. 1?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 odst. 1 — DS je určena pouze ke třem účelům (doručování OVM, úkony vůči OVM, dodávání mezi osobami); odst. 2 — Agentura DS zřizuje a spravuje.
+- *Související ustanovení téhož zákona:* § 18a odst. 1 (možnost znepřístupnit DS FO pro soukromé dodávání), § 26a/§ 26b (přestupek užití DS k šíření nevyžádaných obchodních sdělení).
+- *Související předpisy:* zákon č. 480/2004 Sb. (zákaz nevyžádaných obchodních sdělení), zákon č. 471/2022 Sb. (převod kompetencí na DIA).
+- *Judikatura:* obecně přijímaný závěr, že DS není komerční e-mail, nýbrž právně účinné úložiště s omezeným účelovým určením.
+
+**4. Subsumpce.** Funkční vymezení DS v § 2 odst. 1 je taxativní co do účelů. Reklamní zpráva nenaplňuje žádný ze tří účelů (není to doručování OVM ani úkon vůči OVM ani legitimní dodávání). Protiprávnost není v § 2 sankcionována přímo — § 2 jen vymezuje účel; sankce je v § 26a/§ 26b. Sporné je, zda občan měl příjem soukromých zpráv aktivní (pokud ne, zpráva by mu vůbec nebyla dodána).
+
+**5. Řešení.** Občan může podat podnět Agentuře (DIA) k zahájení přestupkového řízení podle § 26a/§ 26b (příslušnost § 26c). Účelové omezení § 2 odst. 1 slouží jako interpretační základ pro závěr, že jde o zneužití. Náhrada „nákladů na přečtení" zákonem nevzniká. Praktický krok: do budoucna občan může DS FO znepřístupnit pro soukromé dodávání (§ 18a odst. 1).
+
+**6. Varianty.** (a) Kdyby šlo o zprávu od OVM (např. finanční úřad), spadala by pod účel § 2 odst. 1 písm. a) a byla by legitimní bez ohledu na obsah. (b) Kdyby reklamu poslala PO a šlo o hromadné rozesílání, hrozila by pokuta až 10 mil. Kč podle § 26b.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „výčet účelů je demonstrativní":* Lze namítnout, že DS lze užít i k jiným účelům, neboť odst. 1 prý jen popisuje typické funkce. Neutralizace: existence samostatné přestupkové úpravy (§ 26a, § 26b) za zneužití DS dokládá, že zákonodárce účelové omezení míní závazně.
+- *Protiargument „Agentura není správný orgán":* Někdo by mohl tvrdit, že podnět patří ČTÚ či ÚOOÚ. Neutralizace: § 26c svěřuje projednání přestupků podle ZDS výlučně Agentuře; souběh s úpravou dle zákona č. 480/2004 Sb. se řeší podle zákona č. 250/2016 Sb.
+- *Slabé místo:* § 2 sám o sobě neobsahuje sankci; bez vazby na § 26a/§ 26b je jeho normativní síla omezená a působí spíše definičně.
+
+### H. Praktický závěr
+
+§ 2 definuje DS funkčně (tři účely) a určuje DIA jako zřizovatele a správce; provozovatelem ISDS je Česká pošta (§ 14 odst. 2). DS není komerční e-mail — užití k jiným účelům je přestupkem.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda odesílaná zpráva naplňuje některý ze tří účelů podle § 2 odst. 1.
+- [ ] U DS FO ověřit/nastavit, zda je příjem soukromého dodávání zapnut (§ 18a odst. 1).
+- [ ] Při zneužití DS zvážit podnět Agentuře k přestupkovému řízení (§ 26a–26c).
+- [ ] Mít na paměti terminologickou změnu „ministerstvo" → „Agentura" (od 1. 4. 2023).
+
+**Typicky rozhodné důkazy / podklady:** výpis zprávy z DS s identifikátorem odesílatele; nastavení DS FO ohledně soukromého dodávání; doklad o obsahu (obchodní sdělení); evidence ISDS o dodání.
 
 ---
 
@@ -152,6 +224,42 @@ Tyto výjimky se staly v praxi standardním způsobem zřízení DS FO: většin
 #### Postup při vadné žádosti (odst. 5)
 
 Agentura nepostupuje formálně podle § 37 odst. 3 SŘ (jak by činil běžný správní orgán), nýbrž podle vlastního pravidla: **marná výzva k odstranění nedostatků** → vyrozumění, že DS nelze zřídit. Toto vyrozumění **není rozhodnutím** ve smyslu § 67 SŘ (a tudíž se proti němu nelze odvolat) — je projevem provozního charakteru působnosti Agentury. Pokud osoba s vyrozuměním nesouhlasí, může podat **stížnost** dle § 175 SŘ nebo žalobu na ochranu před nečinností.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Klient požádá online přes BankID o zřízení DS FO. Po několika měsících je rozhodnutím soudu omezen ve svéprávnosti (správa financí). Opatrovník zjistí, že do DS klienta mezitím soud doručil rozhodnutí, jehož lhůta pro odvolání běžela od fikce doručení. Opatrovník namítá, že klient v době doručení nebyl plně svéprávný a DS mu vůbec neměla zůstat aktivní. Důkazy: rozhodnutí o omezení svéprávnosti s datem právní moci, výpis z ISDS o datu dodání a fikci, žádost o zřízení DS s BankID.
+
+**2. Právní otázka.** Jaký dopad má pozdější omezení svéprávnosti vlastníka DS FO na platnost doručení dokumentu fikcí, došlo-li k němu po nabytí právní moci rozhodnutí o omezení svéprávnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 odst. 1 (podmínka plné svéprávnosti pro zřízení DS FO), odst. 2 (jedna DS), odst. 4 (úředně ověřený podpis a jeho výjimky přes § 27).
+- *Související ustanovení téhož zákona:* § 11 odst. 1 písm. c) (znepřístupnění DS ke dni právní moci rozhodnutí o omezení svéprávnosti, i zpětně), § 16 (informační povinnost), § 17 odst. 4 (fikce doručení), § 27 odst. 4 (zřízení s BankID).
+- *Související předpisy:* § 55 a násl., § 581 OZ (omezení svéprávnosti, zastoupení); procesní řády (§ 50d OSŘ — neúčinnost doručení).
+- *Judikatura:* obecně přijímaný závěr, že zpětné znepřístupnění DS anuluje fikci doručení, k níž došlo po rozhodné události.
+
+**4. Subsumpce.** § 3 odst. 1 podmiňuje zřízení DS FO plnou svéprávností; ztratí-li ji vlastník, DS se podle § 11 odst. 1 písm. c) znepřístupní ke dni právní moci, a to i zpětně. Pokud fikce nastala až po tomto dni, znepřístupnění ji anuluje a dokument se považuje za nedoručený. Spornou okolností je, zda soud o omezení svéprávnosti informoval Agenturu a kdy reálně k znepřístupnění došlo.
+
+**5. Řešení.** Opatrovník doloží Agentuře (přes soud) datum právní moci rozhodnutí; Agentura DS zpětně znepřístupní ke dni právní moci. Fikce doručení, k níž došlo po tomto dni, je anulována; OVM musí doručit znovu zákonnému zástupci. Procesně lze paralelně podat žádost o určení neúčinnosti doručení (§ 17 odst. 5 ve spojení s § 50d OSŘ). Riziko: prodleva mezi právní mocí a faktickým znepřístupněním (Agentura se o události dozví se zpožděním).
+
+**6. Varianty.** (a) Kdyby k fikci došlo před nabytím právní moci rozhodnutí o omezení svéprávnosti, doručení by zůstalo platné (osoba byla v té době svéprávná). (b) Kdyby šlo o nezletilého, DS FO by mu vůbec nesměla být zřízena (§ 3 odst. 1) a úkony by činil zákonný zástupce.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „doručeno platně, dokud DS běžela":* Lze tvrdit, že do okamžiku faktického znepřístupnění je DS aktivní a fikce platí. Neutralizace: § 11 odst. 1 výslovně umožňuje znepřístupnění „i zpětně" ke dni rozhodné události — právě proto, aby chránilo osoby, které již nemohou odpovědně jednat.
+- *Protiargument „opatrovník měl DS sledovat":* Namítá se zanedbání kontroly DS. Neutralizace: ochrana podle § 11 odst. 1 písm. c) je objektivní, váže se na právní moc rozhodnutí, nikoli na bdělost opatrovníka.
+- *Slabé místo:* Pokud soud informační povinnost (§ 16 se týká omezení svobody, nikoli svéprávnosti) nesplní bezodkladně, vzniká nejistota o okamžiku znepřístupnění; břemeno doložení nese opatrovník.
+
+### H. Praktický závěr
+
+§ 3 zakotvuje dobrovolnost DS FO, princip jedné schránky a plnou svéprávnost jako podmínku. Úředně ověřený podpis je dnes v praxi nahrazován BankID/NIA (§ 27). Ztráta svéprávnosti vede k znepřístupnění DS (§ 11), které může anulovat fikci doručení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit plnou svéprávnost žadatele a že nemá již zřízenu jinou DS FO (odst. 2, 5).
+- [ ] Při omezení svéprávnosti zajistit znepřístupnění DS ke dni právní moci (§ 11 odst. 1 písm. c).
+- [ ] Zkontrolovat, zda fikce doručení nenastala po rozhodné události — pak je anulována.
+- [ ] Pro zřízení DS FO online využít BankID/NIA (§ 27 odst. 4) namísto legalizace.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o omezení svéprávnosti s vyznačením právní moci; výpis z ISDS (datum dodání, fikce, znepřístupnění); žádost o zřízení DS a způsob ověření identity; ustanovení opatrovníka.
 
 ---
 
@@ -229,6 +337,42 @@ Odst. 4–6 řeší případy, kdy PFO není zapsána v žádné z odst. 1 nebo 
 
 Praktický význam odst. 4–6 po DEPO novele výrazně klesl — drtivá většina PFO již dostává DS ze zákona po zápisu do živnostenského rejstříku nebo profesního rejstříku.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Živnostník (OSVČ — instalatér) v lednu 2023 obdrží od Agentury dopis s přístupovými údaji k nově ex offo zřízené DS PFO (důsledek DEPO novely). OSVČ DS nikdy nepoužíval, údaje založil do šuplíku a nepřihlásil se. Po několika měsících mu finanční úřad doručí do DS výzvu k podání daňového přiznání; OSVČ se nepřihlásí a uplyne lhůta. FÚ vyměří daň podle pomůcek. OSVČ namítá, že o DS „nevěděl" a že ji nezakládal. Důkazy: doručenka k přístupovým údajům, výpis z ISDS o zpřístupnění (15. dnem), záznam o dodání výzvy a fikci.
+
+**2. Právní otázka.** Vznikají DS PFO zřízené ex offo po zápisu do živnostenského rejstříku plné právní účinky doručování (vč. fikce) i tehdy, když se vlastník nikdy aktivně nepřihlásil?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 odst. 1, 3 (ex offo zřízení DS PFO po zápisu do evidence), odst. 2 (jedna DS).
+- *Související ustanovení téhož zákona:* § 10 odst. 2 (zpřístupnění nejpozději 15. dnem po doručení přístupových údajů), § 17 odst. 4 (fikce 10 dnů), § 17 odst. 5 (neúčinnost doručení).
+- *Související předpisy:* zákon č. 261/2021 Sb. (DEPO — rozšíření DS na všechny PFO od 1. 1. 2023); zákon č. 455/1991 Sb. (živnostenský zákon, evidence); daňový řád (§ 48 odst. 3 — neúčinnost doručení).
+- *Judikatura:* NS 21 Cdo 3489/2012 — kdo má zpřístupněnou DS, má právo (a povinnost) očekávat, že mu bude do DS doručováno z úřední povinnosti, aniž by o to musel žádat.
+
+**4. Subsumpce.** § 4 odst. 1 zřizuje DS PFO ex offo; § 10 odst. 2 zpřístupní DS nejpozději 15. dnem po doručení přístupových údajů i bez přihlášení. Po zpřístupnění se uplatní § 17 vč. fikce. Podmínky doručení (zpřístupněná DS, povaha dokumentu) jsou splněny. Neznalost existence DS není zákonem uznaným důvodem; sporné by bylo jen řádné doručení samotných přístupových údajů.
+
+**5. Řešení.** Doručení výzvy fikcí je platné; vyměření daně podle pomůcek je procesně v pořádku. OSVČ může zkusit žádost o určení neúčinnosti doručení (§ 48 odst. 3 DŘ), ale musel by prokázat objektivní omluvitelnou překážku — pouhá neznalost/nezájem nestačí. Praktický krok do budoucna: nastavit e-mailovou notifikaci (§ 20 odst. 1 písm. d) a pravidelně DS kontrolovat.
+
+**6. Varianty.** (a) Kdyby přístupové údaje nebyly řádně doručeny do vlastních rukou (vadná doručenka), DS by se nezpřístupnila 15. dnem a fikce výzvy by nenastala. (b) Kdyby šlo o dokument, u nějž procesní předpis vylučuje náhradní doručení, fikce by se neuplatnila (§ 17 odst. 4 i.f.).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „nevědomost vylučuje doručení":* Lze namítat, že bez vědomí o DS nemůže nastat fikce. Neutralizace: § 10 odst. 2 váže zpřístupnění objektivně na 15denní lhůtu od doručení přístupových údajů, nikoli na subjektivní vědomí; smyslem je zabránit pasivnímu bojkotu.
+- *Protiargument „DS jsem nezakládal":* U ex offo DS PFO není žádost potřebná — DS vzniká ze zákona. Neutralizace: zákonodárce DEPO novelou výslovně zvolil automatické zřízení; dobrovolnost zůstala jen u DS FO (§ 3).
+- *Slabé místo:* Slabinou žadatele je vysoký standard „omluvitelné překážky" — praxe je k subjektivním výmluvám přísná; reálná šance na úspěch žádosti o neúčinnost je nízká.
+
+### H. Praktický závěr
+
+§ 4 zavádí ex offo zřízení DS PFO po zápisu do evidence; od 1. 1. 2023 (DEPO) se týká všech OSVČ. DS se zpřístupní nejpozději 15. dnem (§ 10) a poté plně běží fikce doručení. Neznalost existence DS nechrání před fikcí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit zápis PFO do příslušné evidence (živnostenský/profesní rejstřík) jako titul vzniku DS.
+- [ ] Zkontrolovat řádné doručení přístupových údajů a datum zpřístupnění (§ 10 odst. 2).
+- [ ] Klientům-PFO nastavit notifikace a pravidelnou kontrolu DS.
+- [ ] U sporu o doručení posoudit, zda lze podat žádost o určení neúčinnosti (§ 48 DŘ / § 50d OSŘ).
+
+**Typicky rozhodné důkazy / podklady:** doručenka k přístupovým údajům; výpis z ISDS (zřízení, zpřístupnění, dodání, fikce); výpis z živnostenského/profesního rejstříku; doklad o nastavení/absenci notifikací.
+
 ---
 
 ## § 5 — Datová schránka právnické osoby
@@ -295,6 +439,42 @@ Náležitosti jsou totožné s registračními údaji v ROS — zákon záměrn�
 
 Klíčová položka **„osoba oprávněná jednat jménem PO"** (písm. d) je v praxi statutárním orgánem (jednatel s.r.o., předseda představenstva a.s., statutární ředitel družstva, předseda spolku, předseda výboru SVJ). U vícekolektivních statutárních orgánů, kde je pro jednání jménem PO třeba spolupodpisu více členů (např. dva jednatelé „společně"), je legitimní podpis kteréhokoli z nich (oprávnění jednat samostatně nebo společně neovlivňuje oprávnění k přihlášení do DS — to plyne ze samostatné úpravy § 8 odst. 3, který oprávnění k DS dává *každému* členu statutárního orgánu samostatně).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Společenství vlastníků jednotek (SVJ) bytového domu obdrží v lednu 2023 dopis s přístupovými údaji k nově ex offo zřízené DS PO (důsledek rozšíření na PO v ROS). Výbor SVJ má tři členy, jednatelské oprávnění je „společné" (dva členové podepisují společně). Předseda výboru se chce do DS přihlásit sám a převzít rozhodnutí soudu o sporu se zhotovitelem. Druhý člen výboru tvrdí, že předseda nemůže jednat sám, protože stanovy vyžadují společné jednání. Důkazy: stanovy SVJ, výpis z rejstříku SVJ o způsobu jednání, výpis z ISDS o oprávněných osobách.
+
+**2. Právní otázka.** Může se do DS PO přihlásit a převzít doručený dokument jediný člen statutárního orgánu, jednají-li podle stanov členové „společně"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 odst. 1 (ex offo zřízení DS PO zapsané v ROS), odst. 3 (jedna DS), odst. 4 písm. d) (osoba oprávněná jednat jménem PO).
+- *Související ustanovení téhož zákona:* § 8 odst. 3 (k přístupu do DS PO je oprávněn každý člen statutárního orgánu samostatně), § 18 odst. 2 (úkon přes DS, výjimka u společného jednání).
+- *Související předpisy:* § 1158 a násl. OZ (SVJ), § 164 OZ (jednání za PO); zákon č. 111/2009 Sb. (základní registry — ROS).
+- *Judikatura:* NS 27 Cdo 143/2020 — FO oprávněná jednat za PO může podat elektronicky i ze své DS; je-li z podání zřejmé, že je činí jménem PO jako člen statutárního orgánu, jde o podání PO.
+
+**4. Subsumpce.** § 8 odst. 3 přiznává oprávnění k přístupu do DS PO každému členu statutárního orgánu samostatně, bez ohledu na to, zda je jednatelské oprávnění „samostatné" či „společné". Pro převzetí (přístup k dokumentu) tedy postačí přihlášení jediného člena. Spornou okolností je naopak činění úkonu navenek (např. podání odvolání) — tam § 18 odst. 2 i.f. respektuje požadavek společného jednání.
+
+**5. Řešení.** Předseda se může do DS přihlásit sám a převzít doručené rozhodnutí — doručení nastane okamžikem jeho přihlášení (§ 17 odst. 3). Pro vlastní úkon SVJ navenek (odvolání) je však třeba dodržet společné jednání (oba členové), jinak by úkon mohl být vadný (§ 18 odst. 2 i.f.). Praktické řešení: pověřit jednoho člena/administrátora správou příchozí pošty a úkony navenek činit společně nebo na základě plné moci.
+
+**6. Varianty.** (a) Kdyby SVJ nebylo v ROS (teoreticky), DS by se zřizovala jen na žádost (§ 5 odst. 2). (b) Kdyby šlo o pouhé převzetí informativního přípisu (nikoli úkon navenek), společné jednání by se vůbec neuplatnilo.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „společné jednání platí i pro přístup":* Lze tvrdit, že vyžadují-li stanovy společné jednání, musí se přihlásit oba členové. Neutralizace: § 8 odst. 3 zakládá samostatné oprávnění k přístupu pro každého člena — jinak by se DS zablokovala; jde o lex specialis k obecné úpravě jednání PO.
+- *Protiargument „doručeno až přihlášením obou":* Námitka, že doručení nenastane, dokud se nepřihlásí oba. Neutralizace: § 17 odst. 3 váže doručení na přihlášení osoby s přístupem k dokumentu — postačí kterýkoli člen statutárního orgánu.
+- *Slabé místo:* Hranice mezi „převzetím" a „úkonem navenek" může být u některých reakcí sporná (např. potvrzení převzetí spojené s vyjádřením); riziko vadného úkonu při společném jednání.
+
+### H. Praktický závěr
+
+§ 5 je nejširší povinné ustanovení — DS PO vzniká ex offo všem PO v ROS (od 2023 i SVJ, spolkům, nadacím). Každý člen statutárního orgánu má samostatný přístup (§ 8 odst. 3), ale úkony navenek respektují případné společné jednání (§ 18 odst. 2).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit zápis PO v ROS jako titul vzniku DS PO (odst. 1).
+- [ ] Pro převzetí dokumentu postačí přihlášení jediného člena statutárního orgánu (§ 8 odst. 3).
+- [ ] Pro úkon SVJ/PO navenek respektovat způsob jednání (společné/samostatné) podle stanov a § 18 odst. 2.
+- [ ] Organizačně nastavit administrátora a pověřené osoby pro směrování příchozí pošty (§ 8 odst. 6, 7).
+
+**Typicky rozhodné důkazy / podklady:** stanovy a výpis z rejstříku (způsob jednání); výpis z ISDS o oprávněných osobách a přihlášeních; doklad o zápisu PO v ROS; případná plná moc pro samostatné jednání.
+
 ---
 
 ## § 6 — Datová schránka orgánu veřejné moci
@@ -340,6 +520,42 @@ Odst. 5 zakazuje, aby OVM měl DS jiného typu (FO, PFO, PO) — má pouze DS OV
 
 V některých případech je tento princip složitý — typicky **insolvenční správce** je v § 1 odst. 1 vymezen jako OVM, ale současně podle § 4 dostává DS PFO. Tento dualismus znamená, že insolvenční správce má dvě DS: DS PFO (jako fyzická osoba vykonávající činnost na základě licence Ministerstva spravedlnosti) a možnost DS OVM (pro úkony ve výkonu funkce v konkrétním insolvenčním řízení). Praxe se ustálila na využívání DS PFO pro veškerou komunikaci (vč. úkonů ve výkonu funkce).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Advokát podává jménem klienta odvolání ke krajskému úřadu (KÚ). KÚ má vedle hlavní DS OVM zřízeny i další DS OVM pro jednotlivé odbory (§ 6 odst. 2). Advokát odešle odvolání do DS „odboru životního prostředí", ačkoli odvolání mělo směřovat k „odboru dopravy". Úřad namítá, že odvolání bylo doručeno „nesprávné" schránce a je opožděné, neboť se k odboru dopravy dostalo až po lhůtě. Důkazy: výpis z ISDS o dodání do konkrétní DS odboru, datum odeslání, identifikátory DS KÚ.
+
+**2. Právní otázka.** Má doručení úkonu do kterékoli z více DS OVM téhož orgánu (§ 6 odst. 2) stejné právní účinky, nebo je rozhodující, zda zpráva směřovala do „věcně příslušné" DS odboru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 (bezpodmínečné zřízení DS OVM), odst. 2 (další DS pro vnitřní jednotky/agendy), odst. 5 (OVM má jen DS OVM).
+- *Související ustanovení téhož zákona:* § 18 (úkony vůči OVM), § 17 odst. 3 (doručení okamžikem přihlášení/dodání u podání vůči soudu).
+- *Související předpisy:* § 37 odst. 6 SŘ (podání lze učinit u věcně a místně příslušného správního orgánu; postoupení); § 40 SŘ (počítání lhůt).
+- *Judikatura:* NS 22 Cdo 3325/2013 — podání vůči soudu přes DS je učiněno okamžikem dodání do DS soudu; přiměřeně i pro OVM, že rozhoduje dodání do DS daného orgánu jako celku.
+
+**4. Subsumpce.** Všechny DS OVM téhož orgánu patří jednomu OVM; § 6 odst. 2 zřizuje další DS jen pro vnitřní organizaci, nikoli jako samostatné „adresáty". Z hlediska doručení je rozhodující dodání do DS daného OVM. Odeslání do „jiného odboru" je proto doručením témuž OVM. Spornou okolností je pouze vnitřní směrování, které je věcí úřadu, nikoli podatele.
+
+**5. Řešení.** Odvolání je včasné — bylo dodáno do DS KÚ (téhož OVM) v zákonné lhůtě; vnitřní přeposlání mezi odbory nemá vliv na okamžik podání. Úřad je povinen podání postoupit věcně příslušnému odboru (§ 12, § 37 odst. 6 SŘ). Riziko: pokud by KÚ nebyl vůbec příslušným správním orgánem (jiný úřad), uplatnily by se pravidla postoupení a včasnost by se posuzovala jinak.
+
+**6. Varianty.** (a) Kdyby advokát odeslal odvolání do DS zcela jiného OVM (např. obce místo KÚ), šlo by o nepříslušný orgán a včasnost by závisela na postoupení podle § 12 SŘ. (b) Kdyby starosta po volbách neměl ještě nové přístupové údaje (§ 12 odst. 3), doručování DS obce by tím nebylo dotčeno — DS funguje dál.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „každá DS odboru je samostatný adresát":* Lze tvrdit, že DS odboru je oddělené doručovací místo. Neutralizace: § 6 odst. 2 zřizuje další DS pro vnitřní potřebu téhož OVM; navenek jde stále o jeden orgán, doručení nastává dodáním do kterékoli jeho DS.
+- *Protiargument „opožděnost kvůli vnitřnímu přeposlání":* Námitka, že lhůta uplynula, než se zpráva dostala k odboru. Neutralizace: okamžik podání je dán dodáním do DS OVM; vnitřní oběh dokumentu jde k tíži úřadu, ne podatele.
+- *Slabé místo:* Argumentace selhává, pokud KÚ není věcně/místně příslušným orgánem vůbec — pak nejde o „jiný odbor", ale o jiný OVM a uplatní se režim postoupení.
+
+### H. Praktický závěr
+
+§ 7 zřizuje jednu DS pro celý ÚSC (obec, kraj) a definuje „vedoucího OVM" (hejtman/primátor/starosta) jako osobu s přímým oprávněním (§ 8 odst. 4). ÚSC může mít další DS pro odbory (§ 6 odst. 2), ale navenek vystupuje jako jeden orgán; po volbách se mění přístupové údaje (§ 12 odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda adresovaný OVM je věcně a místně příslušný (jinak hrozí postoupení a posun včasnosti).
+- [ ] Doručení/podání směřovat do DS daného OVM; vnitřní směrování řeší úřad.
+- [ ] Po komunálních/krajských volbách zajistit nové přístupové údaje vedoucímu OVM (§ 12 odst. 3).
+- [ ] U ÚSC s odbory zvážit využití dalších DS (§ 6 odst. 2) a administrátora pro směrování.
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS (identifikátor cílové DS, datum dodání); doklad o věcné/místní příslušnosti; vnitřní záznam o postoupení mezi odbory; údaj o osobě vedoucího OVM a jeho přístupových údajích.
+
 ---
 
 ## § 7 — Zvláštní ustanovení o datových schránkách orgánů územních samosprávných celků
@@ -369,6 +585,42 @@ Pražské městské části a městské části/obvody územně členěných sta
 Odst. 3 definuje pro účely DS pojem **„vedoucí OVM"** v případě ÚSC: hejtman / primátor / starosta. Tento pojem je rozhodující pro **přístup k DS** (§ 8 odst. 4) — vedoucí OVM má přímé oprávnění k přístupu do DS bez nutnosti samostatného pověření.
 
 Praktický důsledek: každý nový starosta po komunálních volbách obdrží **nové přístupové údaje** (§ 12 odst. 3 — zneplatnění starých přístupových údajů a vydání nových). Předchozí starosta automaticky ztrácí přístup k DS obce v okamžiku, kdy přestane být starostou.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Po komunálních volbách nastoupí nový starosta obce. Bývalý starosta, jehož přístupové údaje k DS obce dosud nebyly zneplatněny, se ještě týden po předání funkce přihlásí do DS obce a převezme rozhodnutí krajského úřadu adresované obci. Nový starosta dosud nepožádal Agenturu o vydání nových přístupových údajů. Vzniká spor, zda převzetí dokumentu bývalým starostou založilo doručení obci a zda úkony bývalého starosty zavazují obec. Důkazy: zápis o výsledku voleb a ustavujícím zastupitelstvu, výpis z ISDS o přihlášení bývalého starosty, doklad o (ne)oznámení změny Agentuře.
+
+**2. Právní otázka.** Kdo je „vedoucím orgánu veřejné moci" oprávněným k přístupu do DS ÚSC podle § 7 odst. 3, a jaké jsou důsledky toho, že nový starosta dosud neoznámil změnu Agentuře?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 1, 2 (jedna DS pro orgány ÚSC / městské části), odst. 3 (vedoucím OVM je hejtman/primátor/starosta).
+- *Související ustanovení téhož zákona:* § 8 odst. 4 (přístup vedoucího OVM), § 12 odst. 3 (zneplatnění údajů dosavadního a vydání nových vedoucímu OVM), § 6 odst. 2 (další DS pro ÚSC), § 17 odst. 3 (doručení přihlášením).
+- *Související předpisy:* zákon č. 128/2000 Sb. (o obcích — vznik a zánik funkce starosty, § 103 a násl.); zákon č. 491/2001 Sb. (volby do zastupitelstev obcí).
+- *Judikatura:* NS 21 Cdo 3489/2012 (doručování do zpřístupněné DS) — přiměřeně k tomu, že doručení do DS obce nastává přihlášením osoby s přístupem.
+
+**4. Subsumpce.** § 7 odst. 3 definuje vedoucího OVM u obce jako starostu; tomu náleží přístup k DS obce (§ 8 odst. 4). Zánikem funkce přestal být bývalý starosta vedoucím OVM, avšak jeho přístupové údaje se zneplatní až po oznámení nového starosty (§ 12 odst. 3). Do té doby se může fakticky přihlásit. Spornou okolností je, zda jeho přihlášení a převzetí dokumentu zakládá doručení obci a zda jeho úkony obec zavazují.
+
+**5. Řešení.** Převzetí dokumentu bývalým starostou zakládá doručení obci (doručeno do DS obce, dodáním/přihlášením — § 17 odst. 3), bez ohledu na vnitřní změnu ve funkci; jde stále o DS téhož OVM. Riziko úkonů bývalého starosty navenek nese obec, dokud nesplní povinnost dle § 12 odst. 3. Praktický krok: nový starosta neprodleně oznámí Agentuře nástup do funkce, nechá zneplatnit údaje předchůdce a vydat nové; bývalý starosta má ihned přestat DS používat.
+
+**6. Varianty.** (a) Kdyby šlo o městskou část hl. m. Prahy, vedoucím OVM by byl starosta městské části (§ 7 odst. 3), ale o další DS žádá územně členěné statutární město jako celek (odst. 2). (b) Kdyby měl ÚSC další DS pro odbory (§ 6 odst. 2), doručení do kterékoli z nich by bylo doručením témuž OVM.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „bývalý starosta nebyl oprávněn, doručení neplatí":* Lze tvrdit, že po zániku funkce nemohl platně převzít. Neutralizace: doručení nastává dodáním/přihlášením do DS obce (§ 17 odst. 3); dokud nedošlo k zneplatnění údajů (§ 12 odst. 3), je přihlášení technicky možné a doručení obci nastává.
+- *Protiargument „Agentura měla údaje zneplatnit sama":* Námitka automatického zneplatnění. Neutralizace: § 12 odst. 3 podmiňuje zneplatnění oznámením nového vedoucího OVM/administrátora — iniciativa leží na ÚSC.
+- *Slabé místo:* Úkony bývalého starosty navenek (nikoli pouhé převzetí) mohou vyvolat spor o zavázání obce; ochrana dobré víry třetích osob naráží na veřejnou dohledatelnost výsledku voleb.
+
+### H. Praktický závěr
+
+§ 7 zřizuje jednu DS pro orgány celého ÚSC (obec, kraj) i pro pražské městské části a části/obvody statutárních měst (s tím, že o další DS žádá statutární město jako celek) a definuje „vedoucího OVM" (hejtman/primátor/starosta) jako osobu s přímým oprávněním (§ 8 odst. 4). Po volbách je nutné neprodleně oznámit změnu Agentuře a vyměnit přístupové údaje (§ 12 odst. 3).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Po volbách neprodleně oznámit Agentuře změnu vedoucího OVM a nechat zneplatnit údaje předchůdce (§ 12 odst. 3).
+- [ ] Bývalý vedoucí OVM má okamžitě přestat DS používat.
+- [ ] Doručení do DS obce posuzovat jako doručení OVM bez ohledu na vnitřní změnu funkce (§ 17 odst. 3).
+- [ ] U pražských částí a statutárních měst zohlednit, kdo žádá o další DS (§ 7 odst. 2, § 6 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** zápis o výsledku voleb a ustavujícím zastupitelstvu; doklad o oznámení změny Agentuře; výpis z ISDS o přihlášeních a přístupových údajích; identifikace osoby vedoucího OVM v rozhodné době.
 
 ---
 
@@ -453,6 +705,42 @@ Odst. 9 zakotvuje dvě obecné povinnosti všech oprávněných osob: (a) nezneu
 
 > **Praxe:** Při ztrátě/odcizení přístupových údajů nebo přihlašovacího zařízení (typicky čipová karta, mobilní telefon s BankID) je rychlost oznámení klíčová — Agentura zneplatní údaje **neprodleně po oznámení** (§ 12 odst. 1) a zašle nové. Dokud k zneplatnění nedošlo, mohou útočníci posílat z DS úkony, které mají právní účinky úkonů vlastníka (§ 18 odst. 2).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Jednatel s.r.o. pověří asistentku jako pověřenou osobu s rozsahem „příchozí pošta", ale výslovně jí neudělí přístup k dokumentům určeným do vlastních rukou. Soud doručí do DS společnosti rozhodnutí (do vlastních rukou) ve sporu o zaplacení. Asistentka se do DS běžně přihlašuje, ale dokument „do vlastních rukou" nevidí; jednatel je delší dobu v zahraničí a nepřihlásí se. 10. den nastane fikce doručení a uplyne lhůta k odvolání. Jednatel namítá, že se k dokumentu nikdo oprávněný nedostal. Důkazy: nastavení rozsahu pověření v ISDS, výpis o přihlášeních asistentky, datum dodání a fikce.
+
+**2. Právní otázka.** Aktivuje přihlášení pověřené osoby bez oprávnění k dokumentům do vlastních rukou doručení takového dokumentu, a brání absence tohoto oprávnění vzniku fikce doručení podle § 17 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 odst. 6 (pověřená osoba v stanoveném rozsahu), odst. 8 (přístup k dokumentům do vlastních rukou jen na zvláštní pokyn), odst. 5 (rozsah přístupu oprávněných osob zahrnuje i dokumenty do vlastních rukou).
+- *Související ustanovení téhož zákona:* § 17 odst. 3 (doručení okamžikem přihlášení osoby s přístupem k dokumentu), § 17 odst. 4 (fikce 10 dnů), § 19 odst. 2 (vyznačení „do vlastních rukou").
+- *Související předpisy:* § 50d OSŘ (neúčinnost doručení); procesní řády o doručování do vlastních rukou.
+- *Judikatura:* NS 27 Cdo 143/2020 (oprávnění a podpis při jednání za PO z DS); obecný závěr, že fikce běží od dodání bez ohledu na to, zda se oprávněná osoba reálně přihlásila.
+
+**4. Subsumpce.** Asistentka jako pověřená osoba bez oprávnění k dokumentům do vlastních rukou (§ 8 odst. 8) nemá k takovému dokumentu přístup; její přihlášení proto doručení neaktivuje (§ 17 odst. 3 vyžaduje osobu „s přístupem k dodanému dokumentu"). Fikce doručení podle § 17 odst. 4 však běží od dodání zprávy nezávisle na tom, zda se oprávněná osoba přihlásila. Podmínka „zpřístupněná DS" je splněna; spornou okolností je jen omluvitelnost nepřítomnosti jednatele.
+
+**5. Řešení.** Fikce doručení 10. dnem je platná — absence oprávnění asistentky nebrání jejímu běhu, pouze znamená, že „skutečné" doručení přihlášením asistentky nenastalo. Jednatel mohl a měl zajistit přístup oprávněné osoby (sebe, jiného člena statutárního orgánu, nebo pověřené osoby s oprávněním do vlastních rukou). Procesně lze zkusit žádost o určení neúčinnosti (§ 50d OSŘ), ale úspěch je nejistý. Praktické řešení: pověřené osobě udělit oprávnění k dokumentům do vlastních rukou, nebo nastavit zástup po dobu nepřítomnosti.
+
+**6. Varianty.** (a) Kdyby jednatel udělil asistentce oprávnění i k dokumentům do vlastních rukou (§ 8 odst. 8), její přihlášení by doručení aktivovalo dříve (§ 17 odst. 3). (b) Kdyby šlo o dokument, u nějž procesní předpis vylučuje náhradní doručení, fikce by se vůbec neuplatnila (§ 17 odst. 4 i.f.).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „bez oprávnění nemůže nastat doručení":* Lze tvrdit, že nemá-li nikdo přihlášený přístup k dokumentu, nelze jej doručit ani fikcí. Neutralizace: § 17 odst. 4 váže fikci na uplynutí 10 dnů od dodání, nikoli na přístup konkrétní osoby; oprávněné osoby (§ 8 odst. 1–5) přístup k dokumentům do vlastních rukou vždy mají.
+- *Protiargument „nepřítomnost jednatele je omluvitelná":* Námitka vyšší moci / dovolené. Neutralizace: praxe k subjektivním překážkám přistupuje přísně; pracovní cesta není zpravidla omluvitelnou překážkou, lze-li zajistit zástup.
+- *Slabé místo:* Pokud bylo pověření chybně nastaveno v ISDS (technická vada na straně Agentury), může vzniknout spor o to, zda asistentka přístup měla mít — to by bylo nutné doložit logy ISDS.
+
+### H. Praktický závěr
+
+§ 8 rozlišuje tři vrstvy přístupu: oprávněná osoba (vlastník, plný přístup vč. dokumentů do vlastních rukou), pověřená osoba (omezený rozsah, k dokumentům do vlastních rukou jen na zvláštní pokyn, odst. 8) a administrátor (správa schránky, odst. 7). Fikce doručení běží nezávisle na tom, zda má pověřená osoba přístup k dokumentu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nastavit rozsah pověření vědomě — zejména zda pověřená osoba smí k dokumentům do vlastních rukou (§ 8 odst. 8).
+- [ ] Zajistit, aby se po dobu nepřítomnosti vlastníka do DS přihlašovala oprávněná osoba (riziko fikce).
+- [ ] U PO pamatovat, že každý člen statutárního orgánu má samostatný přístup (§ 8 odst. 3).
+- [ ] Při ztrátě/kompromitaci údajů neprodleně oznámit Agentuře (§ 8 odst. 9, § 12).
+
+**Typicky rozhodné důkazy / podklady:** nastavení rozsahu pověřené osoby v ISDS; logy přihlášení (§ 14 odst. 3 písm. c); datum dodání a fikce; doklad o tom, kdo byl v rozhodné době oprávněnou/pověřenou osobou.
+
 ---
 
 ## Prostředky k přístupu do datové schránky
@@ -497,6 +785,42 @@ Při porušení této povinnosti odpovídá oprávněná osoba za úkony učině
 
 Konkrétní náležitosti přístupových údajů, technické podmínky a bezpečnostní zásady stanoví Agentura **vyhláškou**. Historicky šlo o vyhlášku MV č. 194/2009 Sb., postupně novelizovanou. Po přechodu na Agenturu (2023) bude tato pravomoc vykonávána DIA.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Podnikatel si pro pohodlí poznamenal přihlašovací jméno a heslo k DS PFO na lepicí poznámku na monitoru v otevřené kanceláři. Externí pracovník údaje zneužil a z DS podnikatele odeslal finančnímu úřadu fiktivní podání. Podnikatel namítá, že podání nečinil on. Důkazy: výpis z ISDS o odeslání úkonu (datum, čas, přihlášená identita), svědectví o uložení hesla na poznámce, záznam o přístupu třetí osoby.
+
+**2. Právní otázka.** Nese vlastník DS odpovědnost za úkon učiněný z jeho DS třetí osobou, která získala přístupové údaje v důsledku porušení povinnosti chránit je podle § 9 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 (přihlašování přes přístupové údaje), odst. 2 (povinnost zacházet s údaji tak, aby nemohlo dojít ke zneužití), odst. 3 (tři způsoby přihlášení), odst. 4 (vyhláška o bezpečnosti).
+- *Související ustanovení téhož zákona:* § 18 odst. 2 (úkon přes DS má účinky písemného a podepsaného úkonu), § 8 odst. 9 (povinnost oznámit hrozící zneužití), § 12 odst. 1 (zneplatnění údajů při ztrátě/odcizení).
+- *Související předpisy:* vyhláška o náležitostech přístupových údajů a bezpečnosti (historicky vyhl. MV č. 194/2009 Sb.); zákon č. 250/2017 Sb. (kvalifikované prostředky el. identifikace — BankID/NIA); § 2910 OZ (odpovědnost za škodu).
+- *Judikatura:* obecný závěr, že úkon učiněný z DS oprávněné osoby má účinky úkonu této osoby; vlastník nese riziko nedbalého nakládání s údaji.
+
+**4. Subsumpce.** § 9 odst. 2 ukládá vlastníkovi chránit přístupové údaje tak, aby nemohlo dojít ke zneužití. Uložení hesla na viditelnou poznámku je porušením této povinnosti. Úkon učiněný z DS má podle § 18 odst. 2 účinky úkonu vlastníka. Spornou okolností je, zda úřad mohl rozpoznat, že podání nečiní oprávněná osoba (zpravidla nemohl — DS je technický nástroj).
+
+**5. Řešení.** Úkon vůči FÚ formálně vyvolal účinky jako úkon podnikatele (§ 18 odst. 2). Podnikatel je za následky odpovědný v rovině § 9 odst. 2 (porušení bezpečnostní povinnosti). Měl neprodleně po zjištění oznámit incident Agentuře (§ 8 odst. 9, § 12 odst. 1) a požádat o zneplatnění údajů a vydání nových. Vůči pachateli má nárok na náhradu škody (§ 2910 OZ) a může podat trestní oznámení. Procesně může vůči FÚ tvrdit, že podání je neúčinné pro nedostatek vůle, ale důkazní břemeno je obtížné.
+
+**6. Varianty.** (a) Kdyby podnikatel používal BankID (§ 9 odst. 3) a zařízení chránil PIN, ke zneužití by pravděpodobně nedošlo a odpovědnost za nedbalost by odpadla. (b) Kdyby incident oznámil ihned a Agentura údaje zneplatnila před odesláním fiktivního podání, úkon by nebyl proveden.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „úkon jsem nečinil, je neplatný":* Lze tvrdit, že chybí vůle vlastníka. Neutralizace: § 18 odst. 2 spojuje účinky s technickým provedením úkonu z DS oprávněné osoby; ochrana třetích osob (FÚ) převažuje, pokud vlastník porušil § 9 odst. 2.
+- *Protiargument „vyhláška nestanoví konkrétní povinnost":* Námitka, že § 9 odst. 2 je vágní. Neutralizace: standard „aby nemohlo dojít ke zneužití" je výkladově ustálen (nesdílet heslo, neukládat v plain-textu, chránit zařízení); nedbalost je zjevná.
+- *Slabé místo:* Pokud by se prokázalo, že únik nastal bez zavinění vlastníka (např. kompromitace systému Agentury), odpovědnost vlastníka by se oslabila — to vyžaduje forenzní analýzu logů.
+
+### H. Praktický závěr
+
+§ 9 zakotvuje tři rovnocenné způsoby přihlášení (přístupové údaje Agentury, elektronické prostředky Agentury, kvalifikovaný prostředek typu BankID/NIA) a obecnou povinnost chránit přístupové údaje. Úkon z DS má účinky podepsaného úkonu (§ 18 odst. 2), proto nedbalé nakládání s údaji zakládá odpovědnost vlastníka.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Preferovat přihlašování kvalifikovaným prostředkem (BankID/NIA) před statickým heslem.
+- [ ] Heslo nesdílet, neukládat v plain-textu, chránit přihlašovací zařízení (§ 9 odst. 2).
+- [ ] Při podezření na zneužití neprodleně oznámit Agentuře a požádat o zneplatnění (§ 8 odst. 9, § 12 odst. 1).
+- [ ] Při sporu o úkon zajistit výpis z ISDS o čase a identitě přihlášení.
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS o přihlášení a odeslání úkonu (datum, čas, identita); doklad o způsobu uložení/ochrany hesla; oznámení incidentu Agentuře; trestní oznámení a vyčíslení škody.
+
 ---
 
 ## § 9a
@@ -523,6 +847,42 @@ Důsledek: ISDS se stal jedním z národních identifikátorů občana — soubo
 #### Autentizace (odst. 2) a transparentnost (odst. 3)
 
 Agentura zveřejní podmínky pro vydání a použití na internetových stránkách — tj. veřejně přístupně, bez nutnosti formálního rozhodnutí.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Občan se přihlásí elektronickým prostředkem vydaným Agenturou (mobilní identita ISDS) k portálu třetí strany (MOJE daně) a podá daňové přiznání. Později finanční úřad zpochybní, že přiznání podala skutečně tato osoba, a tvrdí, že identita „přes ISDS" nemá dostatečnou úroveň záruky. Občan namítá, že Agentura podle § 9a zajišťuje autentizaci držitele i pro jiné účely než přihlášení do DS. Důkazy: zveřejněné podmínky pro vydání a použití prostředku (odst. 3), záznam o autentizaci, zařazení prostředku do kvalifikovaného systému el. identifikace.
+
+**2. Právní otázka.** Má elektronický prostředek vydaný Agenturou podle § 9a účinky kvalifikovaného prostředku pro elektronickou identifikaci i mimo přihlášení do datové schránky?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9a odst. 1 (vydávání prostředku i pro identifikaci v jiných případech), odst. 2 (Agentura zajišťuje autentizaci), odst. 3 (zveřejnění podmínek a bezpečnostních opatření).
+- *Související ustanovení téhož zákona:* § 9 odst. 3 (elektronické prostředky jako jeden ze způsobů přihlášení), § 14a (přístupové rozhraní pro poskytovatele internetových služeb).
+- *Související předpisy:* zákon č. 250/2017 Sb. (o elektronické identifikaci) a eIDAS (nařízení 910/2014) — úrovně záruky „značná/vysoká".
+- *Judikatura:* obecně přijímaný závěr, že prostředek v kvalifikovaném systému el. identifikace má účinky stanovené zákonem o el. identifikaci a eIDAS.
+
+**4. Subsumpce.** § 9a otevírá ISDS jako kvalifikovaný systém el. identifikace; prostředek vydaný Agenturou slouží k autentizaci držitele i mimo přihlášení do DS (odst. 1). Autentizaci zajišťuje Agentura (odst. 2). Pokud je prostředek součástí kvalifikovaného systému, má účinky podle zákona č. 250/2017 Sb. Spornou okolností je jen úroveň záruky konkrétního prostředku, kterou určují zveřejněné podmínky (odst. 3).
+
+**5. Řešení.** Identifikace přes prostředek ISDS podle § 9a je rovnocenná ověření totožnosti pro účely podání u portálů VS (MOJE daně, Portál občana), odpovídá-li úrovni záruky požadované danou službou. Námitka FÚ o nedostatečné záruce neobstojí, je-li prostředek zařazen do kvalifikovaného systému. Praktický krok: doložit zveřejněné podmínky a úroveň záruky prostředku (odst. 3).
+
+**6. Varianty.** (a) Kdyby služba vyžadovala úroveň „vysoká" a prostředek poskytoval jen „značnou", identifikace by pro danou službu nestačila. (b) Kdyby šlo o pouhé přihlášení do DS, postačil by režim § 9 odst. 3 bez potřeby § 9a.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „ISDS-identita platí jen pro DS":* Lze tvrdit, že prostředek slouží výhradně k přihlášení do DS. Neutralizace: § 9a odst. 1 výslovně rozšiřuje použití na autentizaci „v jiných případech, než je přihlášení do datové schránky".
+- *Protiargument „chybí zákonný podklad pro účinky navenek":* Námitka, že ZDS neupravuje účinky identifikace u třetích stran. Neutralizace: účinky plynou ze zákona č. 250/2017 Sb. a eIDAS; § 9a jen umožňuje, aby Agentura prostředek vydala a autentizaci zajišťovala.
+- *Slabé místo:* Úroveň záruky není určena v § 9a, ale ve zveřejněných podmínkách (odst. 3) — bez jejich doložení je obtížné prokázat dostatečnost pro konkrétní službu.
+
+### H. Praktický závěr
+
+§ 9a umožňuje, aby prostředek vydaný Agenturou sloužil jako kvalifikovaný prostředek pro elektronickou identifikaci i mimo přihlášení do DS (Portál občana, MOJE daně, služby třetích stran). Účinky a úroveň záruky se řídí zákonem o elektronické identifikaci a zveřejněnými podmínkami.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda použitý prostředek je součástí kvalifikovaného systému el. identifikace (§ 9a, zákon č. 250/2017 Sb.).
+- [ ] Doložit zveřejněné podmínky a úroveň záruky prostředku (odst. 3).
+- [ ] Porovnat úroveň záruky prostředku s úrovní požadovanou cílovou službou.
+- [ ] U sporu o identitu vyžádat záznam Agentury o autentizaci (odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** zveřejněné podmínky pro vydání/použití prostředku (odst. 3); záznam o autentizaci držitele; doklad o zařazení prostředku do kvalifikovaného systému; specifikace požadované úrovně záruky služby.
 
 ---
 
@@ -561,6 +921,42 @@ Přístupové údaje **musí být doručeny do vlastních rukou adresáta** — 
 #### Žádost o přístupové údaje (odst. 1 věta druhá)
 
 Pokud byla DS zřízena způsobem podle § 27 odst. 4 (tj. s využitím přístupu pomocí kvalifikovaného prostředku — typicky BankID), Agentura **automaticky neposílá** přístupové údaje papírem. Pošle je pouze na žádost. Důvod: vlastník se může přihlásit svou bankovní identitou, dodatečné údaje jsou redundantní. Žádost má smysl tehdy, když vlastník chce mít „záložní" přístup pro případ, že by ztratil BankID.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Nově založené SVJ obdrží od Agentury obálku s pruhem (do vlastních rukou) obsahující přístupové údaje k DS PO. Předseda výboru obálku převezme 3. března, ale nepřihlásí se (neví, co s tím). 16. března (15. den po doručení údajů) se DS automaticky zpřístupní. 20. března soud doručí do DS rozhodnutí; nikdo se nepřihlásí a 30. března nastane fikce. SVJ namítá, že DS „nikdy nezprovozovalo". Důkazy: doručenka k přístupovým údajům (3. 3.), výpis z ISDS o zpřístupnění (16. 3.), datum dodání rozhodnutí (20. 3.) a fikce (30. 3.).
+
+**2. Právní otázka.** Nastává zpřístupnění DS (a tedy možnost doručovat s účinky fikce) i bez prvního přihlášení vlastníka, uplynutím 15denní lhůty od doručení přístupových údajů podle § 10 odst. 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 (doručení přístupových údajů do vlastních rukou), odst. 2 (zpřístupnění prvním přihlášením, nejpozději 15. dnem).
+- *Související ustanovení téhož zákona:* § 17 (doručování OVM, fikce 10 dnů), § 11 (znepřístupnění), § 27 odst. 4 (zřízení s BankID — údaje jen na žádost).
+- *Související předpisy:* zákon o poštovních službách (doručení obálky); § 23, § 24 SŘ (uložení a fikce doručení přístupových údajů).
+- *Judikatura:* NS 21 Cdo 3489/2012 — kdo má zpřístupněnou DS, musí očekávat doručování do ní; není třeba o doručení žádat.
+
+**4. Subsumpce.** § 10 odst. 2 stanoví, že DS je zpřístupněna prvním přihlášením, nejpozději 15. dnem po doručení přístupových údajů. Údaje byly doručeny 3. 3.; 15. den (16. 3.) DS zpřístupněna i bez přihlášení. Od 16. 3. lze doručovat s plnými účinky (§ 17). Rozhodnutí dodané 20. 3. tedy bylo doručeno fikcí 30. 3. Spornou okolností je pouze řádnost doručení přístupových údajů (zda obálka byla skutečně převzata/uložena).
+
+**5. Řešení.** Doručení rozhodnutí fikcí je platné — automatické zpřístupnění 15. dnem brání pasivnímu bojkotu. SVJ se nemůže dovolávat toho, že DS „neprovozovalo". Procesně lze zkusit žádost o určení neúčinnosti (§ 50d OSŘ / § 24 odst. 2 SŘ), ale jen při prokázané omluvitelné překážce. Praktický krok: po převzetí přístupových údajů se neprodleně přihlásit, nastavit notifikace a delegovat správu (administrátor, pověřená osoba).
+
+**6. Varianty.** (a) Kdyby DS byla zřízena s BankID podle § 27 odst. 4 a vlastník nepožádal o zaslání údajů, zpřístupnila by se prvním přihlášením, nejpozději 15. dnem po zřízení (§ 10 odst. 2 věta druhá). (b) Kdyby přístupové údaje nebyly řádně doručeny (vadná doručenka), 15denní lhůta by neběžela a fikce rozhodnutí by nenastala.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „bez přihlášení není zpřístupnění":* Lze tvrdit, že DS je zpřístupněna až prvním přihlášením. Neutralizace: § 10 odst. 2 výslovně stanoví náhradní zpřístupnění 15. dnem po doručení údajů — i bez přihlášení.
+- *Protiargument „neznalost vylučuje doručení":* Námitka, že vlastník nevěděl, co s údaji. Neutralizace: § 10 chrání právní jistotu odesílatelů; subjektivní neznalost není omluvitelnou překážkou.
+- *Slabé místo:* Celý mechanismus stojí na řádném doručení přístupových údajů do vlastních rukou; vada doručenky (sporné převzetí) může zvrátit počátek 15denní lhůty — to je nutné prověřit.
+
+### H. Praktický závěr
+
+§ 10 zavádí klíčové rozlišení zřízení vs. zpřístupnění: doručovat lze až do zpřístupněné DS, k němuž dojde prvním přihlášením, nejpozději 15. dnem po doručení přístupových údajů (i bez přihlášení). Pro DS zřízené s BankID se údaje papírem zasílají jen na žádost.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda je DS adresáta v okamžiku odeslání zpřístupněná (nejen zřízená).
+- [ ] Zkontrolovat řádné doručení přístupových údajů do vlastních rukou a datum počátku 15denní lhůty.
+- [ ] Po převzetí přístupových údajů se neprodleně přihlásit a nastavit notifikace.
+- [ ] U DS zřízené s BankID počítat s tím, že papírové údaje přijdou jen na žádost (§ 10 odst. 1 věta druhá).
+
+**Typicky rozhodné důkazy / podklady:** doručenka k přístupovým údajům; výpis z ISDS (zřízení, zpřístupnění, dodání, fikce); doklad o způsobu zřízení DS (žádost/BankID/ex offo); údaj o nastavení notifikací.
 
 ---
 
@@ -623,6 +1019,42 @@ Při znepřístupnění DS Agentura zastaví dodávání nových zpráv. Zprávy
 - Pokud bylo dodáno **před** dnem znepřístupnění (i zpětného) a uplynulo 10 dnů → fikce doručení platí.
 - Pokud bylo dodáno **po** dni znepřístupnění (zpětně) → dokument se považuje za nedoručený a OVM musí doručit znovu jinou cestou.
 
+### F. Kazuistika
+
+**1. Modelová situace.** OSVČ zemře 5. května. Finanční úřad, který o úmrtí neví, doručí 10. května do jeho DS PFO rozhodnutí o doměření daně; nikdo se nepřihlásí a 20. května nastane fikce doručení. Dědic (syn) později zjistí, že rozhodnutí nabylo právní moci a je vykonatelné. Agentura se o úmrtí dozví ze základního registru obyvatel až 1. června a DS znepřístupní zpětně ke dni úmrtí (5. 5.). Důkazy: úmrtní list, výpis z ISDS o dodání (10. 5.), fikci (20. 5.) a o zpětném znepřístupnění ke dni 5. 5.
+
+**2. Právní otázka.** Anuluje zpětné znepřístupnění DS ke dni úmrtí podle § 11 odst. 1 fikci doručení, k níž došlo v období mezi úmrtím a faktickým znepřístupněním?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 odst. 1 písm. a) (znepřístupnění DS FO/PFO ke dni úmrtí, „případně i zpětně"), odst. 2 (znepřístupnění ke dni výmazu z evidence).
+- *Související ustanovení téhož zákona:* § 17 odst. 4 (fikce doručení), § 13 (zrušení DS po 3 letech), § 8 (oprávněné osoby).
+- *Související předpisy:* § 71 a násl. OZ (prohlášení za mrtvého); zákon č. 111/2009 Sb. (registr obyvatel — zdroj informace o úmrtí); daňový řád (přechod daňové povinnosti na dědice, § 239a a násl.).
+- *Judikatura:* obecně přijímaný závěr, že zpětné znepřístupnění DS „anuluje" fikci doručení, která by jinak nastala po rozhodné události.
+
+**4. Subsumpce.** § 11 odst. 1 písm. a) umožňuje znepřístupnit DS ke dni úmrtí „i zpětně". Úmrtí nastalo 5. 5.; rozhodnutí bylo dodáno 10. 5. (tj. po dni úmrtí). Zpětné znepřístupnění ke dni 5. 5. způsobuje, že dokumenty dodané po tomto dni se považují za nedoručené. Fikce z 20. 5. je tedy anulována. Spornou okolností je pouze přesné datum úmrtí a okamžik, k němuž Agentura znepřístupnila.
+
+**5. Řešení.** Fikce doručení z 20. 5. je anulována zpětným znepřístupněním ke dni úmrtí; rozhodnutí o doměření se vůči zůstaviteli považuje za nedoručené. FÚ musí doručit znovu — v daňovém řízení dědici jako právnímu nástupci (§ 239a DŘ). Praktický krok: dědic doloží úmrtní list a vyžádá si potvrzení Agentury o zpětném znepřístupnění; v daňovém řízení uplatní, že právní moc nenastala.
+
+**6. Varianty.** (a) Kdyby fikce nastala před dnem úmrtí (např. dodání 25. 4., fikce 5. 5. = den úmrtí), doručení by zůstalo platné. (b) Kdyby šlo o DS PO zřízenou zákonem, znepřístupnila by se dnem zrušení PO (§ 11 odst. 3), nikoli výmazu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „doručeno platně, než došlo k znepřístupnění":* Lze tvrdit, že do faktického znepřístupnění DS běží a fikce platí. Neutralizace: § 11 odst. 1 výslovně připouští znepřístupnění „i zpětně" ke dni úmrtí — právě proto, aby anulovalo fikci v mezidobí.
+- *Protiargument „dvojí znepřístupnění za rok blokuje zpřístupnění":* U fakultativního znepřístupnění (odst. 5–7) namítá protistrana zneužití (vypínání DS). Neutralizace: pojistka odst. 7 (po dvojím znepřístupnění za rok lze zpřístupnit nejdříve po roce) se týká jen znepřístupnění na žádost, ne obligatorního dle odst. 1.
+- *Slabé místo:* Časová prodleva mezi úmrtím a tím, kdy se Agentura o něm dozví, vytváří přechodné období nejistoty; dědic nese důkazní břemeno k datu úmrtí.
+
+### H. Praktický závěr
+
+§ 11 obsahuje taxativní katalog obligatorního znepřístupnění (úmrtí, omezení svéprávnosti/svobody, výmaz z evidence, zrušení OVM) a fakultativní znepřístupnění na žádost s pojistkou proti opakovanému zneužití (odst. 7). Klíčová je možnost zpětného znepřístupnění, které anuluje fikci doručení v mezidobí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U zemřelých/zaniklých subjektů prověřit, zda nedošlo (i zpětně) ke znepřístupnění DS ke dni rozhodné události.
+- [ ] Posoudit, zda fikce doručení nastala před nebo po dni znepřístupnění (rozhoduje o platnosti).
+- [ ] Při fakultativním znepřístupnění hlídat pojistku odst. 7 (1 rok po dvojím znepřístupnění).
+- [ ] Dědicům/nástupcům zajistit přístup k dodaným dokumentům před zrušením DS (§ 13 — 3 roky).
+
+**Typicky rozhodné důkazy / podklady:** úmrtní list / rozhodnutí o prohlášení za mrtvého / výmaz z evidence; výpis z ISDS o dodání, fikci a znepřístupnění (vč. zpětného data); doklad o právním nástupnictví (dědictví, likvidace).
+
 ---
 
 ## § 12 — Zneplatnění přístupových údajů
@@ -655,6 +1087,42 @@ Pozor na terminologii:
 3. **Změna statutárního orgánu / vedoucího OVM (odst. 3)** — dosavadní statutář / starosta přestal být v funkci. Nový statutář / starosta oznámí Agentuře tuto skutečnost; Agentura **zneplatní staré** údaje (starý statutář ztratí přístup) a **vydá nové** pro nového statutáře. Mechanismus odst. 3 je v praxi často podceňovaný — bývalí jednatelé, kteří nedostali zprávu o své „dezautorizaci", občas mívají dál fyzicky přístup, dokud Agentura nezablokuje účet.
 
 > **Praxe komunálních voleb:** Každé čtyři roky se masově mění starostové. Noví starostové jsou povinni neprodleně oznámit Agentuře nástup do funkce, aby získali přístupové údaje k DS obce. Bývalí starostové by měli ihned přestat DS používat — pokud by si zachovali přístup a podávali úkony, formálně by je činili jako neoprávněná osoba, ale jejich úkony by stejně mohly mít právní účinky (§ 18 odst. 2 vychází z účinků DS jako technického nástroje).
+
+### F. Kazuistika
+
+**1. Modelová situace.** Valná hromada s.r.o. odvolá jednatele A a jmenuje jednatele B. Nový jednatel B však zapomene oznámit Agentuře změnu statutárního orgánu. Odvolaný jednatel A, jehož přístupové údaje nebyly zneplatněny, se po měsíci přihlásí do DS společnosti a odešle jménem firmy závazné podání (objednávku). Společnost namítá, že A už nebyl jednatelem a úkon je neplatný. Důkazy: zápis z valné hromady a výpis z OR o změně jednatele, výpis z ISDS o přihlášení A a odeslání úkonu, doklad o (ne)oznámení Agentuře.
+
+**2. Právní otázka.** Zachovává si odvolaný člen statutárního orgánu fakticky přístup do DS PO, dokud Agentura nezneplatní jeho přístupové údaje podle § 12 odst. 3, a jaké účinky má úkon učiněný v mezidobí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 odst. 3 (zneplatnění údajů statutárního orgánu, přestane-li jím být, neprodleně po oznámení novým statutárním orgánem/administrátorem).
+- *Související ustanovení téhož zákona:* § 8 odst. 3 (oprávnění k DS PO náleží statutárnímu orgánu), § 18 odst. 2 (účinky úkonu z DS), § 11 (rozdíl znepřístupnění DS vs. zneplatnění údajů).
+- *Související předpisy:* § 164 OZ a § 198 ZOK (zánik funkce jednatele); § 47 a násl. ZVR (zápis do OR — deklaratorní účinky u jednatele).
+- *Judikatura:* NS 27 Cdo 143/2020 (jednání za PO z DS); obecný závěr, že úkon z DS PO činěný osobou bez funkce může mít účinky vůči dobrověrné třetí osobě.
+
+**4. Subsumpce.** § 12 odst. 3 váže zneplatnění starých údajů na oznámení nového statutárního orgánu. Dokud oznámení nedojde, Agentura údaje A nezneplatní a A se může fakticky přihlásit. Materiálně A přestal být oprávněnou osobou zánikem funkce; úkon učiněný A je úkonem neoprávněné osoby. Spornou okolností je dobrá víra třetí osoby (dodavatele), která jednala s důvěrou v DS společnosti.
+
+**5. Řešení.** Společnost měla povinnost neprodleně oznámit změnu Agentuře (§ 12 odst. 3) a sama nese riziko z prodlení. Úkon A může vyvolat účinky vůči dobrověrnému dodavateli (§ 18 odst. 2 vychází z DS jako technického nástroje; ochrana dobré víry). Vnitřně má společnost nárok na náhradu škody vůči A. Praktický krok: neprodleně oznámit Agentuře změnu jednatele, nechat zneplatnit údaje A a vydat nové údaje B; změnu promítnout do OR.
+
+**6. Varianty.** (a) Kdyby společnost oznámila změnu Agentuře ihned a údaje A byly zneplatněny, A by se nepřihlásil a úkon by nevznikl. (b) Kdyby šlo o ztrátu/odcizení údajů (odst. 1), Agentura by je zneplatnila neprodleně po oznámení vlastníka a vydala nové.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „úkon neplatný, A nebyl jednatelem":* Lze tvrdit, že po zániku funkce A nemohl zavázat společnost. Neutralizace: zápis jednatele v OR má deklaratorní povahu a § 18 odst. 2 chrání třetí osoby jednající v důvěře v DS; vnitřní odvolání nemusí být navenek seznatelné.
+- *Protiargument „Agentura měla údaje zneplatnit sama":* Námitka, že zneplatnění mělo proběhnout automaticky. Neutralizace: § 12 odst. 3 podmiňuje zneplatnění oznámením nového statutárního orgánu/administrátora — iniciativa leží na PO, ne na Agentuře.
+- *Slabé místo:* Postavení dobré víry dodavatele může být zpochybněno, pokud věděl/měl vědět o změně jednatele (např. z veřejného OR) — pak ochrana § 18 odst. 2 slábne.
+
+### H. Praktický závěr
+
+§ 12 odlišuje zneplatnění přístupových údajů (DS funguje dál, jen konkrétní osoba se nepřihlásí) od znepřístupnění DS (§ 11 — celá DS „vypnuta"). Klíčový praktický bod: změnu statutárního orgánu/vedoucího OVM je třeba neprodleně oznámit Agentuře, jinak odvolaná osoba fakticky podrží přístup.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Při změně jednatele/člena představenstva/starosty neprodleně oznámit Agentuře a nechat zneplatnit staré údaje (§ 12 odst. 3).
+- [ ] Při ztrátě/odcizení údajů ihned oznámit a požádat o nové (§ 12 odst. 1).
+- [ ] Při zrušení pověření pověřené osoby zajistit zneplatnění jejích údajů (§ 12 odst. 2).
+- [ ] Rozlišovat zneplatnění údajů (§ 12) od znepřístupnění DS (§ 11) — mají různé účinky na doručování.
+
+**Typicky rozhodné důkazy / podklady:** zápis o změně statutárního orgánu a výpis z OR; oznámení Agentuře a doklad o jeho doručení; výpis z ISDS o přihlášení a úkonu odvolané osoby; doklad o dobré víře třetí osoby.
 
 ---
 
@@ -695,6 +1163,42 @@ Smyslem 3letého období je umožnit:
 V období mezi (1) a (2) lze do DS přihlašovat (na žádost zpřístupnit zpětně — odst. 7 § 11) a vyzvedávat dokumenty.
 
 > **Dědické řízení:** Vstup notáře jako soudního komisaře do DS zemřelé FO je v praxi řešen tak, že notář si vyžádá výpis ze schránky pro účely projednání pozůstalosti (zákon o zvláštních řízeních soudních + interní postup Agentury). Datová zpráva po smrti zůstavitele přijde do DS — pozůstalí dědicové ji mohou přečíst po formálním zpřístupnění.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Dva roky po smrti zůstavitele (OSVČ) zjistí dědic, že do jeho DS PFO byla po úmrtí dodána důležitá datová zpráva (faktura od obchodního partnera s uznáním dluhu vůči pozůstalosti). DS byla po úmrtí znepřístupněna (§ 11), ale dosud nebyla zrušena. Dědic potřebuje obsah zprávy jako důkaz v řízení o pozůstalosti. Důkazy: úmrtní list, výpis z ISDS o existenci a stavu DS, doklad o dědickém právu.
+
+**2. Právní otázka.** Lze v období mezi znepřístupněním (§ 11) a zrušením DS (§ 13) získat přístup k dokumentům dodaným do DS zemřelé osoby, a do kdy?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 písm. a) (zrušení DS FO po 3 letech ode dne úmrtí), písm. b)–d) (PFO, PO, OVM — rovněž 3 roky).
+- *Související ustanovení téhož zákona:* § 11 odst. 1, 7 (znepřístupnění, případně zpětné zpřístupnění na žádost), § 14 odst. 3 (údaje vedené v ISDS), § 20 odst. 4 (doba uložení zprávy).
+- *Související předpisy:* zákon č. 292/2013 Sb. (ZŘS — řízení o pozůstalosti, notář jako soudní komisař); § 1475 a násl. OZ (dědické právo).
+- *Judikatura:* obecně přijímaný postup, že notář jako soudní komisař si pro účely pozůstalosti vyžádá výpis/zpřístupnění obsahu DS zůstavitele.
+
+**4. Subsumpce.** § 13 stanoví 3letou ochrannou lhůtu od úmrtí, po jejímž uplynutí se DS zruší (smaže obsah). V mezidobí DS sice je znepřístupněna (§ 11), ale lze ji na žádost zpřístupnit zpět (§ 11 odst. 7) a vyzvednout dokumenty. Spornou okolností je legitimace dědice/notáře k přístupu a to, zda obsah konkrétní zprávy nebyl mezitím smazán dle § 20 odst. 4 (doba uložení).
+
+**5. Řešení.** Protože od úmrtí neuplynuly 3 roky, DS dosud existuje (§ 13 a contrario). Notář jako soudní komisař si vyžádá zpřístupnění/výpis obsahu DS pro účely projednání pozůstalosti; dědicové mohou zprávu přečíst po formálním zpřístupnění. Praktický krok: jednat před uplynutím 3leté lhůty; pozor, že vlastní obsah zprávy mohl být smazán po uplynutí doby uložení (§ 20 odst. 4) — pak je nutné rekonstruovat obsah od odesílatele.
+
+**6. Varianty.** (a) Kdyby od úmrtí uplynuly více než 3 roky, DS by byla zrušena a obsah nenávratně smazán — důkaz by bylo nutné získat jinak (od odesílatele). (b) Kdyby šlo o PO zaniklou výmazem, lhůta 3 let by běžela ode dne zániku/výmazu (§ 13 písm. c).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „znepřístupněnou DS nelze otevřít":* Lze tvrdit, že po znepřístupnění je obsah nedostupný. Neutralizace: § 11 odst. 7 umožňuje zpřístupnit DS zpět na žádost; § 13 zachovává DS po 3 roky právě pro doběhové úkony nástupců.
+- *Protiargument „obsah už je smazán":* Námitka, že zpráva po době uložení zmizela. Neutralizace: § 20 odst. 4 řeší dobu uložení zprávy, nikoli existenci DS; pokud byla zpráva archivována/stažena, je k dispozici; jinak zůstává v ISDS stopa o její existenci.
+- *Slabé místo:* Souběh dvou lhůt (3 roky existence DS dle § 13 vs. doba uložení zprávy dle § 20 odst. 4) může způsobit, že DS sice existuje, ale konkrétní zpráva už ne — to je třeba ověřit předem.
+
+### H. Praktický závěr
+
+§ 13 stanoví 3letou lhůtu od úmrtí/zániku/výmazu, po níž se DS definitivně zruší. V mezidobí (po znepřístupnění dle § 11, před zrušením) lze DS na žádost zpřístupnit a vyzvednout dokumenty — což využívají dědici a notáři v pozůstalostním řízení. Pozor na odlišnou dobu uložení samotné zprávy (§ 20 odst. 4).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U zemřelých/zaniklých subjektů jednat před uplynutím 3leté lhůty dle § 13.
+- [ ] Pro přístup k dokumentům využít zpětné zpřístupnění DS na žádost (§ 11 odst. 7).
+- [ ] Ověřit, zda obsah konkrétní zprávy nebyl smazán po uplynutí doby uložení (§ 20 odst. 4).
+- [ ] V pozůstalosti zapojit notáře (soudního komisaře) pro legitimní přístup do DS zůstavitele.
+
+**Typicky rozhodné důkazy / podklady:** úmrtní list / doklad o zániku PO; výpis z ISDS o existenci a stavu DS; doklad o dědickém právu / pověření notáře; případně archivovaná datová zpráva nebo její rekonstrukce od odesílatele.
 
 ---
 
@@ -787,6 +1291,42 @@ Klíčová bezpečnostní záruka: **správce a provozovatel ISDS NEJSOU oprávn
 
 > **Výjimky?** I když by si OVM (typicky soud, BIS) přál nahlédnout do cizí DS, není to možné — musel by získat samostatný procesní titul (typicky příkaz soudu podle TŘ k zajištění obsahu od provozovatele, který by však byl jen vůči konkrétní zprávě, ne k DS jako celku). V praxi se používá doložení obsahu zprávy odesílatelem (typicky OVM, který datovou zprávu odeslal).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně dostala výpověď z pracovního poměru, kterou jí zaměstnavatel zaslal do její DS FO. Ve sporu o neplatnost výpovědi zaměstnankyně tvrdí, že se do DS přihlásila až po uplynutí výpovědní doby a že o zprávě „dlouho nevěděla". Zaměstnavatel předloží výpis z ISDS dokládající přesný okamžik dodání a den fikce doručení. Zaměstnankyně namítá, že výpis je neúplný a že provozovatel (Česká pošta) mohl do obsahu nahlížet. Důkazy: výpis z ISDS (písm. b–d) o dodání a přihlášení s přesností na sekundy, doručenka Agentury (§ 20 odst. 1 písm. e).
+
+**2. Právní otázka.** Je výpis z ISDS o datu a čase dodání a přihlášení (§ 14 odst. 3) způsobilým a dostatečným důkazem okamžiku doručení, a může správce/provozovatel ISDS nahlížet do obsahu zpráv?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 odst. 3 písm. b)–d) (evidence časů zřízení/zpřístupnění, přihlášení, odeslání s přesností na sekundy), odst. 4 (neveřejnost údajů), odst. 6 (zákaz přístupu správce a provozovatele do obsahu DS).
+- *Související ustanovení téhož zákona:* § 17 odst. 3, 4 (doručení přihlášením/fikcí), § 20 odst. 1 písm. i) (evidence událostí), § 18a (dodávání mezi osobami).
+- *Související předpisy:* § 365 zákoníku práce (forma výpovědi); § 125, § 134 OSŘ (důkaz listinou/veřejnou listinou); zákon č. 181/2014 Sb. (kybernetická bezpečnost — ISDS jako kritická infrastruktura).
+- *Judikatura:* NS 11 Co 393/2013 (počítání času podle § 57 OSŘ platí i pro doručování do DS); NS 21 Cdo 3489/2012 (doručování do zpřístupněné DS z úřední povinnosti).
+
+**4. Subsumpce.** § 14 odst. 3 ukládá vést v ISDS přesné časové údaje o přihlášení a dodání — to jsou forenzní data o doručení. Výpis z ISDS proto prokazuje okamžik dodání i přihlášení. Zákaz dle § 14 odst. 6 brání správci/provozovateli číst obsah zpráv; výpis se týká pouze metadat, nikoli obsahu. Spornou okolností je jen autenticita výpisu, kterou zajišťuje zabezpečení Agentury (§ 20 odst. 1 písm. c, e).
+
+**5. Řešení.** Výpis z ISDS je způsobilým důkazem okamžiku doručení; subjektivní tvrzení „nevěděla jsem" je proti přesné evidenci neúčinné. Námitka o nahlížení do obsahu neobstojí — § 14 odst. 6 výslovně zakazuje správci i provozovateli přístup do obsahu DS; výpis obsahuje jen metadata. Doručení výpovědi je tedy prokázáno (přihlášením nebo fikcí). Praktický krok: zaměstnavatel doloží výpis z ISDS a doručenku Agentury.
+
+**6. Varianty.** (a) Kdyby DS FO měla vypnuté soukromé dodávání (§ 18a odst. 1), výpověď by do ní vůbec nebyla dodána a doručení by muselo proběhnout jinou cestou. (b) Kdyby zaměstnankyně prokázala objektivní omluvitelnou překážku (hospitalizace), mohla by žádat o určení neúčinnosti doručení.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „provozovatel mohl obsah číst/manipulovat":* Lze zpochybnit důvěryhodnost ISDS. Neutralizace: § 14 odst. 6 zakazuje přístup správce a provozovatele do obsahu DS; ISDS je kritická infrastruktura s bezpečnostními audity (§ 14 odst. 5, zákon č. 181/2014 Sb.).
+- *Protiargument „výpis je neúplný/nepravý":* Námitka proti autenticitě výpisu. Neutralizace: oznámení o dodání i doručení Agentura zabezpečuje způsobem zajišťujícím integritu a původ dat (§ 20 odst. 1 písm. c, e); výpis má povahu spolehlivého důkazu.
+- *Slabé místo:* Výpis prokazuje dodání a přihlášení, nikoli, zda měla přihlášená osoba přístup ke konkrétnímu dokumentu „do vlastních rukou" — u takových zpráv je nutné prověřit oprávnění (§ 8 odst. 8).
+
+### H. Praktický závěr
+
+§ 14 řadí ISDS mezi ISVS, rozděluje role na správce (DIA), provozovatele (Česká pošta) a stát-plátce, a stanoví minimální obsah ISDS vč. přesné evidence přihlášení a dodání. Údaje jsou neveřejné (odst. 4) a obsah zpráv je chráněn zákazem přístupu správce/provozovatele (odst. 6) — funkční ekvivalent listovního tajemství. Výpis z ISDS je klíčovým důkazem o doručení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pro spor o doručení vyžádat výpis z ISDS (datum a čas dodání, přihlášení, fikce).
+- [ ] U dokumentů „do vlastních rukou" ověřit, zda přihlášená osoba měla k dokumentu přístup (§ 8 odst. 8).
+- [ ] Argument o nahlížení provozovatele do obsahu odmítnout odkazem na § 14 odst. 6.
+- [ ] Doložit autenticitu výpisu zabezpečenými oznámeními Agentury (§ 20 odst. 1 písm. c, e).
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS o životním cyklu zprávy a přihlášeních (§ 14 odst. 3); doručenky Agentury o dodání a doručení; nastavení DS (soukromé dodávání u DS FO); doklad o rozsahu oprávnění přihlášené osoby.
+
 ---
 
 ## § 14a — Přístupové rozhraní pro poskytovatele internetových služeb
@@ -841,6 +1381,42 @@ Tento mechanismus je nákladem za využití veřejné identitní infrastruktury.
 #### Odpovědnost za škodu (odst. 5) — kvalifikovaná „liberace"
 
 Poskytovatel odpovídá **objektivně** (bez ohledu na zavinění) za škodu z využití přístupového rozhraní — typicky únik osobních údajů ověřených přes ISDS, neoprávněné přiřazení identity, manipulace s účtem. **Liberace** je možná pouze prokázáním, že škodě nemohlo být zabráněno ani při **vynaložení veškerého úsilí, které lze na poskytovateli požadovat** — vyšší standard než „obvyklá péče" v civilním právu.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Provozovatel velkého e-shopu (PO) získá od Agentury povolení k využívání přístupového rozhraní ISDS na 5 let, aby umožnil zákazníkům přihlášení „přes Datovou schránku". V důsledku chyby v integraci dojde k úniku ověřených identitních údajů 50 000 zákazníků. Poškozený zákazník požaduje náhradu škody; provozovatel se brání, že chybu způsobil subdodavatel a že jednal v dobré víře. Důkazy: povolení Agentury, popis způsobu využití rozhraní (odst. 1), technická zpráva o incidentu, doklad o počtu dotčených účtů.
+
+**2. Právní otázka.** Za jakých podmínek se poskytovatel internetových služeb zprostí odpovědnosti za škodu způsobenou v souvislosti s využíváním přístupového rozhraní podle § 14a odst. 5?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14a odst. 5 (objektivní odpovědnost za škodu s kvalifikovanou liberací — „veškeré úsilí, které lze požadovat"), odst. 1–3 (povolení a podmínky), odst. 7 (odnětí povolení).
+- *Související ustanovení téhož zákona:* § 9a (prostředek ISDS pro identifikaci), § 14 odst. 5, 6 (bezpečnost ISDS, zákaz přístupu do obsahu).
+- *Související předpisy:* zákon č. 250/2017 Sb. a eIDAS (elektronická identifikace); zákon č. 110/2019 Sb. / GDPR (ochrana osobních údajů, náhrada újmy); § 2924 OZ (odpovědnost provozovatele za škodu z provozní činnosti).
+- *Judikatura:* obecný standard, že liberace u kvalifikované objektivní odpovědnosti vyžaduje vyšší než „obvyklou péči".
+
+**4. Subsumpce.** § 14a odst. 5 zakládá objektivní odpovědnost (bez ohledu na zavinění). Liberace je možná jen prokázáním, že škodě nemohlo být zabráněno ani při vynaložení veškerého úsilí, které lze na poskytovateli požadovat. Delegování na subdodavatele samo o sobě poskytovatele neliberuje — odpovídá za výběr a kontrolu. Spornou okolností je, zda incident byl objektivně neodvratitelný, nebo důsledkem nedostatečných opatření.
+
+**5. Řešení.** Poskytovatel pravděpodobně odpovídá za škodu — únik z chybné integrace svědčí o nesplnění veškerého požadovaného úsilí; argument „chyba subdodavatele" neliberuje. Liberace by uspěla jen při průkazu objektivně neodvratitelné události (např. dosud neznámý zero-day exploit při jinak vzorovém zabezpečení). Vedle náhrady škody hrozí odnětí povolení (§ 14a odst. 7) a sankce dle GDPR. Praktický krok: doložit splnění bezpečnostních podmínek Agentury (odst. 3) a kvalitu kontroly subdodavatele.
+
+**6. Varianty.** (a) Kdyby poskytovatel prokázal špičkové zabezpečení a neodvratitelnost incidentu, liberoval by se. (b) Kdyby Agentura předtím upozornila na nesplnění podmínek a poskytovatel nezjednal nápravu do 3 měsíců, přišel by o povolení (odst. 7 písm. a) ještě před incidentem.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „dobrá víra liberuje":* Lze tvrdit, že poskytovatel jednal v dobré víře. Neutralizace: § 14a odst. 5 nestaví na zavinění; rozhoduje objektivní neodvratitelnost, nikoli subjektivní dobrá víra.
+- *Protiargument „odpovídá subdodavatel":* Námitka přenosu odpovědnosti. Neutralizace: vůči poškozenému odpovídá poskytovatel (provozovatel rozhraní); regres vůči subdodavateli je jeho vnitřní věcí.
+- *Slabé místo:* Hranice „veškerého úsilí, které lze požadovat" je neurčitá; bez znaleckého posouzení stavu zabezpečení je obtížné předem určit, zda byla liberace dosažitelná.
+
+### H. Praktický závěr
+
+§ 14a otevírá DS jako prostředek elektronické identifikace pro služby třetích stran (přihlášení „přes Datovou schránku") na základě povolení Agentury (5 let), za roční poplatek 100 Kč × počet účtů. Poskytovatel nese objektivní odpovědnost za škodu s pouze kvalifikovanou liberací; při nesplnění podmínek hrozí odnětí povolení.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před využitím rozhraní získat povolení Agentury a doložit splnění věcných/technických/bezpečnostních podmínek (odst. 1–3).
+- [ ] Nastavit a dokumentovat bezpečnostní opatření na úrovni „veškerého požadovaného úsilí" (odst. 5).
+- [ ] Sledovat aktualizace podmínek Agentury ve Věstníku a včas se jim přizpůsobit (odst. 3).
+- [ ] Při incidentu počítat se souběhem odpovědnosti dle § 14a odst. 5 a GDPR a s rizikem odnětí povolení (odst. 7).
+
+**Typicky rozhodné důkazy / podklady:** povolení Agentury a popis způsobu využití rozhraní; bezpečnostní dokumentace a audity; technická zpráva o incidentu; doklad o počtu účtů (pro poplatek i rozsah škody); smlouva a kontrola subdodavatele.
 
 ---
 
@@ -909,6 +1485,42 @@ Logika: PO a OVM jsou veřejně dohledatelné subjekty (obchodní rejstřík, re
 
 Vyhledávání probíhá na portálu mojedatovaschranka.cz nebo prostřednictvím veřejných služeb ISDS (REST API). Vyhledávací kritéria: jméno + datum narození (FO), obchodní firma + IČO (PFO/PO), název + IČO (OVM). Výsledkem je identifikátor DS, na který lze adresovat datovou zprávu.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Věřitel chce zaslat dlužníkovi (fyzické osobě) předžalobní výzvu podle § 142a OSŘ do jeho DS FO, aby měl jistotu doručení. Ve vyhledávači ISDS však DS dlužníka nenajde — dlužník nepožádal o zápis do veřejného seznamu držitelů. Věřitel namítá, že DS „neexistuje" a doručuje poštou. Dlužník později tvrdí, že měl DS a výzva mu měla být zaslána tam. Důkazy: výpis z veřejného seznamu (negativní), pozdější zjištění, že DS FO existovala, ale nebyla zveřejněna.
+
+**2. Právní otázka.** Lze fyzické osobě doručovat soukromou cestou do DS FO, není-li její DS zapsána ve veřejném seznamu držitelů podle § 14b, a koho tíží důsledky nedohledatelnosti?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14b odst. 2 (zápis DS FO/PFO jen na žádost), odst. 4 písm. a)–b) (obsah seznamu pro FO/PFO), odst. 5 (likvidace údajů na žádost), odst. 3 (členění seznamu).
+- *Související ustanovení téhož zákona:* § 18a (soukromé dodávání mezi osobami), § 21 (identifikátor DS), § 17 (úřední doručování — to OVM zjišťuje z úřední povinnosti).
+- *Související předpisy:* § 142a OSŘ (předžalobní výzva); zákon č. 110/2019 Sb. (ochrana osobních údajů — důvod neveřejnosti DS FO).
+- *Judikatura:* NS 21 Cdo 3489/2012 — soud zjišťuje existenci DS z úřední povinnosti (na rozdíl od soukromého odesílatele).
+
+**4. Subsumpce.** § 14b činí DS PO a OVM veřejně dohledatelné automaticky, kdežto DS FO/PFO jen na žádost vlastníka (odst. 2). Bez zveřejnění nemá soukromý odesílatel přístup k identifikátoru a nemůže do DS dodávat (§ 18a vyžaduje znalost identifikátoru). Spornou okolností je, zda věřitel mohl identifikátor získat jinak (přímou znalostí) — pokud ne, nedohledatelnost jde k tíži vlastníka DS, který zveřejnění neaktivoval.
+
+**5. Řešení.** Věřitel jednal správně, když po negativním výsledku vyhledávání doručil poštou — soukromý odesílatel nemá povinnost ani možnost dohledávat nezveřejněnou DS FO. Námitka dlužníka neobstojí: rozdíl mezi OVM (zjišťuje DS z úřední povinnosti) a soukromou osobou je v tom, že soukromá osoba se spoléhá na veřejný seznam. Praktický krok: založit do spisu výpis (snímek) negativního vyhledávání jako důkaz, že DS nebyla dohledatelná.
+
+**6. Varianty.** (a) Kdyby dlužník byl PO nebo PFO se zveřejněnou DS, věřitel by ji našel a mohl doručit přes § 18a. (b) Kdyby šlo o doručování OVM (soud), soud by DS zjistil z úřední povinnosti i bez zápisu ve veřejném seznamu a doručil by do ní (§ 17).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „DS existovala, mělo se doručit tam":* Lze tvrdit, že existence DS zakládá povinnost do ní doručit. Neutralizace: pro soukromého odesílatele platí dohledatelnost přes veřejný seznam (§ 14b odst. 2); nezveřejněnou DS FO nelze adresovat; povinnost doručovat do DS má jen OVM (§ 17).
+- *Protiargument „věřitel měl identifikátor zjistit":* Námitka nedostatečné snahy. Neutralizace: identifikátor nezveřejněné DS FO není veřejně přístupný (§ 14 odst. 4, § 14b odst. 2); zjistit jej lze jen přímou znalostí, kterou věřitel typicky nemá.
+- *Slabé místo:* Pokud věřitel identifikátor DS dlužníka fakticky znal (např. z dřívější komunikace), argument o nedohledatelnosti slábne a mohlo se očekávat dodání přes § 18a.
+
+### H. Praktický závěr
+
+§ 14b zřizuje veřejný seznam držitelů DS s asymetrií: DS PO a OVM jsou veřejné automaticky, DS FO a PFO jen na žádost vlastníka (a na žádost se i likvidují). Pro soukromé odesílatele je rozhodující dohledatelnost identifikátoru; OVM naopak zjišťuje DS z úřední povinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před soukromým doručením do DS ověřit dohledatelnost adresáta ve veřejném seznamu (§ 14b).
+- [ ] U DS FO/PFO počítat s tím, že nemusí být zveřejněna (zápis i likvidace na žádost — odst. 2, 5).
+- [ ] Negativní výsledek vyhledávání zadokumentovat (snímek) jako důkaz nedohledatelnosti.
+- [ ] OVM: existenci DS adresáta zjišťovat z úřední povinnosti, nikoli jen z veřejného seznamu.
+
+**Typicky rozhodné důkazy / podklady:** výpis/snímek z veřejného seznamu držitelů DS; doklad o případné přímé znalosti identifikátoru; doklad o způsobu náhradního doručení (pošta); údaj o typu DS adresáta.
+
 ---
 
 ## § 15 — Využívání údajů z informačních systémů veřejné správy a součinnost
@@ -951,6 +1563,42 @@ Vyhledávání probíhá na portálu mojedatovaschranka.cz nebo prostřednictví
 
 Smyslem § 15 je zajistit, aby osoba **nemusela sama žádat o DS PFO** — DS jí vznikne automaticky po jejím zápisu do profesního rejstříku. To je v souladu s principem **referenčních údajů ze základních registrů** (zákon č. 111/2009 Sb.) — Agentura nečerpá údaje z žádostí, ale ze zdroje, který data o profesi spravuje primárně.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Autorizovaný architekt je vyškrtnut ze seznamu autorizovaných architektů (ČKA) z disciplinárních důvodů. ČKA však opomene tuto skutečnost bezodkladně oznámit Agentuře. Architekt mezitím přestal profesi vykonávat, ale jeho DS PFO zůstává aktivní a stavební úřad mu do ní doručuje rozhodnutí s plnými účinky. Architekt namítá, že jeho DS PFO již neměla existovat. Důkazy: rozhodnutí ČKA o vyškrtnutí s datem, doklad o (ne)oznámení Agentuře, výpis z ISDS o stavu DS a doručení.
+
+**2. Právní otázka.** Jaké jsou důsledky toho, že profesní komora nesplní bezodkladně informační povinnost o vyškrtnutí osoby z evidence podle § 15, a kdy se znepřístupní DS PFO?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 odst. 3 (ČKA informuje Agenturu o zápisu, změnách a vyškrtnutí autorizovaného architekta), odst. 1, 2, 4, 5 (obdobně ostatní komory/orgány).
+- *Související ustanovení téhož zákona:* § 4 (ex offo zřízení DS PFO po zápisu), § 11 odst. 2 (znepřístupnění DS PFO ke dni výmazu z evidence), § 17 (doručování).
+- *Související předpisy:* zákon č. 360/1992 Sb. (o autorizaci ve výstavbě — seznam architektů, vyškrtnutí); zákon č. 111/2009 Sb. (referenční údaje).
+- *Judikatura:* obecný princip referenčních údajů — Agentura čerpá ze zdroje, který profesi spravuje primárně; znepřístupnění váže na výmaz, ne na faktické ukončení činnosti.
+
+**4. Subsumpce.** § 15 odst. 3 ukládá ČKA bezodkladně informovat Agenturu o vyškrtnutí; toto oznámení je triggerem pro znepřístupnění DS PFO podle § 11 odst. 2 (ke dni výmazu z evidence). Dokud oznámení nedojde, Agentura DS nezná důvod znepřístupnit a doručování běží. Spornou okolností je datum výmazu z evidence (rozhodné pro znepřístupnění) vs. datum, kdy se Agentura dozvěděla.
+
+**5. Řešení.** DS PFO se znepřístupní ke dni výmazu z evidence (§ 11 odst. 2), a to případně i zpětně, jakmile Agentura obdrží opožděné oznámení ČKA. Doručení provedená po dni výmazu (zpětně znepřístupněno) se mohou považovat za neúčinná. Architekt by měl doložit datum vyškrtnutí; OVM pak musí doručit jinak. Praktický krok: vyžádat od ČKA doklad o datu výmazu a požádat Agenturu o zpětné znepřístupnění; opožděné splnění povinnosti komorou nejde k tíži dotčené osoby.
+
+**6. Varianty.** (a) Kdyby šlo o auditora, informační povinnost by plnila KAČR (§ 15 odst. 1); u znalce/tlumočníka Ministerstvo spravedlnosti (odst. 2). (b) Kdyby šlo o nově zapsaného architekta, oznámení ČKA by naopak spustilo zřízení DS PFO (§ 4).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „doručeno platně, DS běžela":* Lze tvrdit, že do faktického znepřístupnění je doručení účinné. Neutralizace: § 11 odst. 2 váže znepřístupnění na den výmazu z evidence (i zpětně); opožděné oznámení komory nemůže zhoršit postavení osoby.
+- *Protiargument „povinnost má komora, ne osoba":* Námitka, že selhání ČKA nemá dopad na doručování. Neutralizace: právě proto je znepřístupnění navázáno na objektivní den výmazu z evidence, nikoli na splnění informační povinnosti.
+- *Slabé místo:* Architekt nese důkazní břemeno k datu výmazu; je-li samotné rozhodnutí o vyškrtnutí napadeno opravným prostředkem (neúčinnost výmazu), může být datum sporné.
+
+### H. Praktický závěr
+
+§ 15 zakotvuje bezpodmínečnou informační povinnost komor a státních orgánů (KAČR, MS, ČKA, ČKAIT, ČÚZK/MO) vůči Agentuře o zápisu, změnách a vyškrtnutí osob — to je datová síť pro automatické zřizování i znepřístupňování DS PFO. Znepřístupnění se váže na den výmazu z evidence (§ 11 odst. 2), nikoli na splnění povinnosti komorou.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U DS PFO ověřit, zda osoba je stále zapsána v příslušné profesní evidenci.
+- [ ] Při vyškrtnutí doložit datum výmazu jako rozhodný den znepřístupnění DS PFO (§ 11 odst. 2).
+- [ ] Při opožděném oznámení komory žádat Agenturu o zpětné znepřístupnění ke dni výmazu.
+- [ ] Identifikovat správnou komoru/orgán s informační povinností podle § 15 odst. 1–5.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí komory o zápisu/vyškrtnutí s datem; doklad o splnění/nesplnění informační povinnosti vůči Agentuře; výpis z ISDS o stavu DS a doručeních; výpis z profesní evidence.
+
 ---
 
 ## § 16 — Informační povinnost při omezení osobní svobody
@@ -974,6 +1622,42 @@ Smyslem § 15 je zajistit, aby osoba **nemusela sama žádat o DS PFO** — DS j
 #### Význam pro ochranu práv osoby
 
 Zpětné znepřístupnění DS ke dni omezení svobody (§ 11 odst. 1) **anuluje fikci doručení**, která by jinak proběhla v období izolace. Bez § 16 by tento ochranný mechanismus byl pouze teoretický — Agentura by se o události nedozvěděla. § 16 tak chrání procesní rovnost: i omezený na svobodě dostane rozhodnutí soudu nebo OVM cestou, kterou má v té chvíli reálně k dispozici (papírová pošta, kontaktní pracovník v zařízení), nikoli fikcí v DS, ke které nemá přístup.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Účastník civilního sporu (fyzická osoba s DS FO) je vzat do vazby 1. března. Vazební věznice opomene bezodkladně informovat Agenturu. Soud doručí 5. března do DS účastníka rozhodnutí; účastník (ve vazbě, bez přístupu k internetu) se nepřihlásí a 15. března nastane fikce doručení; uplyne lhůta k odvolání. Po propuštění účastník zjistí, že rozhodnutí nabylo právní moci. Důkazy: doklad o vzetí do vazby (1. 3.), výpis z ISDS o dodání (5. 3.) a fikci (15. 3.), doklad o (ne)splnění informační povinnosti věznicí.
+
+**2. Právní otázka.** Jaké jsou důsledky toho, že věznice nesplní bezodkladně informační povinnost podle § 16, na běh fikce doručení do DS osoby omezené na osobní svobodě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 (informační povinnost věznice/vazební věznice, detenčního ústavu a soudu vůči Agentuře o omezení osobní svobody).
+- *Související ustanovení téhož zákona:* § 11 odst. 1 písm. d) (znepřístupnění DS FO ke dni omezení svobody, i zpětně), § 17 odst. 4 (fikce doručení), § 17 odst. 5 (neúčinnost doručení).
+- *Související předpisy:* § 67 a násl. TŘ (vazba); zákon č. 169/1999 Sb. (výkon trestu); § 50d OSŘ (neúčinnost doručení).
+- *Judikatura:* obecně přijímaný závěr, že zpětné znepřístupnění DS ke dni omezení svobody anuluje fikci, k níž došlo v období izolace.
+
+**4. Subsumpce.** § 16 je technickým triggerem pro § 11 odst. 1 písm. d): jakmile Agentura obdrží informaci o vzetí do vazby, znepřístupní DS FO ke dni omezení svobody (1. 3.), případně zpětně. Fikce z 15. 3. (po dni omezení svobody) je pak anulována. Spornou okolností je prodleva věznice — dokud informaci nepodá, Agentura DS neznepřístupní a fikce formálně nastane.
+
+**5. Řešení.** Po doložení vzetí do vazby Agentura znepřístupní DS zpětně ke dni 1. 3.; fikce z 15. 3. je anulována a rozhodnutí se považuje za nedoručené. Soud musí doručit znovu cestou reálně dostupnou (do věznice). Paralelně lze podat žádost o určení neúčinnosti doručení (§ 17 odst. 5 / § 50d OSŘ) s odkazem na objektivní překážku (vazba). Praktický krok: doložit datum vzetí do vazby a iniciovat zpětné znepřístupnění; opomenutí věznice nejde k tíži účastníka.
+
+**6. Varianty.** (a) Kdyby šlo o nástup do zabezpečovací detence, informoval by detenční ústav; u ochranného léčení/izolace pro ochranu zdraví lidu soud (§ 16 věta třetí). (b) Kdyby fikce nastala před dnem omezení svobody, doručení by zůstalo platné.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „fikce platí, dokud DS běží":* Lze tvrdit, že do znepřístupnění je doručení účinné. Neutralizace: § 11 odst. 1 písm. d) umožňuje zpětné znepřístupnění ke dni omezení svobody — § 16 je jen mechanismem doručení informace Agentuře.
+- *Protiargument „účastník mohl zařídit zástup":* Námitka, že měl pověřit jinou osobu. Neutralizace: náhlé vzetí do vazby je typicky objektivní překážka; ochrana dle § 11 odst. 1 písm. d) je objektivní a nezávisí na bdělosti osoby.
+- *Slabé místo:* Účinnost ochrany závisí na faktickém splnění informační povinnosti; při delší prodlevě věznice vzniká období nejistoty a důkazní břemeno k datu omezení svobody nese dotčená osoba.
+
+### H. Praktický závěr
+
+§ 16 ukládá věznicím, detenčním ústavům a soudům bezodkladně informovat Agenturu o omezení osobní svobody držitele DS — je to technický doplněk k § 11 odst. 1 písm. d). Bez něj by ochranný mechanismus (zpětné znepřístupnění a anulace fikce) zůstal jen teoretický.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U osob omezených na svobodě ověřit, zda byla splněna informační povinnost dle § 16 a zda došlo ke znepřístupnění DS.
+- [ ] Posoudit, zda fikce doručení nastala před nebo po dni omezení svobody (rozhoduje o platnosti).
+- [ ] Doložit datum vzetí do vazby/nástupu a iniciovat zpětné znepřístupnění DS (§ 11 odst. 1 písm. d).
+- [ ] Zvážit souběžnou žádost o určení neúčinnosti doručení (§ 17 odst. 5 / § 50d OSŘ).
+
+**Typicky rozhodné důkazy / podklady:** doklad o vzetí do vazby/nástupu výkonu trestu/detence/ochranného léčení; výpis z ISDS o dodání, fikci a znepřístupnění; doklad o splnění/nesplnění informační povinnosti zařízením; rozhodnutí, jehož doručení je sporné.
 
 ---
 
@@ -1085,6 +1769,42 @@ Odst. 5 vytváří **únikový mechanismus** pro případy, kdy se adresát z **
 
 Doručování mezi OVM nemusí probíhat přes DS, je-li mezi nimi zavedena **jiná zabezpečená cesta** (typicky **EPO** — elektronická podání pro orgány finanční správy, **MISYS** mezi soudy, **specializované VPN** mezi BIS a policií). Důvod: některé OVM si vybudovaly **paralelní bezpečnější** komunikační kanály, např. pro výměnu citlivých dat, a ZDS umožňuje, aby je nadále používaly.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Okresní soud doručí žalovanému (PO se zpřístupněnou DS) platební rozkaz do DS dne 1. března (pátek). Žalovaný se do DS nepřihlásí. Odpor lze podat do 15 dnů od doručení. Žalovaný se přihlásí až 25. března a téhož dne podá odpor. Soud odpor odmítne jako opožděný s tím, že doručení nastalo fikcí 11. března (10. den po dodání) a 15denní lhůta uplynula. Žalovaný namítá, že se „skutečně" seznámil až 25. března. Důkazy: výpis z ISDS o dodání (1. 3.) a fikci (11. 3.), datum přihlášení (25. 3.), nastavení/absence notifikací.
+
+**2. Právní otázka.** Od kterého okamžiku běží lhůta k podání opravného prostředku, přihlásí-li se adresát do DS až po uplynutí 10denní lhůty podle § 17 odst. 4 — od fikce doručení, nebo od pozdějšího skutečného přihlášení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17 odst. 3 (doručení okamžikem přihlášení), odst. 4 (fikce 10 dnů), odst. 6 (účinky jako doručení do vlastních rukou), odst. 1 (povinnost OVM doručovat DS).
+- *Související ustanovení téhož zákona:* § 8 odst. 8 (přístup pověřené osoby k dokumentům do vlastních rukou), § 19 odst. 2 (vyznačení do vlastních rukou).
+- *Související předpisy:* § 57 OSŘ (počítání lhůt), § 172 a § 174 OSŘ (platební rozkaz, odpor); § 50d OSŘ (neúčinnost doručení).
+- *Judikatura:* NS 21 Cdo 3489/2012 (doručování do zpřístupněné DS z úřední povinnosti); NS 11 Co 393/2013 (pravidla počítání času dle § 57 OSŘ platí i pro DS); NS 20 Cdo 588/2022 (povaha dokumentu může vyloučit doručení do DS — geometrický plán).
+
+**4. Subsumpce.** § 17 odst. 4 stanoví, že nepřihlásí-li se oprávněná osoba do 10 dnů od dodání, dokument se považuje za doručený posledním dnem lhůty (zde 11. 3.). Skutečné doručení přihlášením (odst. 3) má přednost jen tehdy, nastalo-li dříve než fikce; přihlášení po fikci (25. 3.) okamžik doručení nemění. Lhůta k odporu (15 dnů) běží od 11. 3. Podmínky doručení DS jsou splněny; sporu o povahu dokumentu zde není.
+
+**5. Řešení.** Doručení nastalo fikcí 11. 3.; lhůta k odporu uplynula před 25. 3. Odpor je opožděný a soud jej správně odmítl. Pozdější seznámení nemá vliv. Jedinou cestou žalovaného by byla žádost o určení neúčinnosti doručení (§ 17 odst. 5 / § 50d OSŘ) při průkazu objektivní omluvitelné překážky — pouhé nepřihlášení nestačí. Praktický krok: nastavit notifikace a kontrolovat DS minimálně v 10denních intervalech.
+
+**6. Varianty.** (a) Kdyby procesní předpis u daného dokumentu vylučoval náhradní doručení (§ 17 odst. 4 i.f. — např. § 64 odst. 4 TŘ), fikce by se neuplatnila a doručení by nastalo až skutečným přihlášením. (b) Kdyby povaha dokumentu vylučovala elektronické doručení (originál geometrického plánu — NS 20 Cdo 588/2022), DS by se nepoužila a doručovalo by se listinně.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „rozhoduje skutečné seznámení":* Lze tvrdit, že lhůta běží od reálného přihlášení. Neutralizace: § 17 odst. 4 výslovně zavádí fikci k 10. dni; skutečné doručení (odst. 3) má přednost jen, je-li dřívější.
+- *Protiargument „nebyl jsem upozorněn":* Námitka absence notifikace. Neutralizace: notifikace (§ 20 odst. 1 písm. d) je dobrovolná služba; její absence není omluvitelnou překážkou — riziko nese držitel DS (NS 21 Cdo 3489/2012).
+- *Slabé místo:* Fikce se neuplatní tam, kde ji vylučuje zvláštní předpis (odst. 4 i.f.), a doručení do DS je vyloučeno, neumožňuje-li to povaha dokumentu — obojí je nutné prověřit, jinak argumentace selže.
+
+### H. Praktický závěr
+
+§ 17 je centrálním ustanovením zákona: ukládá OVM povinnost doručovat do zpřístupněné DS (umožňuje-li to povaha dokumentu a nedoručuje-li se na místě/vyhláškou) a zavádí fikci doručení 10. dnem. Doručení do DS má účinky doručení do vlastních rukou; výjimkou je vyloučení náhradního doručení zvláštním předpisem (odst. 4 i.f.) a neúčinnost doručení na žádost (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Počítat lhůty od doručení = dřívější z okamžiku přihlášení (odst. 3) nebo fikce 10. dnem (odst. 4).
+- [ ] Ověřit, zda u dokumentu zvláštní předpis nevylučuje náhradní doručení (odst. 4 i.f.).
+- [ ] Ověřit, zda povaha dokumentu vůbec umožňuje doručení do DS (NS 20 Cdo 588/2022).
+- [ ] Klientům nastavit notifikace a kontrolu DS; při zmeškání zvážit žádost o určení neúčinnosti (odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS (datum dodání, fikce, přihlášení); doručenka Agentury o doručení (§ 20 odst. 1 písm. e); povaha dokumentu (zda umožňuje el. doručení); doklad o omluvitelné překážce pro žádost o neúčinnost.
+
 ---
 
 ## § 18 — Provádění úkonů vůči orgánům veřejné moci prostřednictvím datové schránky
@@ -1133,6 +1853,42 @@ Odst. 2 výslovně připouští, že **pověřená osoba činí úkon s plnými 
 > **Praktický rozdíl pověřená osoba vs. zmocněnec:**
 > - **Pověřená osoba** (§ 8 odst. 6 ZDS) — technický přístup do DS; nemůže jednat „svým jménem", všechny úkony činí jako prostředník vlastníka DS.
 > - **Zmocněnec** (§ 441 a násl. OZ, § 33 SŘ, § 24 a násl. OSŘ) — procesní zástupce, který může jednat svým jménem na účet zastoupeného; přitom může používat **vlastní DS**.
+
+### F. Kazuistika
+
+**1. Modelová situace.** S.r.o. má dva jednatele, kteří podle společenské smlouvy jednají „společně". Jeden z jednatelů se přihlásí do DS společnosti a podá soudu odvolání proti rozsudku, podepsané jen jím (resp. odeslané jen z jeho přihlášení). Soud zkoumá, zda jde o řádný úkon společnosti, když společenská smlouva vyžaduje společné jednání obou jednatelů. Důkazy: společenská smlouva a výpis z OR o způsobu jednání, výpis z ISDS o tom, kdo úkon odeslal, obsah odvolání.
+
+**2. Právní otázka.** Má odvolání podané z DS PO jediným jednatelem účinky řádného úkonu společnosti, vyžaduje-li jiný právní (vnitřní) předpis společný úkon více osob podle § 18 odst. 2 i.f.?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 18 odst. 1 (právo činit úkon vůči OVM přes DS), odst. 2 (úkon přes DS má účinky písemného a podepsaného úkonu, „ledaže jiný právní předpis nebo vnitřní předpis požaduje společný úkon více osob").
+- *Související ustanovení téhož zákona:* § 8 odst. 3 (každý člen statutárního orgánu má samostatný přístup), § 8 odst. 6 (pověřená osoba).
+- *Související předpisy:* § 164 OZ, § 44, § 198 ZOK (jednání za PO, společné jednání); § 21 OSŘ (jednání za PO před soudem); § 41 OSŘ (úkony účastníků).
+- *Judikatura:* NS 27 Cdo 143/2020 (úkon z DS FO oprávněné osoby jménem PO; podepsáno touto osobou dle § 18 odst. 2); VSPH 3 VSPH 605/2010 (přihláška odeslaná z DS věřitele osobou dle § 18 odst. 1–4 má účinky podepsaného úkonu).
+
+**4. Subsumpce.** § 18 odst. 2 přiznává úkonu přes DS účinky podepsaného úkonu, avšak s výhradou: vyžaduje-li předpis společné jednání více osob, jediné přihlášení nestačí. Společenská smlouva vyžaduje společné jednání obou jednatelů; úkon učiněný jen jedním z nich tuto podmínku nesplňuje. Přístup do DS má sice každý jednatel samostatně (§ 8 odst. 3), ale to se týká přístupu, nikoli oprávnění zavázat společnost samostatně. Spornou okolností je, zda lze vadu zhojit dodatečně.
+
+**5. Řešení.** Odvolání podané jen jedním ze dvou „společně" jednajících jednatelů je vadné z hlediska jednání za PO (§ 18 odst. 2 i.f.). Soud vyzve k odstranění vady (§ 43 OSŘ) — doplnění projevu vůle druhého jednatele (samostatným úkonem z jeho přístupu, společným podpisem nebo plnou mocí). Pokud se vada zhojí ve lhůtě, úkon je účinný. Praktický krok: u PO se společným jednáním činit úkony buď oběma členy (každý ze svého přístupu), nebo s plnou mocí pro samostatné jednání.
+
+**6. Varianty.** (a) Kdyby jednatelé jednali „samostatně", jediné přihlášení by stačilo a úkon by byl řádný (§ 18 odst. 2 bez výhrady). (b) Kdyby úkon činila pověřená osoba s patřičným pověřením, šlo by o úkon s účinky vlastníka, ale i tu platí výhrada společného jednání.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „přístup každého člena = oprávnění jednat samostatně":* Lze zaměnit § 8 odst. 3 (přístup) s oprávněním zavázat PO. Neutralizace: § 8 odst. 3 řeší jen technický přístup do DS; způsob jednání za PO se řídí § 164 OZ / ZOK a § 18 odst. 2 i.f. výslovně respektuje společné jednání.
+- *Protiargument „úkon z DS je vždy podepsaný a platný":* Námitka absolutní účinnosti § 18 odst. 2. Neutralizace: věta za „ledaže" výslovně vyjímá případy společného jednání.
+- *Slabé místo:* Hranice mezi procesním úkonem účastníka a hmotněprávním jednáním za PO může být nejasná; u některých úkonů soud posuzuje, zda postačí jednání jediného člena (např. ryze procesní podání) — riziko nejednotného posouzení.
+
+### H. Praktický závěr
+
+§ 18 upravuje „druhý směr" — úkony soukromé osoby vůči OVM přes DS (právo, nikoli povinnost). Úkon má účinky písemného a podepsaného úkonu (odst. 2), což nahrazuje vlastnoruční podpis. Klíčová výhrada: vyžaduje-li předpis společné jednání více osob, jediné přihlášení nestačí. Pověřená osoba je technický prostředník, nikoli procesní zmocněnec.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U PO ověřit způsob jednání (samostatné/společné) před podáním úkonu z DS (§ 18 odst. 2 i.f.).
+- [ ] Při společném jednání zajistit úkon od všech potřebných osob nebo plnou moc pro samostatné jednání.
+- [ ] Rozlišovat pověřenou osobu (§ 8 odst. 6) od procesního zmocněnce (§ 24 OSŘ / § 33 SŘ).
+- [ ] Vadu jednání za PO řešit výzvou k odstranění (§ 43 OSŘ) ve lhůtě.
+
+**Typicky rozhodné důkazy / podklady:** společenská smlouva / stanovy a výpis z OR (způsob jednání); výpis z ISDS o tom, kdo úkon odeslal; obsah úkonu; případná plná moc nebo doplňující projev vůle druhého člena.
 
 ---
 
@@ -1186,6 +1942,42 @@ Soukromé dodání **není zdarma**, na rozdíl od doručování OVM. Odměna pr
 
 **Třetí osoba může hradit:** Odst. 4 věta čtvrtá dovoluje, aby odměnu hradila jiná osoba se souhlasem odesílatele — typicky pro firemní úřady, kde centrální oddělení hradí náklady všech zaměstnanců, kteří odesílají z DS firmy.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnavatel (PO) chce dát zaměstnanci okamžitou výpověď z pracovního poměru a rozhodne se ji zaslat do DS FO zaměstnance přes soukromé dodávání (PDZ). Zaměstnanec však má ve své DS FO vypnuté soukromé dodávání (§ 18a odst. 1 věta druhá). Zpráva se proto nedodá. Zaměstnavatel se mylně domnívá, že výpověď byla doručena fikcí 10. dne. Spor o platnost a okamžik doručení výpovědi. Důkazy: nastavení DS FO zaměstnance (vypnuté P2P), chybové oznámení Agentury odesílateli, doklad o případném náhradním doručení.
+
+**2. Právní otázka.** Lze fyzické osobě doručit soukromou datovou zprávou (vč. fikce dle § 18a odst. 3), má-li v DS FO vypnuté přijímání soukromého dodávání, a kdy nastává doručení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 18a odst. 1 (možnost znepřístupnit DS FO pro soukromé dodávání), odst. 2 (doručení přihlášením), odst. 3 (fikce 10 dnů), odst. 4 (odměna za dodání).
+- *Související ustanovení téhož zákona:* § 17 (úřední doručování — režim OVM), § 20 odst. 1 písm. f)–h) (oznámení o neexistenci/znepřístupnění DS).
+- *Související předpisy:* § 334 a násl. zákoníku práce (doručování v pracovněprávních vztazích — zvláštní režim!); § 570 OZ (okamžik účinnosti projevu vůle).
+- *Judikatura:* NS 26 Cdo 282/2014 (doručování do DS osob, které aktivovaly dodávání podle § 18a) — potvrzuje, že podmínkou je zapnuté soukromé dodávání u adresáta.
+
+**4. Subsumpce.** § 18a odst. 1 věta druhá umožňuje držiteli DS FO vypnout příjem soukromého dodávání. Je-li vypnuto, zpráva se vůbec nedodá a režim doručení (vč. fikce dle odst. 3) se neuplatní — Agentura odesílateli oznámí nedoručitelnost. U PFO/PO příjem vypnout nelze. Navíc v pracovním právu platí zvláštní režim doručování (§ 334 a násl. ZP), který doručování výpovědi DS výrazně omezuje. Spornou okolností je, zda zaměstnavatel vůbec mohl tuto cestu pro výpověď použít.
+
+**5. Řešení.** Výpověď nebyla doručena — zpráva se do DS FO s vypnutým P2P nedodala a fikce dle § 18a odst. 3 nenastala. Zaměstnavatel se navíc měl řídit zvláštním režimem § 334 a násl. ZP (přednost osobního doručení na pracovišti). Praktický krok: ověřit u FO zapnutí soukromého dodávání před odesláním; u pracovněprávních úkonů respektovat § 334 a násl. ZP a doručovat primárně osobně.
+
+**6. Varianty.** (a) Kdyby adresátem byla PO (např. doručení výpovědi smlouvy obchodnímu partnerovi), příjem nelze vypnout a fikce 10 dnů by fungovala. (b) Kdyby šlo o oznámení podle § 1979 OZ (odstoupení od smlouvy) vůči PFO/PO, doručení přes § 18a by bylo formálně dokonalé.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „fikce nastala 10. dnem":* Lze tvrdit, že platí fikce dle § 18a odst. 3. Neutralizace: fikce předpokládá, že zpráva byla dodána do DS; je-li P2P u DS FO vypnuto, k dodání nedojde a fikce nenastává; Agentura oznámí nedoručitelnost (§ 20 odst. 1 písm. f–h).
+- *Protiargument „DS nahrazuje jakékoli doručení":* Námitka univerzálnosti DS. Neutralizace: v pracovním právu má přednost zvláštní režim § 334 a násl. ZP; DS nelze pro výpověď použít bez splnění jeho podmínek.
+- *Slabé místo:* I u PFO/PO, kde P2P vypnout nelze, je třeba prokázat, že odesílatel byl oprávněnou/pověřenou osobou a že úkon byl řádně učiněn; jinak může být zpochybněn obsah projevu vůle.
+
+### H. Praktický závěr
+
+§ 18a zavádí soukromé „dodávání" (poštovní datová zpráva) jako třetí pilíř — mezi FO/PFO/PO. Doručovací režim je identický s § 17 (přihlášení nebo fikce 10 dnů), ale dodávání je u DS FO vypínatelné (odst. 1) a vždy zpoplatněné (odst. 4). U PFO/PO příjem vypnout nelze. Pozor na zvláštní režimy (pracovní právo).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před soukromým dodáním FO ověřit, zda má zapnuté přijímání P2P (§ 18a odst. 1).
+- [ ] U PFO/PO počítat s tím, že příjem soukromých zpráv vypnout nelze.
+- [ ] Respektovat zvláštní režimy doručování (zejm. § 334 a násl. ZP u pracovněprávních úkonů).
+- [ ] Pro doložení doručení uchovat doručenku Agentury, případně provést konverzi (§ 22 a násl.).
+
+**Typicky rozhodné důkazy / podklady:** nastavení DS FO adresáta (zapnuté/vypnuté P2P); oznámení Agentury o (ne)dodání (§ 20 odst. 1); výpis z ISDS o dodání a fikci; doklad o dodržení zvláštního režimu doručování (ZP).
+
 ---
 
 ## § 19 — Datová zpráva
@@ -1219,6 +2011,42 @@ Odst. 2 vyžaduje, aby odesílatel vyznačil v datové zprávě, **je-li dokumen
 - **Počítání fikce doručení** — pravidla fikce jsou stejná, ale procesně může „do vlastních rukou" vyloučit fikci podle jiných předpisů (§ 17 odst. 4 i.f. — náhradní doručení).
 
 V praxi se příznak „do vlastních rukou" nastavuje při odesílání zprávy v rozhraní ISDS (checkbox „Doporučeně do vlastních rukou výhradně adresátovi").
+
+### F. Kazuistika
+
+**1. Modelová situace.** Advokát chce soudu odeslat z DS objemný znalecký posudek (200 MB s přílohami ve formátu, který vyhláška nepřipouští). ISDS zprávu odmítne pro překročení maximální velikosti a nepřípustný formát. Advokát je přesvědčen, že podání bylo „odesláno" a tedy učiněno ve lhůtě. Soud namítá, že podání nebylo dodáno do jeho DS. Důkazy: chybové hlášení ISDS o odmítnutí, výpis o tom, že zpráva nebyla dodána, údaj o velikosti a formátu příloh.
+
+**2. Právní otázka.** Je úkon vůči OVM učiněn, byla-li datová zpráva odmítnuta ISDS pro nepřípustný formát nebo překročení maximální velikosti, a kdy se na takový úkon označí příznak „do vlastních rukou"?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 19 odst. 1 (forma datové zprávy pro úkony i dodávání), odst. 2 (vyznačení „do vlastních rukou" odesílatelem).
+- *Související ustanovení téhož zákona:* § 20 odst. 3 (vyhláška o přípustných formátech a maximální velikosti zprávy), § 18 odst. 1 (úkony vůči OVM přes DS), § 17 odst. 3 (doručení dodáním/přihlášením).
+- *Související předpisy:* vyhláška o technických náležitostech užívání DS (formáty PDF/A, DOCX, max. velikost); zákon č. 297/2016 Sb. (pojem datová zpráva); § 37 SŘ / § 42 OSŘ (forma podání).
+- *Judikatura:* NS 22 Cdo 3325/2013 (podání vůči soudu přes DS je učiněno okamžikem dodání do DS soudu — a contrario: bez dodání úkon učiněn není).
+
+**4. Subsumpce.** § 19 odst. 1 vyžaduje formu datové zprávy splňující technické náležitosti dle § 20 odst. 3. Zpráva s nepřípustným formátem a nadměrnou velikostí tyto náležitosti nesplňuje a ISDS ji nedodá. Podle NS 22 Cdo 3325/2013 je úkon vůči soudu učiněn až dodáním do DS soudu; bez dodání úkon učiněn nebyl. Spornou okolností je jen to, zda advokát obdržel chybové hlášení (typicky ano).
+
+**5. Řešení.** Úkon nebyl učiněn — zpráva nebyla dodána do DS soudu, takže podání ve lhůtě neexistuje. Advokát musí podání rozdělit do více zpráv v přípustném formátu, případně zvolit jinou cestu, a učinit je znovu (pozor na lhůtu). Příznak „do vlastních rukou" se vyznačuje v rozhraní při odeslání (checkbox). Praktický krok: ověřit formát (PDF/A) a velikost zprávy předem; objemné přílohy rozdělit; vyčkat potvrzení o dodání (§ 20 odst. 1 písm. c).
+
+**6. Varianty.** (a) Kdyby zpráva splňovala náležitosti a byla dodána, úkon by byl učiněn okamžikem dodání bez ohledu na pozdější přečtení soudem. (b) Kdyby přílohou byl audiovizuální záznam, který nelze v DS přenést, bylo by nutné zvolit jiný nosič/cestu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „odeslal jsem, tedy učinil":* Lze tvrdit, že odeslání postačí. Neutralizace: rozhodující je dodání do DS adresáta (NS 22 Cdo 3325/2013); odmítnutá zpráva dodána nebyla, úkon nevznikl.
+- *Protiargument „omezení velikosti je nezákonné":* Námitka proti vyhlášce. Neutralizace: § 20 odst. 3 výslovně zmocňuje Agenturu stanovit přípustné formáty a maximální velikost; omezení má zákonný podklad.
+- *Slabé místo:* Pokud advokát chybové hlášení ISDS přehlédl, vzniká spor o to, zda se o nedodání dozvěděl; je vhodné uchovat protokol o odeslání a (ne)dodání.
+
+### H. Praktický závěr
+
+§ 19 definuje datovou zprávu jako formu pro doručování, úkony i dodávání a vyžaduje vyznačení příznaku „do vlastních rukou" odesílatelem. Zpráva musí splňovat technické náležitosti (přípustné formáty, max. velikost dle § 20 odst. 3); jinak ji ISDS nedodá a úkon není učiněn.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit přípustný formát (zejm. PDF/A) a maximální velikost zprávy před odesláním (§ 20 odst. 3).
+- [ ] U dokumentů do vlastních rukou nastavit příslušný příznak (§ 19 odst. 2).
+- [ ] Vyčkat potvrzení o dodání (§ 20 odst. 1 písm. c) a uchovat je jako důkaz učinění úkonu.
+- [ ] Objemné přílohy rozdělit do více zpráv nebo zvolit alternativní cestu při zachování lhůty.
+
+**Typicky rozhodné důkazy / podklady:** protokol ISDS o odeslání a (ne)dodání zprávy; chybové hlášení o formátu/velikosti; potvrzení o dodání (§ 20 odst. 1 písm. c); údaj o vyznačení příznaku „do vlastních rukou".
 
 ---
 
@@ -1310,6 +2138,42 @@ Datová zpráva zůstává v DS po dobu stanovenou vyhláškou — aktuálně **
 
 > **Praktická rada:** Pro dokumenty s dlouhodobou důkazní hodnotou (rozhodnutí v dědickém řízení, doručení výpovědi smlouvy, daňová rozhodnutí) je nezbytné stáhnout a archivovat datovou zprávu, případně provést **autorizovanou konverzi do listinné podoby** s doložkou (§ 25). Pouhé spoléhání na uložení v DS po 90 dnech je riskantní.
 
+### F. Kazuistika
+
+**1. Modelová situace.** OSVČ obdrží do DS důležité daňové rozhodnutí, ale spoléhá na to, že zpráva v DS „zůstane navždy". Po 95 dnech (uplynula 90denní doba uložení dle vyhlášky) chce zprávu znovu otevřít jako důkaz, zjišťuje však, že obsah zprávy byl z DS automaticky odstraněn. OSVČ nemá kopii ani neaktivoval datový trezor. Důkazy: výpis z ISDS o existenci zprávy a datu jejího dodání, údaj o době uložení, absence archivace.
+
+**2. Právní otázka.** Po jakou dobu Agentura zajišťuje uložení dodané datové zprávy v DS a jaké jsou důsledky uplynutí této doby pro dostupnost obsahu zprávy podle § 20 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 20 odst. 4 (uložení dodané zprávy; minimální dobu stanoví vyhláška; možnost delšího uložení za odměnu — datový trezor), odst. 1 písm. a), c), e), i) (časové razítko, doručenky, evidence událostí), odst. 2 (ničení vadných zpráv).
+- *Související ustanovení téhož zákona:* § 22 a násl. (autorizovaná konverze — trvalý výstup), § 13 (zrušení DS po 3 letech), § 14 odst. 3 (evidence v ISDS).
+- *Související předpisy:* vyhláška o technických náležitostech (doba uložení); zákon č. 499/2004 Sb. (archivnictví a spisová služba — archivace dokumentů); § 125 OSŘ (důkaz listinou).
+- *Judikatura:* obecně přijímaný závěr, že po uplynutí doby uložení zůstává v ISDS jen stopa o existenci zprávy, nikoli její obsah.
+
+**4. Subsumpce.** § 20 odst. 4 ukládá Agentuře zajistit uložení zprávy po dobu stanovenou vyhláškou (aktuálně 90 dnů); delší uložení je možné jen za odměnu (datový trezor). Po uplynutí doby je obsah z DS odstraněn; v ISDS zůstává evidence o události (§ 20 odst. 1 písm. i), nikoli obsah. OSVČ obsah neuložila ani neaktivovala trezor — důsledek nese ona. Spornou okolností je jen přesné datum dodání a uplynutí doby uložení.
+
+**5. Řešení.** Obsah zprávy byl po uplynutí 90denní doby uložení oprávněně odstraněn (§ 20 odst. 4); OSVČ jej nemá k dispozici. Důkazně lze využít jen evidenci o existenci zprávy (datum dodání/doručení) a obsah rekonstruovat od odesílatele (FÚ). Praktický krok do budoucna: dokumenty s důkazní hodnotou ihned stáhnout a archivovat, případně provést autorizovanou konverzi do listinné podoby s doložkou (§ 25), nebo aktivovat datový trezor.
+
+**6. Varianty.** (a) Kdyby OSVČ aktivovala datový trezor (§ 20 odst. 4 věta třetí), zpráva by zůstala uložena neomezeně. (b) Kdyby zpráva obsahovala malware a Agentura ji zničila (§ 20 odst. 2), doručení by vůbec nenastalo a odesílatel by byl vyrozuměn.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „zpráva měla zůstat v DS":* Lze tvrdit, že Agentura má uchovávat zprávy trvale. Neutralizace: § 20 odst. 4 stanoví jen minimální dobu uložení dle vyhlášky; delší uchování je placená služba (datový trezor).
+- *Protiargument „odstraněním zanikl důkaz doručení":* Námitka, že nelze prokázat doručení. Neutralizace: doručení prokazuje evidence a doručenky Agentury (§ 20 odst. 1 písm. c, e, i), které přetrvávají; mizí obsah, nikoli stopa o doručení.
+- *Slabé místo:* Rekonstrukce obsahu od odesílatele nemusí být vždy možná (odesílatel též nemusel obsah uchovat); proto je vlastní archivace nezbytná.
+
+### H. Praktický závěr
+
+§ 20 ukládá Agentuře devět provozních povinností u každé zprávy (časové razítko odeslání, dodání, doručenky, vyrozumění, oznámení chyb, evidence), umožňuje zničit vadné/škodlivé zprávy (odst. 2) a stanoví uložení zprávy po dobu dle vyhlášky (90 dnů), prodloužitelnou datovým trezorem. Po uplynutí doby zůstává jen stopa o existenci zprávy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dokumenty s důkazní hodnotou ihned stáhnout a archivovat, nespoléhat na uložení v DS.
+- [ ] Pro dlouhodobou důkazní hodnotu zvážit autorizovanou konverzi do listiny (§ 25) nebo datový trezor (§ 20 odst. 4).
+- [ ] Pro důkaz doručení uchovat doručenky Agentury (§ 20 odst. 1 písm. c, e) a výpis z evidence.
+- [ ] Počítat s rizikem zničení zprávy obsahující vadný formát/škodlivý kód (§ 20 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS o dodání/doručení a evidenci událostí (§ 20 odst. 1 písm. i); doručenky Agentury; doklad o (ne)aktivaci datového trezoru; archivovaná kopie/konverze zprávy.
+
 ---
 
 ## § 21 — Identifikátor datové schránky
@@ -1345,6 +2209,42 @@ Pro odeslání zprávy potřebuje odesílatel **identifikátor adresáta**:
 - **DS PFO** — stejně jako u FO.
 
 Vyhledávač DS je dostupný na portálu mojedatovaschranka.cz a jako API služba pro integraci do informačních systémů třetích stran.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Podatel ve svém podání soudu uvede jako adresu pro doručení „identifikátor datové schránky" a zamění jej s IČO společnosti. Soud na základě chybného údaje doručí rozhodnutí do nesprávné DS jiného subjektu (shoda znaků). Vznikne spor o to, zda bylo doručeno správnému adresátovi. Důkazy: výpis z ISDS o identifikátoru správné DS adresáta, identifikátor DS, kam bylo skutečně doručeno, údaj o tom, komu DS patří.
+
+**2. Právní otázka.** Jakou povahu má identifikátor datové schránky podle § 21, je zaměnitelný s jinými identifikátory (IČO, DIČ, rodné číslo), a jaké jsou důsledky doručení podle chybného identifikátoru?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 21 (identifikátor slouží k identifikaci DS; není zaměnitelný s jiným identifikátorem využívaným OVM; způsob tvorby stanoví vyhláška).
+- *Související ustanovení téhož zákona:* § 14b (vyhledání identifikátoru ve veřejném seznamu), § 14 odst. 4 (Agentura umožní identifikovat DS pro doručování), § 17 (doručování do DS adresáta).
+- *Související předpisy:* vyhláška o tvorbě identifikátoru; zákon č. 111/2009 Sb. (jiné identifikátory — IČO, AIFO); procesní řády o doručování.
+- *Judikatura:* obecný závěr, že doručení do DS jiného subjektu, než je adresát, není doručením adresátovi.
+
+**4. Subsumpce.** § 21 stanoví, že identifikátor DS je jedinečný a nezaměnitelný s jinými identifikátory (IČO má jinou strukturu — 8 číslic, identifikátor 7 alfanumerických znaků). Doručení podle chybného identifikátoru je doručením do DS jiného subjektu, nikoli adresátovi. Spornou okolností je, zda pochybení způsobil podatel (uvedl chybný údaj) nebo soud (zadal nesprávně) a zda soud měl identifikátor ověřit z úřední povinnosti.
+
+**5. Řešení.** Doručení do DS nesprávného subjektu není doručením adresátovi — vůči adresátovi doručení nenastalo a lhůty neběží. Soud měl identifikátor DS adresáta zjistit z úřední povinnosti (§ 14 odst. 4, § 14b), nikoli přebírat chybný údaj podatele. Praktický krok: ověřit identifikátor ve veřejném seznamu/vyhledávači ISDS před odesláním; doručení opakovat na správnou DS. Nesprávně doručenou zprávu je třeba u třetího subjektu vyřešit (nebyla mu určena).
+
+**6. Varianty.** (a) Kdyby šlo o DS FO, kterou nelze ve veřejném seznamu dohledat (§ 14b odst. 2), soud by si identifikátor zjistil z úřední evidence. (b) Kdyby identifikátor odpovídal správné DS, doručení by proběhlo řádně bez ohledu na záměnu v označení.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „doručeno podle údaje podatele":* Lze tvrdit, že soud doručil dle dodaného údaje a doručení je platné. Neutralizace: § 21 a § 14 odst. 4 — DS se identifikuje jedinečným identifikátorem, který soud ověřuje z úřední povinnosti; doručení jinému subjektu adresátovi nesvědčí.
+- *Protiargument „identifikátor = IČO":* Záměna identifikátoru s IČO. Neutralizace: § 21 výslovně stanoví nezaměnitelnost; odlišná struktura (7 alfanumerických znaků vs. 8 číslic) záměnu vylučuje při řádné kontrole.
+- *Slabé místo:* Pokud by náhodou identifikátor i IČO měly stejnou číselnou hodnotu (vyloučeno strukturou), argumentace by se komplikovala; v praxi k tomu nedochází.
+
+### H. Praktický závěr
+
+§ 21 vymezuje identifikátor DS jako jedinečný sedmiznakový alfanumerický řetězec nezaměnitelný s jinými identifikátory (IČO, DIČ, rodné číslo); tvorbu stanoví vyhláška. Identifikátor se dohledává ve veřejném seznamu (§ 14b) nebo přes API; OVM jej zjišťuje z úřední povinnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před odesláním ověřit identifikátor DS adresáta ve veřejném seznamu/vyhledávači ISDS (§ 14b).
+- [ ] Nezaměňovat identifikátor DS s IČO/DIČ/rodným číslem (odlišná struktura — § 21).
+- [ ] OVM: identifikátor DS adresáta zjišťovat z úřední povinnosti (§ 14 odst. 4).
+- [ ] Při doručení na chybnou DS doručení opakovat na správný identifikátor a vyřešit zprávu u nesprávného subjektu.
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS o identifikátoru DS adresáta; identifikátor DS, kam bylo skutečně doručeno; údaj o vlastníkovi cílové DS; doklad o úřední kontrole identifikátoru.
 
 ---
 
@@ -1416,6 +2316,42 @@ Mnoho právních předpisů vyžaduje **předložení listiny** (originálu nebo
 
 § 22 odst. 3 stanoví, že tuto povinnost lze splnit **předložením výstupu konverze** — typicky elektronického dokumentu s doložkou, který se odešle DS. To je transformační norma, která umožňuje **digitalizaci celého úředního procesu**: žádost lze celou podat elektronicky, vč. všech listinných příloh převedených konverzí.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Žadatel o stavební povolení podává žádost elektronicky (DS) a jako přílohu doloží elektronický výstup z autorizované konverze plné moci a souhlasů sousedů (původně listinných). Stavební úřad přílohu odmítne s tím, že chce „originály listin". Žadatel namítá, že výstup konverze má podle § 22 odst. 2 stejné právní účinky jako vstup a podle odst. 3 splňuje povinnost předložit listinu. Důkazy: výstup konverze s doložkou (§ 25), pořadové číslo konverze, výzva úřadu k předložení originálů.
+
+**2. Právní otázka.** Splňuje předložení výstupu autorizované konverze povinnost předložit dokument v listinné podobě správnímu orgánu podle § 22 odst. 3, a má výstup stejné právní účinky jako originál?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 22 odst. 1 (definice konverze obousměrně), odst. 2 (výstup má stejné účinky jako vstup), odst. 3 (předložením výstupu je splněna povinnost předložit listinu).
+- *Související ustanovení téhož zákona:* § 23 (subjekty provádějící konverzi), § 24 (postup a důvody neprovedení), § 25 (doložka).
+- *Související předpisy:* zákon č. 283/2021 Sb. (stavební zákon — náležitosti žádosti); § 37, § 53 SŘ (podání, listiny); § 6 zákona č. 12/2020 Sb. (právo na digitální služby).
+- *Judikatura:* NS 20 Cdo 588/2022 (některé listiny — originál geometrického plánu — nelze konvertovat/doručit do DS pro jejich povahu) — vymezuje hranici použitelnosti konverze.
+
+**4. Subsumpce.** § 22 odst. 2 přiznává výstupu konverze stejné právní účinky jako vstupu; odst. 3 výslovně stanoví, že povinnost předložit listinu OVM je splněna předložením výstupu. Výstup s doložkou (§ 25) je plnohodnotným stejnopisem, nikoli kopií. Stavební úřad proto nemůže požadovat „originál" navíc. Spornou okolností by bylo jen, zda konkrétní listina nepatří mezi nekonvertovatelné (§ 24 odst. 4) — souhlasy sousedů a plná moc mezi ně nepatří.
+
+**5. Řešení.** Předložení elektronického výstupu konverze splňuje povinnost předložit listinu (§ 22 odst. 3); úřad jej musí přijmout se stejnou důkazní silou jako originál. Požadavek na originály nad rámec výstupu je nezákonný. Praktický krok: žadatel doloží, že přílohy jsou autorizované konverze s doložkou a pořadovým číslem (dohledatelným v evidenci § 26); na výzvu úřadu odkáže na § 22 odst. 2, 3.
+
+**6. Varianty.** (a) Kdyby přílohou byl originál geometrického plánu (NS 20 Cdo 588/2022), konverze by nebyla možná a úřad by mohl trvat na listinné formě. (b) Kdyby šlo o dokument, jehož jedinečnost nelze nahradit (§ 24 odst. 4 písm. b), konverze by se neprovedla a § 22 odst. 3 by se neuplatnil.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „úřad může chtít originál":* Lze tvrdit, že úřad má právo na originál listiny. Neutralizace: § 22 odst. 3 výslovně stanoví, že povinnost je splněna výstupem konverze; výstup = vstup (odst. 2).
+- *Protiargument „výstup je jen kopie":* Námitka, že jde o pouhý sken. Neutralizace: výstup s doložkou je plnohodnotný stejnopis s plnou důkazní silou, nikoli kopie; bez doložky by ovšem účinky neměl (§ 25).
+- *Slabé místo:* Argumentace selhává u nekonvertovatelných listin (§ 24 odst. 4) a u dokumentů, jejichž povaha vylučuje elektronickou podobu (NS 20 Cdo 588/2022) — to je nutné předem prověřit.
+
+### H. Praktický závěr
+
+§ 22 zavádí autorizovanou konverzi jako právní most mezi listinným a elektronickým světem. Výstup má stejné právní účinky jako vstup (odst. 2) a jeho předložením je splněna povinnost předložit listinu OVM (odst. 3) — to umožňuje plně digitalizovat úřední podání. Konverze je úplným převedením s doložkou; existují však nekonvertovatelné dokumenty (§ 24).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda listina není mezi nekonvertovatelnými (§ 24 odst. 4) ani její povaha nevylučuje el. podobu (NS 20 Cdo 588/2022).
+- [ ] Výstup konverze předkládat OVM jako plnohodnotný stejnopis (§ 22 odst. 2, 3), nikoli „kopii".
+- [ ] Při odmítnutí úřadem odkázat na § 22 odst. 3 a doložit doložku a pořadové číslo konverze.
+- [ ] Konvertovat celý dokument (úplné převedení), nikoli jen jeho část.
+
+**Typicky rozhodné důkazy / podklady:** výstup konverze s doložkou (§ 25); pořadové číslo z evidence konverzí (§ 26); povaha a typ listiny (prvopis/ověřená kopie); výzva OVM a odůvodnění odmítnutí.
+
 ---
 
 ## § 23 — Subjekty provádějící konverzi
@@ -1463,6 +2399,42 @@ Mnoho právních předpisů vyžaduje **předložení listiny** (originálu nebo
 - notář konvertuje listinné protokoly do elektronického spisu agendy soudního komisaře.
 
 Tento režim **není zpoplatněn správním poplatkem** (na rozdíl od konverze na žádost) a slouží výhradně **interním potřebám** OVM — výstup zůstává v jeho spisové službě.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Advokát v rámci poskytování právní služby klientovi provede konverzi listinné smlouvy do elektronické podoby (pro podání soudu). Protistrana ve sporu namítá, že advokát nebyl oprávněn konverzi provést, protože „konverzi mohou dělat jen Czech POINTy". Současně tvrdí, že advokát nevedl evidenci konverzí. Důkazy: výstup konverze s doložkou označující advokáta jako subjekt, evidence konverzí advokáta, doklad o registraci advokáta u ČAK.
+
+**2. Právní otázka.** Je advokát oprávněn provádět autorizovanou konverzi na žádost podle § 23 odst. 1, za jakých podmínek, a jaký je rozdíl mezi konverzí na žádost a konverzí z moci úřední?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 23 odst. 1 (konverzi na žádost provádějí kontaktní místa veřejné správy a advokáti za podmínek jiného předpisu), odst. 2 (konverzi z moci úřední provádějí OVM pro výkon své působnosti).
+- *Související ustanovení téhož zákona:* § 24 (postup), § 25 (doložka), § 26 (evidence konverzí), § 30 (zkouška — advokát ji nepotřebuje).
+- *Související předpisy:* § 25c zákona č. 85/1996 Sb. (o advokacii — oprávnění advokáta ke konverzi a evidence); zákon č. 365/2000 Sb. (kontaktní místa veřejné správy).
+- *Judikatura:* obecně přijímaný závěr, že advokátní konverze má stejné účinky jako konverze na Czech POINTu (§ 22 odst. 2).
+
+**4. Subsumpce.** § 23 odst. 1 výslovně řadí advokáty mezi subjekty oprávněné provádět konverzi na žádost (vedle kontaktních míst), a to za podmínek § 25c zákona o advokacii (vedení evidence, technické požadavky ČAK). Advokát tedy oprávněn je. Konverze z moci úřední (odst. 2) je naopak vyhrazena OVM pro vlastní spis. Spornou okolností je jen splnění podmínek advokátem (evidence, podpis advokáta v doložce).
+
+**5. Řešení.** Advokát byl ke konverzi oprávněn (§ 23 odst. 1 ve spojení s § 25c zákona o advokacii); výstup má plné účinky (§ 22 odst. 2). Námitka protistrany neobstojí. Pokud by advokát nevedl evidenci, šlo by o porušení jeho stavovských povinností (kárná odpovědnost), ale na platnost konverze samé to zpravidla nedopadá, je-li doložka úplná. Praktický krok: advokát doloží zápis konverze ve své evidenci a doložku s vlastním podpisem.
+
+**6. Varianty.** (a) Kdyby konverzi provedl subjekt zcela mimo § 23 odst. 1 (např. běžná firma), nešlo by o autorizovanou konverzi a výstup by neměl účinky dle § 22 odst. 2. (b) Kdyby šlo o konverzi pro interní spis soudu, šlo by o konverzi z moci úřední (odst. 2), bez správního poplatku.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „konverzi smí jen Czech POINT":* Lze tvrdit, že advokát není oprávněn. Neutralizace: § 23 odst. 1 výslovně uvádí advokáty vedle kontaktních míst veřejné správy.
+- *Protiargument „bez evidence je konverze neplatná":* Námitka spojující evidenci s platností. Neutralizace: evidence je stavovskou povinností (§ 25c zákona o advokacii); její porušení zakládá kárnou odpovědnost, ale platnost výstupu se posuzuje podle úplnosti doložky (§ 25).
+- *Slabé místo:* Pokud doložka neobsahuje povinné náležitosti (§ 25) nebo advokátní podpis, lze platnost konverze úspěšně zpochybnit — formální správnost doložky je klíčová.
+
+### H. Praktický závěr
+
+§ 23 rozlišuje konverzi na žádost (kontaktní místa veřejné správy — pošty, úřady, banky, notáři; a advokáti) a konverzi z moci úřední (OVM pro vlastní spis, bez poplatku). Advokátní i Czech POINT konverze mají shodné právní účinky (§ 22 odst. 2); advokát zkoušku dle § 30 nepotřebuje, ale vede evidenci dle zákona o advokacii.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že konverzi provedl oprávněný subjekt (kontaktní místo veřejné správy nebo advokát — § 23 odst. 1).
+- [ ] U advokátní konverze zkontrolovat vedení evidence a doložku s podpisem advokáta (§ 25c zákona o advokacii).
+- [ ] Rozlišit konverzi na žádost (zpoplatněnou) od konverze z moci úřední (pro interní spis OVM, bez poplatku).
+- [ ] Platnost konverze posuzovat podle úplnosti doložky (§ 25), nikoli jen podle typu subjektu.
+
+**Typicky rozhodné důkazy / podklady:** výstup konverze s doložkou označující subjekt; doklad o oprávnění subjektu (registrace advokáta u ČAK / pověření Czech POINT); evidence provedených konverzí; pořadové číslo konverze (§ 26).
 
 ---
 
@@ -1582,6 +2554,42 @@ Klíčové omezení **rozsahu odpovědnosti subjektu provádějícího konverzi*
 
 > **Praktický dopad:** Pokud někdo přinese padělanou smlouvu a požádá o její konverzi do elektronického dokumentu, Czech POINT konverzi provede (předpokládá, že formálně splňuje požadavky § 24 odst. 4). Výstup z konverze je formálně platný stejnopis padělané smlouvy. To, že smlouva je padělaná, **konverze neřeší** — to je věc trestního práva a důkazního řízení v civilním sporu. Konverze pouze ověřuje, že **výstup věrně odpovídá vstupu**.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Občan přinese na Czech POINT k autorizované konverzi do elektronické podoby listinnou kupní smlouvu, ve které jsou ručně přeškrtnuté a přepsané částky (změny ceny doplněné perem). Pracovník Czech POINTu konverzi odmítne provést. Občan namítá, že smlouva je platná a měla být konvertována. Důkazy: předložená listina se škrty a vsuvkami, záznam o odmítnutí konverze s odůvodněním.
+
+**2. Právní otázka.** Smí subjekt provádějící konverzi odmítnout konverzi listiny obsahující změny, doplňky, vsuvky nebo škrty podle § 24 odst. 4 písm. c), a co konverze potvrzuje podle odst. 5?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 24 odst. 4 (taxativní katalog důvodů neprovedení konverze, zejm. písm. c) — změny/škrty zeslabující věrohodnost, písm. b) — nekonvertovatelné listiny, písm. d) — nejasný druh dokumentu), odst. 5 (konverzí se nepotvrzuje správnost a pravdivost údajů), odst. 1 (ověření el. prvků vstupu), odst. 2 (doložka bezodkladně).
+- *Související ustanovení téhož zákona:* § 22 (definice a účinky konverze), § 25 (doložka), § 23 (subjekty).
+- *Související předpisy:* vyhláška o technických náležitostech konverze (odst. 3); zákon č. 297/2016 Sb. (uznávaný el. podpis/pečeť — § 6); zákon č. 21/2006 Sb. (vidimace).
+- *Judikatura:* NS 20 Cdo 588/2022 (povaha dokumentu může vylučovat el. zpracování — přiměřeně k mezím konverze).
+
+**4. Subsumpce.** § 24 odst. 4 písm. c) výslovně zakazuje konverzi listiny, jsou-li v ní změny, doplňky, vsuvky nebo škrty, které by mohly zeslabit její věrohodnost. Ručně přepisované částky takovými změnami jsou. Subjekt je proto povinen konverzi odmítnout — výčet odst. 4 je taxativní a v daném případě je naplněn. Současně podle odst. 5 by konverze stejně nepotvrzovala pravdivost údajů, jen shodu obsahu. Spornou okolností je jen posouzení, zda škrty skutečně zeslabují věrohodnost (zde zjevně ano).
+
+**5. Řešení.** Odmítnutí konverze je správné (§ 24 odst. 4 písm. c). Občan musí zajistit „čistou" verzi listiny bez sporných úprav (např. nové vyhotovení smlouvy, ověřený opis) nebo dosáhnout jiného autoritativního potvrzení obsahu. Praktický krok: vysvětlit, že konverze neřeší pravost ani pravdivost (odst. 5) — i kdyby byla provedena, jen by věrně přenesla i sporné škrty; cílem zákazu je nešířit dokumenty pochybné věrohodnosti se „zdáním" autorizace.
+
+**6. Varianty.** (a) Kdyby šlo o konverzi elektronický → listina s porušenou integritou vstupu (písm. h) nebo bez uznávaného podpisu (písm. g), konverze by se rovněž neprovedla. (b) Kdyby šlo o nekonvertovatelnou listinu (občanský průkaz, geometrický plán — písm. b), odmítnutí by se opíralo o jiný důvod téhož katalogu.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „smlouva je platná, musí se konvertovat":* Lze tvrdit, že platnost dokumentu zakládá nárok na konverzi. Neutralizace: § 24 odst. 4 písm. c) váže odmítnutí na vzhled listiny (škrty/vsuvky zeslabující věrohodnost), nikoli na hmotněprávní platnost; výčet je taxativní a závazný.
+- *Protiargument „konverze potvrdí pravost":* Námitka, že konverze legalizuje obsah. Neutralizace: odst. 5 výslovně stanoví, že konverzí se nepotvrzuje správnost ani pravdivost údajů — jen shoda vstupu a výstupu.
+- *Slabé místo:* Posouzení, zda úpravy „mohou zeslabit věrohodnost", obsahuje prvek uvážení; hraniční případy (drobné opravy parafované stranami) mohou vést ke sporu o důvodnost odmítnutí.
+
+### H. Praktický závěr
+
+§ 24 upravuje postup konverze (ověření el. prvků vstupu, bezodkladné připojení doložky) a taxativní katalog deseti důvodů, kdy konverzi nelze provést (nekonvertovatelné listiny, škrty/vsuvky, nejasný druh dokumentu, vady el. vstupu, technické nedostatky). Klíčové: konverze potvrzuje jen shodu vstupu a výstupu, nikoli pravdivost údajů (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před konverzí prověřit, zda nenastal některý z důvodů neprovedení dle § 24 odst. 4 (zejm. škrty, nekonvertovatelnost, nejasný druh).
+- [ ] U konverze elektronický → listina ověřit el. podpis/pečeť/razítko a integritu vstupu (odst. 1, odst. 4 písm. g, h).
+- [ ] Připojit doložku bezodkladně po úplném převedení (odst. 2).
+- [ ] Pamatovat, že konverze nepotvrzuje pravdivost údajů (odst. 5) — nelze ji použít k „legalizaci" obsahu.
+
+**Typicky rozhodné důkazy / podklady:** předložená listina/elektronický vstup; záznam o důvodu (ne)provedení konverze; výsledek ověření el. prvků (odst. 1); doložka (§ 25) a technické parametry dle vyhlášky.
+
 ---
 
 ## § 25 — Doložka
@@ -1688,6 +2696,42 @@ Hierarchie autenticity konverzí v ČR:
 
 Všechny typy mají **stejné právní účinky** (§ 22 odst. 2 — výstup = vstup). Rozdíly jsou v ceně, dostupnosti a v některých případech v doplňkových službách (notář navíc poskytuje právní poradenství).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Strana sporu předloží soudu listinný výstup z konverze elektronického rozhodnutí jiného orgánu. Protistrana namítá, že výstup je „jen vytištěný PDF" a nelze ověřit, kdo a kdy elektronický vstup podepsal. Soud zkoumá doložku výstupu. Ukáže se, že doložka neobsahuje údaje o el. podpisu vstupu ani o výsledku ověření jeho platnosti (§ 25 odst. 2 písm. g). Důkazy: listinný výstup s neúplnou doložkou, pořadové číslo konverze, evidence konverzí.
+
+**2. Právní otázka.** Jaké povinné náležitosti musí obsahovat doložka konverze do listinné podoby podle § 25 odst. 2, a jaké jsou důsledky toho, že doložka neidentifikuje el. podpis vstupu a výsledek jeho ověření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 25 odst. 1 (doložka do el. podoby — 8 položek), odst. 2 (doložka do listinné podoby — 11 položek, vč. písm. g) identifikace el. podpisu a výsledku ověření, písm. i) časové razítko, písm. j) otisk úředního razítka a podpis, písm. k) údaje o datové zprávě).
+- *Související ustanovení téhož zákona:* § 24 odst. 1 (ověření el. prvků vstupu), § 22 odst. 2 (účinky výstupu), § 26 (evidence — dohledatelnost).
+- *Související předpisy:* zákon č. 297/2016 Sb. (uznávaný el. podpis/pečeť, kvalifikované časové razítko); eIDAS (čl. 25, 35, 41).
+- *Judikatura:* obecně přijímaný závěr, že bez úplné doložky nemá výstup charakter autorizované konverze (je jen pracovní kopií).
+
+**4. Subsumpce.** § 25 odst. 2 stanoví taxativní katalog náležitostí doložky listinného výstupu; písm. g) vyžaduje identifikaci el. podpisu/pečetě vstupu a výsledek ověření jeho platnosti. Chybí-li tato náležitost, doložka je neúplná a výstup nemá charakter autorizované konverze (chybí klíčový forenzní údaj o původu el. vstupu). Spornou okolností je, zda jde o opomenutí formy, nebo o to, že vstup ve skutečnosti podepsán nebyl (pak by konverze neměla být vůbec provedena — § 24 odst. 4 písm. g).
+
+**5. Řešení.** Výstup s neúplnou doložkou nemá plné účinky autorizované konverze — soud k němu nemůže přistupovat jako k stejnopisu s plnou důkazní silou (§ 22 odst. 2 předpokládá řádnou doložku § 25). Strana by měla konverzi nechat provést znovu s úplnou doložkou, případně doložit elektronický originál. Praktický krok: zkontrolovat doložku proti katalogu § 25 odst. 2 (zejm. písm. g, i, j, k) ještě před předložením soudu; dohledat konverzi v evidenci podle pořadového čísla (§ 26).
+
+**6. Varianty.** (a) Kdyby šlo o doložku konverze do el. podoby (§ 25 odst. 1) bez kvalifikovaného podpisu/pečetě (písm. h), výstup by rovněž nebyl řádnou konverzí. (b) Kdyby doložka byla úplná a podepsaná, výstup by měl plnou důkazní sílu bez ohledu na to, že jde fyzicky o tištěný dokument.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „je to jen vytištěný PDF":* Lze tvrdit, že listinný výstup nemá hodnotu. Neutralizace: výstup s ÚPLNOU doložkou je plnohodnotný stejnopis (§ 22 odst. 2); problém zde je v neúplnosti doložky, nikoli v listinné formě jako takové.
+- *Protiargument „chybějící údaj je nepodstatný":* Námitka bagatelizující vadu doložky. Neutralizace: náležitosti § 25 odst. 2 jsou stanoveny taxativně; údaj o el. podpisu a výsledku ověření (písm. g) je nositelem forenzní hodnoty doložky.
+- *Slabé místo:* Pokud vstup objektivně podepsán byl a chyba je čistě v doložce, lze namítat opravitelnost; přesto je bezpečnější provést konverzi znovu, než spoléhat na zhojení vady.
+
+### H. Praktický závěr
+
+§ 25 stanoví dvojí taxativní katalog náležitostí doložky podle směru konverze. Doložka je „certifikátem" konverze a její součástí (šíří se vždy s výstupem); bez úplné doložky výstup nemá charakter autorizované konverze. U listinného výstupu je doložka forenzním protokolem o el. vstupu (kdo podepsal, který certifikát, časové razítko, údaje o datové zprávě).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zkontrolovat úplnost doložky proti katalogu § 25 odst. 1 (el. výstup) nebo odst. 2 (listinný výstup).
+- [ ] U listinného výstupu ověřit identifikaci el. podpisu vstupu a výsledku ověření (odst. 2 písm. g), časové razítko (písm. i) a podpis/razítko (písm. j).
+- [ ] Ověřit, že doložka je pevně spojena s výstupem (součást výstupu).
+- [ ] Při neúplné doložce nechat konverzi provést znovu, nespoléhat na účinky dle § 22 odst. 2.
+
+**Typicky rozhodné důkazy / podklady:** výstup konverze s doložkou; porovnání doložky s katalogem § 25; pořadové číslo konverze a záznam v evidenci (§ 26); případně elektronický originál vstupu pro doplnění důkazu.
+
 ---
 
 ## § 26 — Evidence provedených konverzí
@@ -1740,6 +2784,42 @@ Evidence slouží **dvěma účelům**:
 
 > **Pozor:** 10letá lhůta v § 26 odst. 5 je **lhůta pro uchování záznamu v evidenci**, nikoli lhůta platnosti samotného výstupu. Výstup konverze má **trvalou** právní platnost (§ 22 odst. 2) — nevyprchá ani po 10 letech. Po 10 letech však již nelze v evidenci ověřit, že konverze byla provedena, takže důkazně se výstup opírá pouze o doložku.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Patnáct let po provedení autorizované konverze rodného listu vznikne v civilním řízení spor o pravost konverzního výstupu. Strana chce dohledat záznam o konverzi v centrální evidenci podle pořadového čísla z doložky. Agentura však sdělí, že záznam již není veden — od provedení konverze uplynulo více než 10 let (§ 26 odst. 5). Strana se obává, že výstup tím pozbyl platnosti. Důkazy: výstup konverze s doložkou a pořadovým číslem, sdělení Agentury o neexistenci záznamu v evidenci.
+
+**2. Právní otázka.** Jaké jsou důsledky uplynutí 10leté lhůty pro uchování údajů v evidenci provedených konverzí podle § 26 odst. 5 na platnost konverzního výstupu a na možnost jeho ověření?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26 odst. 1 (Agentura vede evidenci), odst. 2 (vedené údaje), odst. 3 (zapisovatelé — pořadové číslo Agentura, ostatní subjekt), odst. 5 (uchování údajů 10 let od provedení konverze).
+- *Související ustanovení téhož zákona:* § 22 odst. 2 (výstup má stejné účinky jako vstup — trvale), § 25 (doložka jako součást výstupu).
+- *Související předpisy:* § 629 OZ (promlčecí lhůty); § 125 OSŘ (důkaz listinou); zákon č. 499/2004 Sb. (archivnictví).
+- *Judikatura:* obecně přijímaný závěr, že 10letá lhůta se týká uchování záznamu v evidenci, nikoli platnosti výstupu.
+
+**4. Subsumpce.** § 26 odst. 5 stanoví, že údaje v evidenci se uchovávají 10 let od provedení konverze. Po této době se záznam v evidenci nevede, takže nelze prostřednictvím evidence ověřit, že konverze byla provedena. To se však týká jen dohledatelnosti v evidenci, nikoli platnosti výstupu — ta je podle § 22 odst. 2 trvalá. Spornou okolností je důkazní situace: výstup se po 10 letech opírá pouze o doložku (§ 25), nikoli o evidenci.
+
+**5. Řešení.** Výstup konverze neztrácí platnost uplynutím 10leté lhůty — § 22 odst. 2 mu přiznává trvalé účinky. Po 10 letech se však jeho pravost nedá ověřit v evidenci; důkazně se výstup opírá výlučně o úplnou doložku (§ 25). Praktický krok: pravost výstupu dokládat samotnou doložkou (kvalifikovaný podpis/pečeť subjektu, který konverzi provedl); při pochybnostech zajistit znalecké ověření el. podpisu/pečetě v doložce.
+
+**6. Varianty.** (a) Kdyby od konverze ještě neuplynulo 10 let, Agentura by záznam dohledala podle pořadového čísla a potvrdila provedení konverze. (b) Kdyby šlo o důkazně zásadní dokument, bylo by vhodné provést novou konverzi z dosud platného elektronického originálu, čímž by vznikl nový evidovaný záznam.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „po 10 letech výstup neplatí":* Lze tvrdit, že uplynutí lhůty ruší účinky výstupu. Neutralizace: § 26 odst. 5 řeší jen dobu uchování záznamu v evidenci; platnost výstupu je podle § 22 odst. 2 trvalá.
+- *Protiargument „bez evidence nelze nic prokázat":* Námitka ztráty důkazu. Neutralizace: pravost výstupu nese doložka (§ 25) s kvalifikovaným podpisem/pečetí; evidence je jen doplňkovým ověřovacím nástrojem.
+- *Slabé místo:* Po uplynutí 10 let je důkazní pozice slabší (chybí nezávislé ověření v evidenci); pokud je navíc doložka neúplná nebo zpochybněná, prokázání pravosti je obtížné.
+
+### H. Praktický závěr
+
+§ 26 zřizuje centrální evidenci konverzí vedenou Agenturou (pořadové číslo zapisuje Agentura, ostatní údaje subjekt provádějící konverzi). Evidence slouží k dohledatelnosti a důkazu po dobu 10 let (odst. 5). Tato lhůta neomezuje trvalou platnost výstupu (§ 22 odst. 2) — po jejím uplynutí se však pravost výstupu opírá už jen o doložku.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pravost konverzního výstupu do 10 let ověřovat dohledáním v evidenci podle pořadového čísla (§ 26 odst. 2 písm. a).
+- [ ] Po 10 letech pravost dokládat úplnou doložkou (§ 25) a případně znaleckým ověřením el. podpisu/pečetě.
+- [ ] U důkazně zásadních dokumentů zvážit novou konverzi z platného elektronického originálu (nový evidovaný záznam).
+- [ ] Rozlišovat 10letou lhůtu evidence (§ 26 odst. 5) od trvalé platnosti výstupu (§ 22 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** výstup konverze s doložkou a pořadovým číslem; potvrzení/sdělení Agentury z evidence (do 10 let); kvalifikovaný el. podpis/pečeť v doložce; případně elektronický originál vstupu.
+
 ---
 
 ## Přestupky
@@ -1781,6 +2861,42 @@ Tyto sazby vyplývají z tradičního přístupu k FO jako k „neorganizovaném
 #### Vztah k jiným přestupkovým úpravám
 
 Šíření spamu může současně naplňovat skutkovou podstatu **přestupku podle zákona č. 480/2004 Sb. o některých službách informační společnosti** (zákaz nevyžádaných obchodních sdělení), případně podle GDPR. Souběh přestupků se posuzuje podle obecné úpravy zákona č. 250/2016 Sb. o odpovědnosti za přestupky. Šíření malwaru může být i **trestným činem** podle § 230 a násl. TZ (neoprávněný přístup k počítačovému systému) — v takovém případě má trestní stíhání přednost.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Fyzická osoba (nepodnikatel) opakovaně rozesílá ze své DS FO desítkám adresátů (PFO/PO) řetězový dopis s politickou agitací a výzvou k přeposlání. Několik adresátů podá podnět Agentuře. Agentura zahájí přestupkové řízení. Odesílatel namítá, že šlo o „soukromý názor", nikoli o obchodní sdělení. Důkazy: výpisy z ISDS o odeslaných zprávách (identifikace odesílatele, počet adresátů), obsah zprávy, podněty adresátů.
+
+**2. Právní otázka.** Naplňuje rozesílání nevyžádaných obtěžujících (byť neobchodních) sdělení z DS FO skutkovou podstatu přestupku podle § 26a odst. 1 písm. a), a jaká pokuta hrozí fyzické osobě?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26a odst. 1 písm. a) (šíření nevyžádaných obchodních či jiných obtěžujících sdělení), písm. b) (škodlivý program), odst. 2 písm. a) (pokuta do 10 000 Kč), písm. b) (do 20 000 Kč).
+- *Související ustanovení téhož zákona:* § 2 odst. 1 (účelové vymezení DS), § 26b (totožné skutkové podstaty pro PFO/PO s vyššími pokutami), § 26c (příslušnost Agentury).
+- *Související předpisy:* zákon č. 250/2016 Sb. (o odpovědnosti za přestupky — souběh, zánik odpovědnosti); zákon č. 480/2004 Sb. (nevyžádaná obchodní sdělení); § 230 TZ (u malwaru).
+- *Judikatura:* obecný výklad pojmu „obtěžující sdělení" jako sdělení zasílaného bez souhlasu a proti vůli adresáta.
+
+**4. Subsumpce.** § 26a odst. 1 písm. a) postihuje nejen „obchodní", ale i „jiná obtěžující" sdělení. Řetězový politický dopis rozesílaný hromadně bez souhlasu adresátů je obtěžujícím sdělením. Skutková podstata je naplněna; není rozhodné, že nejde o reklamu. Pokuta u FO činí až 10 000 Kč (odst. 2 písm. a). Spornou okolností je jen prokázání úmyslu/opakování a počtu adresátů.
+
+**5. Řešení.** Jednání naplňuje přestupek dle § 26a odst. 1 písm. a); Agentura může uložit pokutu do 10 000 Kč (odst. 2 písm. a). Námitka „soukromého názoru" neobstojí — zákon postihuje i neobchodní obtěžující sdělení. Praktický krok obhajoby: namítat absenci hromadnosti/opakování nebo souhlas adresátů; jinak zvážit nápravu a polehčující okolnosti. Pozor na souběh s úpravou dle zákona č. 480/2004 Sb. (řeší se dle zákona č. 250/2016 Sb.).
+
+**6. Varianty.** (a) Kdyby šlo o šíření škodlivého programu (písm. b), pokuta by činila až 20 000 Kč a mohlo by jít i o trestný čin dle § 230 TZ (přednost trestního stíhání). (b) Kdyby totéž jednání spáchala PFO/PO, uplatnil by se § 26b s pokutou až 10/20 mil. Kč.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „nešlo o obchodní sdělení":* Lze tvrdit, že politický/soukromý obsah není postižitelný. Neutralizace: § 26a odst. 1 písm. a) zahrnuje i „jiná obtěžující sdělení", nikoli pouze obchodní.
+- *Protiargument „příslušný je ČTÚ/ÚOOÚ":* Námitka nepříslušnosti Agentury. Neutralizace: § 26c svěřuje přestupky podle ZDS výlučně Agentuře; souběh s jinými úpravami se řeší dle zákona č. 250/2016 Sb.
+- *Slabé místo:* Hranice mezi legitimní jednorázovou komunikací a „obtěžujícím sdělením" je neostrá; bez prokázání hromadnosti, opakování a absence souhlasu může být naplnění skutkové podstaty zpochybněno.
+
+### H. Praktický závěr
+
+§ 26a stanoví dvě skutkové podstaty přestupku fyzické osoby — šíření nevyžádaných obchodních či jiných obtěžujících sdělení (pokuta do 10 000 Kč) a šíření škodlivého programu (do 20 000 Kč). DS nesmí sloužit ke „spamu" ani k obtěžování; u malwaru hrozí i trestní postih (§ 230 TZ). Příslušná je Agentura (§ 26c).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Posoudit, zda jde o nevyžádané obchodní nebo „jiné obtěžující" sdělení (§ 26a odst. 1 písm. a) — postačí i neobchodní obtěžování.
+- [ ] U škodlivého programu (písm. b) zvážit souběh s trestným činem dle § 230 TZ (přednost trestního stíhání).
+- [ ] Při obhajobě namítat absenci hromadnosti/opakování nebo existenci souhlasu adresátů.
+- [ ] Podnět směřovat Agentuře jako příslušnému orgánu (§ 26c).
+
+**Typicky rozhodné důkazy / podklady:** výpisy z ISDS o odeslaných zprávách (odesílatel, počet adresátů, čas); obsah sdělení; podněty/stížnosti adresátů; doklad o (ne)existenci souhlasu adresátů.
 
 ---
 
@@ -1824,6 +2940,42 @@ PFO a PO mohou podle obecné úpravy (§ 21 odst. 1 zákona č. 250/2016 Sb.) vy
 - Politika souhlasů adresátů;
 - Technická opatření proti automatizovanému rozesílání.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Marketingová agentura (s.r.o.) získá databázi identifikátorů DS právnických osob a hromadně rozešle reklamní sdělení 30 000 adresátům přes soukromé dodávání (§ 18a). Po vlně stížností Agentura zahájí přestupkové řízení a zvažuje pokutu v řádu milionů. Agentura se brání tvrzením, že rozesílání zajišťoval externí subdodavatel a že přijala interní pravidla zakazující spam. Důkazy: výpisy z ISDS o hromadném rozeslání, obsah reklamy, interní směrnice agentury, smlouva se subdodavatelem.
+
+**2. Právní otázka.** Za jakých podmínek se právnická osoba zprostí odpovědnosti za přestupek hromadného rozesílání nevyžádaných obchodních sdělení podle § 26b, a jaká pokuta hrozí?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26b odst. 1 písm. a) (šíření nevyžádaných obchodních/obtěžujících sdělení), písm. b) (škodlivý program), odst. 2 písm. a) (pokuta do 10 000 000 Kč), písm. b) (do 20 000 000 Kč).
+- *Související ustanovení téhož zákona:* § 26a (totožné skutkové podstaty pro FO, tisíckrát nižší pokuty), § 26c (příslušnost Agentury), § 18a (soukromé dodávání).
+- *Související předpisy:* § 21 odst. 1 zákona č. 250/2016 Sb. (liberace PFO/PO — vynaložení veškerého úsilí); zákon č. 480/2004 Sb. (nevyžádaná obchodní sdělení).
+- *Judikatura:* obecný standard liberace — formální interní pravidla bez účinné kontroly k vyvinění nestačí.
+
+**4. Subsumpce.** § 26b odst. 1 písm. a) postihuje hromadné rozesílání reklamy přes DS; skutková podstata je naplněna. Pokuta činí až 10 mil. Kč (odst. 2 písm. a). Liberace podle § 21 odst. 1 zákona č. 250/2016 Sb. vyžaduje prokázat vynaložení veškerého úsilí, které lze požadovat; pouhá existence interní směrnice bez kontroly subdodavatele to nesplňuje. Spornou okolností je účinnost kontrolních opatření agentury.
+
+**5. Řešení.** Agentura (jako pachatel) pravděpodobně odpovídá za přestupek — formální směrnice bez účinné kontroly subdodavatele neliberuje; rozhodující je faktická prevence. Pokuta může jít do milionů (odst. 2 písm. a). Argument „subdodavatel" nevyviňuje, neboť rozesílání proběhlo v zájmu a na účet agentury. Praktický krok obhajoby: doložit účinné kontroly před odesláním, školení, politiku souhlasů a technická opatření; jinak usilovat o snížení pokuty polehčujícími okolnostmi a nápravou.
+
+**6. Varianty.** (a) Kdyby agentura prokázala robustní systém kontroly souhlasů a incident byl ojedinělým selháním navzdory veškerému úsilí, mohla by se liberovat. (b) Kdyby šlo o šíření malwaru (písm. b), pokuta by činila až 20 mil. Kč a hrozil by souběh s trestním postihem.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „odpovídá subdodavatel":* Lze přenášet odpovědnost na externí subjekt. Neutralizace: přestupku se dopustila PO, v jejíž prospěch a na jejíž účet bylo rozesíláno; regres vůči subdodavateli je vnitřní věcí.
+- *Protiargument „máme interní zákaz spamu":* Námitka formální compliance. Neutralizace: liberace dle § 21 odst. 1 zákona č. 250/2016 Sb. vyžaduje vynaložení veškerého úsilí (účinné kontroly), nikoli jen existenci směrnice.
+- *Slabé místo:* Hranice „veškerého úsilí" je neurčitá; bez doložení funkčních kontrolních mechanismů je liberace nejistá, a naopak při jejich doložení může pokuta výrazně klesnout.
+
+### H. Praktický závěr
+
+§ 26b zrcadlí skutkové podstaty § 26a, ale stanoví tisíckrát vyšší pokuty pro PFO/PO (spam do 10 mil. Kč, malware do 20 mil. Kč) — reflektuje ekonomickou kapacitu a riziko hromadného rozesílání. PFO/PO se mohou liberovat dle § 21 odst. 1 zákona č. 250/2016 Sb., ale jen účinnou prevencí, nikoli formálními pravidly.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Před hromadným rozesíláním přes DS zajistit prokazatelný souhlas adresátů a účinné kontroly (prevence dle § 21 odst. 1 zákona č. 250/2016 Sb.).
+- [ ] Nespoléhat na formální směrnici — doložit funkční kontrolní a technická opatření.
+- [ ] U malwaru (písm. b) počítat s pokutou do 20 mil. Kč a souběhem s trestním postihem.
+- [ ] Při obraně doložit liberační okolnosti a usilovat o zohlednění nápravy a polehčujících okolností.
+
+**Typicky rozhodné důkazy / podklady:** výpisy z ISDS o hromadném rozeslání (počet adresátů, čas); obsah obchodního sdělení; doklady o souhlasech adresátů; interní kontrolní mechanismy a jejich faktické fungování; smlouva a kontrola subdodavatele.
+
 ---
 
 ## § 26c — Příslušnost
@@ -1842,6 +2994,42 @@ Všechny přestupky podle ZDS (§§ 26a, 26b) projednává **Agentura** (DIA) �
 2. **Efektivita** — přestupkové řízení nevyžaduje dohledávání místní příslušnosti, vedoucí by se mohlo komplikovat u online přestupků.
 
 Proti rozhodnutí Agentury o uložení pokuty lze podat **rozklad** podle § 152 SŘ (ministr/předseda Agentury rozhoduje o opravném prostředku) nebo přímo **správní žalobu** ke krajskému soudu podle § 65 SŘS.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Právnická osoba, které Agentura uložila pokutu za přestupek podle § 26b, nesouhlasí s rozhodnutím. Zvažuje, jaký opravný prostředek podat a ke kterému orgánu, a zda je vůbec příslušná Agentura, nebo úřad podle sídla pachatele. Tvrdí, že přestupek měl projednat krajský úřad v místě jejího sídla. Důkazy: rozhodnutí Agentury o uložení pokuty, doklad o sídle pachatele.
+
+**2. Právní otázka.** Který orgán je příslušný projednat přestupky podle zákona č. 300/2008 Sb. a jaké opravné prostředky proti jeho rozhodnutí přicházejí v úvahu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 26c (přestupky podle tohoto zákona projednává Agentura).
+- *Související ustanovení téhož zákona:* § 26a, § 26b (skutkové podstaty a pokuty), § 2 odst. 2 (Agentura jako správce/zřizovatel).
+- *Související předpisy:* § 152 SŘ (rozklad); § 65 a násl. SŘS (správní žaloba ke krajskému soudu); zákon č. 250/2016 Sb. (řízení o přestupku); § 60 a násl. zákona č. 250/2016 Sb. (místní příslušnost — vyloučena zvláštní úpravou § 26c).
+- *Judikatura:* obecný závěr, že zvláštní úprava příslušnosti má přednost před obecnými pravidly místní příslušnosti.
+
+**4. Subsumpce.** § 26c je zvláštní normou o věcné příslušnosti — všechny přestupky podle ZDS projednává Agentura, bez ohledu na sídlo pachatele. Obecná pravidla místní příslušnosti dle zákona č. 250/2016 Sb. se tím vytlačují. Námitka, že měl rozhodovat krajský úřad podle sídla, je proto nedůvodná. Spornou okolností není příslušnost, nýbrž věcná správnost rozhodnutí.
+
+**5. Řešení.** Příslušná je výlučně Agentura (§ 26c); rozhodnutí krajského úřadu by bylo nicotné/nezákonné pro nepříslušnost. Proti rozhodnutí Agentury lze podat rozklad (§ 152 SŘ), o němž rozhoduje vedoucí Agentury, a následně správní žalobu ke krajskému soudu (§ 65 SŘS). Praktický krok: podat rozklad ve lhůtě, vyčerpat opravné prostředky před žalobou; námitku nepříslušnosti neuplatňovat (je neúspěšná).
+
+**6. Varianty.** (a) Kdyby pachatelem byla FO (§ 26a), příslušnost by byla rovněž u Agentury (§ 26c platí pro všechny přestupky podle ZDS). (b) Kdyby šlo o jiný delikt (ne podle ZDS, např. dle GDPR), příslušným by byl jiný orgán (ÚOOÚ) a § 26c by se neuplatnil.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „příslušný je úřad dle sídla":* Lze namítat obecnou místní příslušnost. Neutralizace: § 26c stanoví zvláštní věcnou příslušnost Agentury pro všechny přestupky podle ZDS; obecná pravidla ustupují.
+- *Protiargument „nelze podat rozklad, jen odvolání":* Námitka nesprávného opravného prostředku. Neutralizace: rozhoduje-li ústřední správní úřad (Agentura), podává se rozklad (§ 152 SŘ), nikoli odvolání.
+- *Slabé místo:* Centralizace u Agentury klade vyšší nároky na jednotnost a rychlost řízení; procesně je třeba pečlivě vyčerpat rozklad před podáním správní žaloby (jinak hrozí odmítnutí žaloby).
+
+### H. Praktický závěr
+
+§ 26c centralizuje projednávání všech přestupků podle ZDS u Agentury (DIA) — vytlačuje obecná pravidla místní příslušnosti a zajišťuje jednotnou rozhodovací praxi v technicky specifické agendě ISDS. Opravným prostředkem je rozklad (§ 152 SŘ), poté správní žaloba ke krajskému soudu (§ 65 SŘS).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Přestupky podle ZDS adresovat/napadat výlučně u Agentury (§ 26c) — nikoli u úřadu dle sídla.
+- [ ] Proti rozhodnutí Agentury podat rozklad (§ 152 SŘ), nikoli odvolání.
+- [ ] Před správní žalobou (§ 65 SŘS) vyčerpat rozklad.
+- [ ] Námitku místní nepříslušnosti neuplatňovat — je vzhledem k § 26c neúspěšná.
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí Agentury o přestupku; doklad o včasnosti rozkladu; podklady ke skutkové podstatě (výpisy z ISDS, obsah sdělení); doklad o vyčerpání opravných prostředků pro účely žaloby.
 
 ---
 
@@ -1898,6 +3086,42 @@ Tato cesta je v praxi standardní pro:
 
 V případě **automatického zřízení DS PFO/PO** (§ 4 odst. 1, § 5 odst. 1) si vlastník může přístupové údaje vyzvednout přímo na Czech POINTu **na počkání**. Jinak Agentura zasílá údaje papírem do vlastních rukou, což trvá několik dní. Tato „expres" cesta je důležitá pro PFO/PO, které potřebují DS okamžitě (typicky po zapsání do živnostenského rejstříku, aby mohly začít přijímat doručení od OVM).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Občan chce zřídit DS FO online, bez návštěvy úřadu a bez úředně ověřeného podpisu. Přihlásí se přes BankID na portálu, vyplní žádost a odešle ji s využitím přístupu pomocí kvalifikovaného prostředku. Úřad (resp. Agentura) zpočátku žádost vrací s tím, že chybí úředně ověřený podpis podle § 3 odst. 4. Občan namítá výjimku podle § 27 odst. 4. Důkazy: záznam o podání žádosti s ověřením BankID, doklad o tom, že identita byla ověřena kvalifikovaným prostředkem.
+
+**2. Právní otázka.** Vyžaduje žádost o zřízení DS FO úředně ověřený podpis (§ 3 odst. 4), je-li podána s využitím přístupu pomocí kvalifikovaného prostředku elektronické identifikace podle § 27 odst. 4?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 27 odst. 1 (podání přes kontaktní místo veřejné správy), odst. 3 (bez ověřeného podpisu před zaměstnancem Agentury/Czech POINTu), odst. 4 (bez ověřeného podpisu při podání kvalifikovaným prostředkem — BankID/NIA/mojeID), odst. 5 (ověření z DS jiné osoby + ZROB), odst. 6 (přístupové údaje na počkání).
+- *Související ustanovení téhož zákona:* § 3 odst. 4 (úředně ověřený podpis žádosti DS FO), § 4 odst. 5, § 5 odst. 5 (obdobně), § 10 odst. 1 (zaslání přístupových údajů).
+- *Související předpisy:* zákon č. 250/2017 Sb. (kvalifikované prostředky el. identifikace); zákon č. 365/2000 Sb. (kontaktní místa); zákon č. 12/2020 Sb. (právo na digitální služby).
+- *Judikatura:* obecně přijímaný závěr, že ověření identity kvalifikovaným prostředkem nahrazuje legalizaci pro účely podání podle ZDS.
+
+**4. Subsumpce.** § 27 odst. 4 výslovně stanoví, že úředně ověřený podpis žádosti podle § 3 odst. 4 se nevyžaduje, je-li žádost podána s využitím přístupu pomocí kvalifikovaného prostředku. Občan tuto podmínku splnil (BankID). Požadavek na legalizaci je proto nedůvodný. Spornou okolností by bylo jen, zda použitý prostředek je skutečně kvalifikovaným prostředkem el. identifikace (BankID/NIA ano).
+
+**5. Řešení.** Žádost podaná přes BankID nevyžaduje úředně ověřený podpis (§ 27 odst. 4); Agentura ji musí přijmout a DS zřídit. Vrácení žádosti pro absenci legalizace je nezákonné. Praktický krok: občan odkáže na § 27 odst. 4 a doloží ověření identity kvalifikovaným prostředkem; DS se zřídí bezplatně a bezodkladně (§ 3 odst. 1). Přístupové údaje se u DS zřízené dle § 27 odst. 4 zasílají jen na žádost (§ 10 odst. 1 věta druhá).
+
+**6. Varianty.** (a) Kdyby žádost byla podepsána přímo před zaměstnancem Czech POINTu (§ 27 odst. 3), legalizace by se rovněž nevyžadovala. (b) Kdyby šlo o automaticky zřízenou DS PFO/PO (§ 4 odst. 1, § 5 odst. 1), přístupové údaje by si vlastník mohl vyzvednout na počkání na Czech POINTu (§ 27 odst. 6).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „chybí úředně ověřený podpis":* Lze trvat na legalizaci dle § 3 odst. 4. Neutralizace: § 27 odst. 4 výslovně tuto povinnost vylučuje při podání kvalifikovaným prostředkem.
+- *Protiargument „BankID není dostatečné ověření":* Námitka proti úrovni identifikace. Neutralizace: BankID/NIA jsou kvalifikované prostředky el. identifikace dle zákona č. 250/2017 Sb.; § 27 odst. 4 na ně přímo míří.
+- *Slabé místo:* Výjimka platí jen pro vyjmenované žádosti (§ 3 odst. 4, § 4 odst. 5, příp. § 5 odst. 5 dle odst. 3); u jiných podání ji nelze automaticky rozšiřovat — je třeba ověřit konkrétní typ žádosti.
+
+### H. Praktický závěr
+
+§ 27 sjednocuje pravidla pro žádosti a podání podle ZDS: umožňuje podání přes kontaktní místa veřejné správy (odst. 1) a zavádí výjimky z úředně ověřeného podpisu — podpis před zaměstnancem (odst. 3), podání kvalifikovaným prostředkem (odst. 4, dnes hlavní cesta — BankID/NIA), křížové ověření z DS + ZROB (odst. 5). Přístupové údaje lze získat na počkání na Czech POINTu (odst. 6).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pro online zřízení DS FO využít BankID/NIA bez nutnosti legalizace (§ 27 odst. 4).
+- [ ] Alternativně podat žádost před zaměstnancem Agentury/Czech POINTu (§ 27 odst. 3).
+- [ ] U DS zřízené dle § 27 odst. 4 počítat se zasláním přístupových údajů jen na žádost (§ 10 odst. 1).
+- [ ] U automaticky zřízených DS PFO/PO zvážit vyzvednutí údajů na počkání (§ 27 odst. 6).
+
+**Typicky rozhodné důkazy / podklady:** záznam o podání žádosti a způsobu ověření identity (BankID/NIA); doklad o kvalifikovaném prostředku el. identifikace; potvrzení o zřízení DS; doklad o vyzvednutí přístupových údajů.
+
 ---
 
 ## § 28 — Bezplatnost základních úkonů
@@ -1925,6 +3149,42 @@ Toto je významné — bez § 28 by Czech POINTy mohly za přijetí žádostí �
 - **Soukromé dodávání datových zpráv P2P** (§ 18a odst. 4) — cca 8–10 Kč za zprávu;
 - **SMS notifikace** o dodání zprávy (§ 20 odst. 1 písm. d)) — náklady hradí adresát;
 - **Datový trezor** (dlouhodobé uložení zpráv) — cca 360 Kč/rok pro FO.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Občan přijde na Czech POINT (pobočku pošty) oznámit ztrátu přístupových údajů ke své DS FO a požádat o vydání nových (§ 12 odst. 1). Pracovník přepážky po něm požaduje manipulační poplatek 50 Kč za přijetí oznámení a vydání nových údajů. Občan namítá, že tyto úkony jsou ze zákona bezplatné. Důkazy: doklad o požadovaném poplatku, oznámení o ztrátě údajů, potvrzení o vydání nových údajů.
+
+**2. Právní otázka.** Lze za příjem oznámení podle § 27 odst. 1 a za vydání nových přístupových údajů podle § 12 odst. 1 účtovat poplatek, nebo jsou tyto úkony podle § 28 bezplatné?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 28 (příjem žádostí/oznámení podle § 27 odst. 1 a vydávání přístupových údajů podle § 12 odst. 1 je bezplatné).
+- *Související ustanovení téhož zákona:* § 12 odst. 1 (zneplatnění a vydání nových údajů), § 27 odst. 1 (podání přes kontaktní místo), § 18a odst. 4 (zpoplatněné dodávání), § 20 odst. 1 písm. d) (zpoplatněná SMS notifikace), § 20 odst. 4 (datový trezor).
+- *Související předpisy:* zákon č. 634/2004 Sb. (správní poplatky — konverze 30 Kč/strana); zákon č. 365/2000 Sb. (kontaktní místa veřejné správy).
+- *Judikatura:* obecný závěr, že bezplatnost základních úkonů je kogentní a kontaktní místo ji nesmí obcházet manipulačním poplatkem.
+
+**4. Subsumpce.** § 28 výslovně stanoví bezplatnost dvou úkonů: příjmu žádostí/oznámení podle § 27 odst. 1 a vydávání přístupových údajů podle § 12 odst. 1. Oznámení o ztrátě údajů a vydání nových přesně spadají pod § 12 odst. 1, resp. § 27 odst. 1. Požadovaný poplatek je proto v rozporu se zákonem. Spornou okolností není nic — jde o jasnou kogentní normu.
+
+**5. Řešení.** Úkony jsou bezplatné (§ 28); kontaktní místo nesmí účtovat manipulační poplatek. Občan odkáže na § 28 a poplatek odmítne; při trvání na poplatku může podat stížnost (§ 175 SŘ) nebo podnět provozovateli/Agentuře. Praktický krok: trvat na bezplatném vyřízení; uchovat doklad o případně zaplaceném poplatku pro jeho vrácení. Zpoplatněny jsou naopak jen jiné úkony (konverze, soukromé dodávání, SMS notifikace, datový trezor).
+
+**6. Varianty.** (a) Kdyby občan žádal o autorizovanou konverzi, poplatek 30 Kč/strana by byl oprávněný (zákon č. 634/2004 Sb.). (b) Kdyby šlo o soukromé dodávání zprávy (§ 18a), odměna provozovateli by se hradila (cca 8–10 Kč/zpráva).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „manipulační poplatek za službu přepážky":* Lze tvrdit, že kontaktní místo si může účtovat režii. Neutralizace: § 28 stanoví bezplatnost těchto konkrétních úkonů kogentně; obcházení manipulačním poplatkem je nepřípustné.
+- *Protiargument „bezplatné je jen u Agentury, ne na poště":* Námitka rozlišování podle místa. Neutralizace: § 27 odst. 1 umožňuje podání přes kontaktní místo a § 28 váže bezplatnost na typ úkonu, nikoli na místo jeho přijetí.
+- *Slabé místo:* § 28 je úzký — pokrývá jen úkony podle § 27 odst. 1 a § 12 odst. 1; ostatní úkony (konverze, dodávání, notifikace) zpoplatněny jsou, takže rozsah bezplatnosti nelze rozšiřovat.
+
+### H. Praktický závěr
+
+§ 28 garantuje bezplatnost základních úkonů kolem DS — příjmu žádostí/oznámení (§ 27 odst. 1) a vydávání přístupových údajů (§ 12 odst. 1) — aby cena netvořila bariéru užívání DS. Zpoplatněny zůstávají jen specifické služby (autorizovaná konverze, soukromé dodávání, SMS notifikace, datový trezor).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Za příjem žádostí/oznámení (§ 27 odst. 1) a vydání přístupových údajů (§ 12 odst. 1) neplatit ani neúčtovat poplatek (§ 28).
+- [ ] Odlišit bezplatné úkony od zpoplatněných (konverze 30 Kč/strana, dodávání, SMS, trezor).
+- [ ] Při neoprávněném poplatku uplatnit stížnost (§ 175 SŘ) a žádat vrácení.
+- [ ] Bezplatnost se vztahuje na úkon bez ohledu na to, zda jej přijímá Agentura nebo kontaktní místo.
+
+**Typicky rozhodné důkazy / podklady:** doklad o požadovaném/zaplaceném poplatku; potvrzení o příjmu oznámení / vydání nových údajů; identifikace typu úkonu (zda spadá pod § 27 odst. 1 / § 12 odst. 1).
 
 ---
 
@@ -1956,6 +3216,42 @@ Systémový certifikát je **certifikát X.509** vydaný kvalifikovanou certifik
 Při přístupu přes systémový certifikát se **nepoužijí ustanovení o pověřených osobách** — protože „přihlášený" je stroj, ne fyzická osoba. Důsledek: přístup přes systémový certifikát automaticky **zahrnuje i dokumenty určené do vlastních rukou adresáta**. To je technicky nutné, protože jinak by spisová služba nemohla zpracovat klíčové dokumenty (rozhodnutí, předvolání), které jsou zpravidla „do vlastních rukou".
 
 > **Odpovědnost:** Použití systémového certifikátu **přenese odpovědnost** za bezpečné nakládání s DS plně na vlastníka DS — pokud spisovka OVM přijme rozhodnutí soudu, ze zákona je doručeno OVM (i bez „lidského" přihlášení). OVM musí zajistit, aby spisovka spolehlivě zaznamenala doručení a včas předala rozhodnutí dotčenému úředníkovi. Toto je v praxi citlivý bod auditů ICT v OVM.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Magistrát města používá elektronický systém spisové služby (GINIS) napojený na DS OVM přes systémový certifikát. Soud doručí do DS magistrátu rozhodnutí určené „do vlastních rukou" v řízení, kde je magistrát účastníkem. Spisová služba zprávu automaticky stáhne, ale interní distribuce k odpovědnému úředníkovi selže a lhůta k odvolání uplyne. Magistrát namítá, že se k dokumentu „do vlastních rukou" žádná oprávněná osoba nepřihlásila. Důkazy: konfigurace systémového certifikátu, log automatického stažení zprávy, vnitřní záznamy o distribuci.
+
+**2. Právní otázka.** Zahrnuje přístup do DS prostřednictvím systémového certifikátu podle § 29 i dokumenty určené do vlastních rukou adresáta, a kdy nastává doručení takovému OVM?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 29 (vazba elektronické spisové služby na DS; přístup přes systémový certifikát; vyloučení ustanovení o pověřených osobách; systémový přístup zahrnuje i dokumenty do vlastních rukou).
+- *Související ustanovení téhož zákona:* § 8 odst. 8 (pověřená osoba a dokumenty do vlastních rukou — zde se nepoužije), § 17 odst. 3, 4 (doručení dodáním/přihlášením, fikce).
+- *Související předpisy:* zákon č. 499/2004 Sb. (spisová služba); zákon č. 412/2005 Sb. (utajované informace — výjimka oddělené spisové služby); X.509 certifikáty (systémový certifikát).
+- *Judikatura:* obecně přijímaný závěr, že u systémového přístupu nastává doručení bez „lidského" přihlášení, automatickým stažením zprávy spisovou službou.
+
+**4. Subsumpce.** § 29 věta druhá výslovně stanoví, že přístup přes systémový certifikát zahrnuje i dokumenty určené do vlastních rukou a že se nepoužijí ustanovení o pověřených osobách. Automatické stažení zprávy spisovou službou tedy zakládá přístup k dokumentu, a doručení nastane (přihlášením „stroje", resp. nejpozději fikcí). Selhání vnitřní distribuce je interním pochybením OVM. Spornou okolností je jen okamžik, kdy systém zprávu stáhl (= doručení), vs. kdy se dostala k úředníkovi.
+
+**5. Řešení.** Doručení nastalo — systémový certifikát zpřístupňuje i dokumenty do vlastních rukou (§ 29) a automatické stažení/uplynutí lhůty zakládá doručení; vnitřní distribuční selhání jde k tíži magistrátu, nikoli odesílatele. Lhůta k odvolání běžela řádně. Praktický krok: OVM musí zajistit spolehlivé zaznamenání doručení a včasné předání odpovědnému úředníkovi (to je předmětem ICT auditů); navenek se odpovědnosti za doručení nezprostí.
+
+**6. Varianty.** (a) Kdyby šlo o utajovaný spis vedený odděleně z bezpečnostních důvodů (§ 29 věta první i.f.), doručování přes DS by se nepoužilo. (b) Kdyby přístup nebyl přes systémový certifikát, ale přes pověřenou osobu bez oprávnění k dokumentům do vlastních rukou (§ 8 odst. 8), doručení takového dokumentu by se posuzovalo jinak.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „nikdo se nepřihlásil k dokumentu do vlastních rukou":* Lze tvrdit, že chybí lidské přihlášení. Neutralizace: § 29 výslovně stanoví, že systémový přístup zahrnuje i dokumenty do vlastních rukou a nepoužijí se ustanovení o pověřených osobách — doručení nastává systémově.
+- *Protiargument „selhání systému vylučuje doručení":* Námitka technické poruchy distribuce. Neutralizace: doručení nastává stažením/fikcí; vnitřní oběh dokumentu je odpovědností OVM, nikoli odesílatele.
+- *Slabé místo:* Pokud by selhal samotný systémový certifikát (zpráva se vůbec nestáhla a nikdo se nepřihlásil), doručení by nastalo až fikcí; rozlišení mezi nestažením a nedistribuováním je nutné doložit logy.
+
+### H. Praktický závěr
+
+§ 29 ukládá OVM s elektronickou spisovou službou propojit ji s DS a zavádí systémový certifikát pro automatizovaný přístup strojů/aplikací. Systémový přístup zahrnuje i dokumenty do vlastních rukou a vylučuje ustanovení o pověřených osobách — doručení tak nastává bez „lidského" přihlášení. Odpovědnost za spolehlivé zpracování doručení nese OVM.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] OVM: propojit elektronickou spisovou službu s DS, ledaže to z bezpečnostních důvodů (utajení) nelze (§ 29).
+- [ ] U systémového certifikátu počítat s tím, že přístup zahrnuje i dokumenty do vlastních rukou.
+- [ ] Zajistit spolehlivé zaznamenání doručení a včasnou interní distribuci (riziko zmeškání lhůt nese OVM).
+- [ ] Pro spor o doručení doložit logy automatického stažení zprávy spisovou službou.
+
+**Typicky rozhodné důkazy / podklady:** konfigurace a logy systémového certifikátu; záznam o automatickém stažení zprávy; vnitřní distribuční záznamy OVM; výpis z ISDS o dodání a doručení.
 
 ---
 
@@ -2005,6 +3301,42 @@ Zkouška je organizována Agenturou, vzor osvědčení stanoví Agentura vyhlá�
 
 Při neúspěchu lze zkoušku opakovat **dvakrát** (tj. celkem 3 pokusy). Mezi pokusy musí uplynout **nejméně 60 dní** (čas na přípravu) a **nejvíce 90 dní** (aby účastník mezitím nezapomněl, co se naučil). Po třetím neúspěšném pokusu musí účastník čekat patrně delší dobu a podat novou žádost — zákon tuto pauzu výslovně neupravuje, ale praxe Agentury ji obvykle stanoví na 1 rok.
 
+### F. Kazuistika
+
+**1. Modelová situace.** Nová pracovnice obecního úřadu má provádět autorizovanou konverzi na Czech POINTu, ale dosud nesložila zkoušku podle § 30. Úřad ji bez zkoušky pověří. Pracovnice provede několik konverzí. Později vznikne pochybnost, zda jsou tyto konverze platné, když je provedla osoba, která zkoušku nesložila. Současně se zjišťuje, zda se na ni nevztahuje výjimka (provádí-li vidimaci a legalizaci). Důkazy: doklad o (ne)složení zkoušky, doklad o pověření k vidimaci/legalizaci, výstupy provedených konverzí s doložkami.
+
+**2. Právní otázka.** Smí autorizovanou konverzi na žádost provádět fyzická osoba, která nesložila zkoušku podle § 30, a kdy se zkouška nevyžaduje?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30 odst. 1 (konverzi na žádost provádí osoba, která složila zkoušku; výjimka pro osoby splňující požadavky pro vidimaci a legalizaci), odst. 2–4 (obsah, forma, osvědčení), odst. 5 (opakování zkoušky).
+- *Související ustanovení téhož zákona:* § 23 odst. 1 (subjekty provádějící konverzi — advokáti zkoušku nepotřebují), § 24, § 25 (postup a doložka).
+- *Související předpisy:* § 14 odst. 1 zákona č. 21/2006 Sb. (vidimace a legalizace — kvalifikační požadavky); zákon č. 365/2000 Sb. (kontaktní místa).
+- *Judikatura:* obecně přijímaný závěr, že kvalifikační požadavek je podmínkou oprávnění osoby konverzi provádět.
+
+**4. Subsumpce.** § 30 odst. 1 podmiňuje provádění konverze na žádost složením zkoušky, ledaže osoba splňuje požadavky pro vidimaci a legalizaci (zákon č. 21/2006 Sb.). Pokud pracovnice ani zkoušku nesložila, ani nesplňuje požadavky pro vidimaci/legalizaci, není oprávněna konverzi provádět. Spornou okolností je, zda se na ni výjimka vztahuje (pověření matrikáře/k vidimaci) — pokud ano, zkoušku nepotřebuje.
+
+**5. Řešení.** Pokud se na pracovnici výjimka nevztahuje, neměla konverze provádět; jde o pochybení úřadu při výkonu agendy. Platnost již provedených konverzí se posuzuje primárně podle úplnosti doložky (§ 25) a faktického splnění postupu (§ 24); kvalifikační vada zakládá odpovědnost úřadu/osoby, ale nemusí sama o sobě činit výstup neúčinným, je-li doložka řádná. Praktický krok: ověřit, zda pracovnice nesplňuje výjimku (vidimace/legalizace); pokud ne, zajistit složení zkoušky a do té doby pověřit kvalifikovanou osobu.
+
+**6. Varianty.** (a) Kdyby konverzi prováděl advokát (§ 23 odst. 1), zkoušku by nepotřeboval (oprávnění z titulu profese). (b) Kdyby pracovnice u zkoušky neuspěla, mohla by ji dvakrát opakovat (nejdříve za 60, nejpozději do 90 dnů — odst. 5).
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „konverze je neplatná pro nedostatek kvalifikace":* Lze tvrdit, že bez zkoušky je výstup neúčinný. Neutralizace: platnost se posuzuje podle § 22, § 24 a úplnosti doložky (§ 25); kvalifikační vada zakládá odpovědnost, ale výstup s řádnou doložkou zpravidla účinky zachovává.
+- *Protiargument „výjimka se vztahuje na každého úředníka":* Námitka automatické výjimky. Neutralizace: výjimka dle § 30 odst. 1 i.f. je vázána na splnění požadavků pro vidimaci a legalizaci (zákon č. 21/2006 Sb.), nikoli na pouhé zaměstnání na úřadě.
+- *Slabé místo:* Hranice mezi vadou kvalifikace osoby a vadou samotné konverze není v zákoně výslovně řešena; v krajním případě může protistrana platnost výstupu zpochybnit, zejména spojí-li ji s vadou doložky.
+
+### H. Praktický závěr
+
+§ 30 stanoví kvalifikační požadavek pro „konvertora" na žádost — složení zkoušky organizované Agenturou, ledaže osoba splňuje požadavky pro vidimaci a legalizaci. Advokáti a notáři zkoušku nepotřebují. Zkoušku lze dvakrát opakovat (60–90 dnů). Vada kvalifikace zakládá odpovědnost úřadu/osoby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, že osoba provádějící konverzi na žádost složila zkoušku (§ 30 odst. 1), nebo splňuje výjimku (vidimace/legalizace).
+- [ ] U advokátní/notářské konverze pamatovat, že zkouška se nevyžaduje (§ 23 odst. 1).
+- [ ] Platnost výstupu posuzovat podle úplnosti doložky (§ 25) a dodržení postupu (§ 24).
+- [ ] Při neúspěchu u zkoušky využít opakování v rámci lhůt (60–90 dnů, odst. 5).
+
+**Typicky rozhodné důkazy / podklady:** osvědčení o vykonání zkoušky / doklad o jejím nesložení; doklad o pověření k vidimaci a legalizaci; výstupy konverzí s doložkami; doklad o oprávnění subjektu dle § 23.
+
 ---
 
 ## § 30a — Rozšíření pojmu „právnická osoba"
@@ -2027,6 +3359,42 @@ Při neúspěchu lze zkoušku opakovat **dvakrát** (tj. celkem 3 pokusy). Mezi 
 #### Praktický dopad
 
 § 30a znamená, že **i svěřenský fond může mít DS** podle § 5. Pokud je svěřenský fond zapsán v registru osob (ROS), Agentura mu zřídí DS PO ex offo (§ 5 odst. 1). Komunikace s OVM (typicky finančním úřadem ve věcech daně z příjmu, ale i jinde) bude probíhat prostřednictvím této DS.
+
+### F. Kazuistika
+
+**1. Modelová situace.** Svěřenský fond zapsaný v evidenci svěřenských fondů a v registru osob (ROS) má vlastní IČO. Finanční úřad zkoumá, zda fondu vznikla povinně DS (jako PO podle § 5), nebo zda svěřenský fond, který není v pravém smyslu právnickou osobou, do režimu ZDS vůbec nespadá. Svěřenský správce tvrdí, že fond DS mít nemůže, neboť není PO. Důkazy: výpis z ROS a evidence svěřenských fondů, doklad o přidělení IČO, výpis z ISDS o (ne)existenci DS fondu.
+
+**2. Právní otázka.** Vztahují se ustanovení ZDS o právnické osobě (zejm. § 5 — zřízení DS PO) i na svěřenský fond a jiná právní uspořádání podle § 30a?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 30a (hovoří-li se v zákoně o právnické osobě, rozumí se tím rovněž jiné právní uspořádání).
+- *Související ustanovení téhož zákona:* § 5 (zřízení DS PO ex offo pro PO v ROS), § 8 odst. 3 (přístup do DS PO), § 11 odst. 2 (znepřístupnění při výmazu z evidence).
+- *Související předpisy:* § 1448 a násl. OZ (svěřenský fond — není PO, je to vyčlenění majetku); zákon č. 111/2009 Sb. (ROS); zákon č. 37/2021 Sb. (evidence skutečných majitelů); ZISIF (investiční fondy bez právní osobnosti).
+- *Judikatura:* obecně přijímaný závěr, že svěřenský fond s IČO a zápisem v evidencích je adresátem doručování obdobně jako PO.
+
+**4. Subsumpce.** § 30a je terminologickou extenzí: kde zákon mluví o „právnické osobě", platí totéž i pro „jiné právní uspořádání" (svěřenský fond, zahraniční trust, investiční fondy bez právní osobnosti). Svěřenský fond zapsaný v ROS proto spadá pod § 5 a vzniká mu DS PO ex offo. Námitka, že fond není PO, je překonána § 30a. Spornou okolností je jen zápis konkrétního fondu v ROS (jako trigger podle § 5 odst. 1).
+
+**5. Řešení.** Svěřenskému fondu zapsanému v ROS se zřizuje DS PO ex offo (§ 5 odst. 1 ve spojení s § 30a); komunikace s OVM (typicky FÚ ve věcech daně z příjmu fondu) probíhá touto DS. Přístup do DS náleží osobám jednajícím za fond (svěřenský správce) obdobně podle § 8. Praktický krok: ověřit zápis fondu v ROS a existenci DS v ISDS; pro přístup zajistit přístupové údaje správci fondu.
+
+**6. Varianty.** (a) Kdyby fond nebyl zapsán v ROS, DS by se zřizovala jen na žádost (§ 5 odst. 2). (b) Kdyby šlo o zahraniční trust bez registrace v ČR, DS by mu vznikla jen na žádost (§ 5 odst. 2), je-li to vůbec relevantní.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „svěřenský fond není PO, nemá DS":* Lze tvrdit, že na fond ZDS nedopadá. Neutralizace: § 30a výslovně rozšiřuje pojem „právnická osoba" i na jiná právní uspořádání; fond v ROS tak spadá pod § 5.
+- *Protiargument „chybí osoba oprávněná jednat":* Námitka, že fond nemá statutární orgán. Neutralizace: za fond jedná svěřenský správce; přístup do DS se posoudí obdobně podle § 8 (přiměřeně), v duchu § 30a.
+- *Slabé místo:* ZDS výslovně neupravuje, kdo přesně je „oprávněnou osobou" u jiných právních uspořádání; aplikace § 8 je zde „obdobná" a u atypických útvarů (zahraniční trust) může vyvolat výkladové spory.
+
+### H. Praktický závěr
+
+§ 30a je terminologickou extenzí, která podřazuje pod pojem „právnická osoba" i jiná právní uspořádání (svěřenský fond, trusty, investiční fondy bez právní osobnosti). Důsledek: i svěřenský fond zapsaný v ROS dostává DS PO ex offo (§ 5) a komunikuje s OVM přes ni; přístup řeší obdobně § 8.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U jiných právních uspořádání (svěřenský fond, trust) aplikovat ustanovení o PO podle § 30a.
+- [ ] Ověřit zápis fondu v ROS jako trigger pro ex offo zřízení DS PO (§ 5 odst. 1).
+- [ ] Pro přístup do DS fondu zajistit přístupové údaje osobě jednající za fond (svěřenský správce, obdobně § 8).
+- [ ] U fondu mimo ROS počítat se zřízením DS jen na žádost (§ 5 odst. 2).
+
+**Typicky rozhodné důkazy / podklady:** výpis z ROS a evidence svěřenských fondů; doklad o přidělení IČO; výpis z ISDS o existenci DS; doklad o osobě jednající za fond (svěřenský správce).
 
 ---
 
@@ -2070,6 +3438,42 @@ Advokátům a daňovým poradcům byla DS zřízena **až 1. 7. 2012** (první d
 
 > **Pozadí odkladu:** Pomalejší náběh u advokátů a daňových poradců byl důsledkem politického kompromisu — profesní komory argumentovaly nutností přípravy technické infrastruktury a školení svých členů. Tento argument byl částečně oprávněný (advokát zpracovává objemné spisy s utajovanou klientskou komunikací, vyžaduje speciální workflow).
 
+### F. Kazuistika
+
+**1. Modelová situace.** Ve sporu o promlčení nároku z roku 2010 je rozhodné, zda určité PO (obchodní společnosti) byla DS zřízena a zpřístupněna již v roce 2009, a tedy zda od té doby byla povinna přijímat úřední doručení do DS. Soud zkoumá, kdy se DS dotčené společnosti podle přechodných ustanovení zpřístupnila. Společnost tvrdí, že se do DS nikdy nepřihlásila, a tedy nebyla zpřístupněna. Důkazy: výpis z ISDS o datu zřízení a zpřístupnění DS, doklad o (ne)přihlášení v roce 2009.
+
+**2. Právní otázka.** K jakému okamžiku se podle přechodného ustanovení § 31 zpřístupnily datové schránky subjektů zřízené plošně v roce 2009, nepřihlásila-li se oprávněná osoba?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 31 odst. 1 (zřízení DS subjektům dle § 4 odst. 3, § 5 odst. 1, § 6 odst. 1 do 90 dnů; zpřístupnění prvním přihlášením, nejpozději 1. 11. 2009; modifikace lhůty SŘ na 90 dnů), odst. 2 (informační povinnost komor do 30 dnů), odst. 3 (DS advokátů a daňových poradců — pozdější náběh).
+- *Související ustanovení téhož zákona:* § 10 odst. 2 (obecné pravidlo zpřístupnění 15. dnem — pro novější DS), § 17 (doručování), § 15 (informační povinnost).
+- *Související předpisy:* § 23 odst. 4, § 24 SŘ (doručení a fikce — modifikováno v odst. 1); zákon č. 300/2008 Sb. ve znění účinném v r. 2009.
+- *Judikatura:* NS 21 Cdo 3489/2012 (doručování do zpřístupněné DS z úřední povinnosti) — potvrzuje účinky zpřístupněné DS bez ohledu na přihlášení.
+
+**4. Subsumpce.** § 31 odst. 1 stanovil, že DS zřízené plošně v r. 2009 se zpřístupnily prvním přihlášením, nejpozději však 1. 11. 2009. Pro obchodní společnost (PO dle § 5 odst. 1) se tedy DS zpřístupnila nejpozději 1. 11. 2009, i bez přihlášení. Od té doby byla povinna přijímat úřední doručení (§ 17). Tvrzení o nepřihlášení je proto pro otázku zpřístupnění irelevantní. Spornou okolností je jen řádné doručení prvních přístupových údajů (lhůta SŘ modifikována na 90 dnů).
+
+**5. Řešení.** DS dotčené společnosti se zpřístupnila nejpozději 1. 11. 2009 (§ 31 odst. 1); od tohoto data jí bylo možné doručovat do DS s plnými účinky. Pro spor o promlčení (běh lhůt navázaný na doručování) je rozhodné toto datum, nikoli pozdější přihlášení. Praktický krok: doložit výpis z ISDS o datu zpřístupnění; argumentaci o nepřihlášení odmítnout s odkazem na automatické zpřístupnění dle přechodného ustanovení.
+
+**6. Varianty.** (a) Kdyby šlo o advokáta nebo daňového poradce, DS by se zřídila později (dle odst. 3, fakticky k 1. 7. 2012), takže pro rok 2010 by ještě DS PFO neměl. (b) U DS zřízených až po náběhu (po r. 2009) by se uplatnilo obecné pravidlo § 10 odst. 2 (zpřístupnění 15. dnem), nikoli § 31.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „bez přihlášení nebyla DS zpřístupněna":* Lze tvrdit, že DS nebyla zpřístupněna. Neutralizace: § 31 odst. 1 stanovil náhradní zpřístupnění nejpozději 1. 11. 2009 i bez přihlášení.
+- *Protiargument „přechodné ustanovení je obsolentní":* Námitka, že § 31 už neplatí. Neutralizace: přestože lhůty uplynuly, § 31 zůstává rozhodný pro posouzení historických právních vztahů (např. běh lhůt v r. 2009–2010).
+- *Slabé místo:* U konkrétního subjektu je třeba doložit řádné doručení prvních přístupových údajů; modifikovaná 90denní lhůta SŘ (odst. 1 i.f.) komplikuje posouzení, zda a kdy byly údaje doručeny.
+
+### H. Praktický závěr
+
+§ 31 obsahuje přechodná ustanovení k náběhu DS v r. 2009: plošné zřízení DS do 90 dnů, zpřístupnění prvním přihlášením nebo nejpozději 1. 11. 2009, informační povinnost komor do 30 dnů a pozdější náběh pro advokáty a daňové poradce (fakticky 1. 7. 2012). Pro výklad aktuálního znění má omezený význam, ale je rozhodný pro historické právní vztahy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U historických sporů (2009–2012) posoudit zpřístupnění DS podle § 31, nikoli podle § 10 odst. 2.
+- [ ] Pro PO/OVM počítat se zpřístupněním nejpozději 1. 11. 2009; pro advokáty/daňové poradce až k pozdějšímu datu (odst. 3).
+- [ ] Doložit výpis z ISDS o datu zřízení a zpřístupnění konkrétní DS.
+- [ ] Zohlednit modifikaci lhůt SŘ (90 dnů) při posuzování doručení prvních přístupových údajů (odst. 1).
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISDS o datu zřízení a zpřístupnění DS; doklad o doručení prvních přístupových údajů v r. 2009; zařazení subjektu do kategorie (PO/OVM vs. advokát/daňový poradce); historické znění zákona.
+
 ---
 
 ## § 32 — Účinnost
@@ -2109,6 +3513,42 @@ Zákon č. 300/2008 Sb. byl klíčovou částí **e-government reformy** zaháje
 V kontextu **Evropy** patří ČR k pionýrům — povinná datová schránka pro PO byla v r. 2009 unikátní (jinde převažovaly dobrovolné mailboxy). Inspirací byl částečně estonský systém eID a finská elektronická poštovní schránka.
 
 V průběhu let se ZDS prokázal jako **funkční a robustní zákon** — přes celkem 15 novel zachoval základní logiku (typologie DS, fikce 10 dnů, doložka konverze) prakticky nezměněnou.
+
+### F. Kazuistika
+
+**1. Modelová situace.** V řízení je sporné, zda určitá povinnost (např. povinnost OVM doručovat do DS podle § 17) platila již pro úkon učiněný v červnu 2009. Soud zkoumá, kdy zákon č. 300/2008 Sb. nabyl účinnosti a zda se na daný úkon vůbec vztahuje. Účastník tvrdí, že zákon platil „od vyhlášení" v roce 2008. Důkazy: text § 32, údaj o vyhlášení ve Sbírce zákonů (částka 98/2008), datum úkonu.
+
+**2. Právní otázka.** Odkdy je zákon č. 300/2008 Sb. účinný a jak se posuzuje jeho aplikovatelnost na úkony učiněné v období legisvakance (mezi vyhlášením 2008 a účinností 1. 7. 2009)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 32 (zákon nabývá účinnosti dnem 1. července 2009).
+- *Související ustanovení téhož zákona:* § 31 (přechodná ustanovení — plošné zřízení DS v r. 2009 navázané na účinnost), § 17 (doručování), § 1 (předmět úpravy).
+- *Související předpisy:* čl. 52 Ústavy a zákon č. 309/1999 Sb. (o Sbírce zákonů — platnost vyhlášením, účinnost dnem stanoveným); zákon č. 222/2016 Sb. (Sbírka zákonů a mezinárodních smluv — pro novější vyhlašování).
+- *Judikatura:* obecný princip, že před nabytím účinnosti zákon nezakládá práva a povinnosti (legisvakance slouží k přípravě).
+
+**4. Subsumpce.** § 32 stanoví účinnost k 1. 7. 2009; zákon byl vyhlášen v roce 2008, takže do 30. 6. 2009 trvala legisvakance. Úkony a povinnosti podle ZDS (vč. povinnosti doručovat do DS dle § 17) nelze vztahovat na období před účinností. Tvrzení o platnosti „od vyhlášení" zaměňuje platnost (vyhlášením) s účinností (1. 7. 2009). Spornou okolností je jen přesné datum posuzovaného úkonu.
+
+**5. Řešení.** Povinnosti podle ZDS se uplatní až od 1. 7. 2009 (§ 32); pro úkon učiněný před tímto datem zákon nezakládá práva ani povinnosti. Dlouhá legisvakance (téměř rok) byla nutná k vybudování ISDS a plošnému zřízení DS (§ 31). Praktický krok: u historických úkonů ověřit jejich datum vůči 1. 7. 2009 a u úkonů z druhé poloviny roku 2009 zohlednit i přechodná ustanovení § 31 (zpřístupnění DS).
+
+**6. Varianty.** (a) Kdyby úkon byl učiněn po 1. 11. 2009, uplatnila by se jak účinnost (§ 32), tak zpřístupnění DS dle § 31 odst. 1. (b) Kdyby šlo o pozdější novelu (např. DEPO 2023), rozhodná by byla účinnost příslušné novely, nikoli § 32 původního zákona.
+
+### G. Protiargumenty a rizika
+
+- *Protiargument „zákon platí od vyhlášení 2008":* Lze zaměnit platnost s účinností. Neutralizace: § 32 výslovně stanoví účinnost k 1. 7. 2009; do té doby zákon platí, ale nepůsobí (legisvakance).
+- *Protiargument „povinnosti se vztahují i zpětně":* Námitka retroaktivity. Neutralizace: zákon nepůsobí zpětně; povinnosti vznikají až účinností a přechodná ustanovení § 31 navíc upravují postupný náběh.
+- *Slabé místo:* U úkonů z přelomu poloviny roku 2009 je třeba odlišit účinnost zákona (1. 7. 2009) od okamžiku zpřístupnění konkrétní DS (§ 31, nejpozději 1. 11. 2009) — povinnost doručovat do DS fakticky nastala až po zpřístupnění.
+
+### H. Praktický závěr
+
+§ 32 stanoví účinnost zákona k 1. 7. 2009 (s téměř roční legisvakancí od vyhlášení 2008), nutnou pro vybudování ISDS a plošné zřízení DS. Pro aplikaci je třeba odlišovat platnost (vyhlášením) od účinnosti (1. 7. 2009) a u úkonů z roku 2009 zohlednit přechodná ustanovení § 31 o zpřístupnění DS.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U historických úkonů ověřit datum vůči účinnosti zákona (1. 7. 2009 — § 32).
+- [ ] Odlišovat platnost zákona (vyhlášením) od jeho účinnosti (1. 7. 2009).
+- [ ] U úkonů z druhé poloviny roku 2009 zohlednit i § 31 (zpřístupnění DS nejpozději 1. 11. 2009).
+- [ ] U pozdějších institutů posuzovat účinnost příslušné novely, nikoli původního § 32.
+
+**Typicky rozhodné důkazy / podklady:** text § 32 a údaj o vyhlášení ve Sbírce zákonů (částka 98/2008); datum posuzovaného úkonu; výpis z ISDS o zřízení/zpřístupnění DS (pro rok 2009); znění příslušné novely u pozdějších institutů.
 
 ---
 
