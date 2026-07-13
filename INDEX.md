@@ -27,3 +27,8 @@ eIDAS 910/2014, 297/2016 (služby vytvářející důvěru), 365/2000 (ISVS), 25
 ## Výkladové otázky a odpovědi
 
 - [VYKLADOVE-OTAZKY.md](VYKLADOVE-OTAZKY.md) — předpisově konkrétní kontrolní otázky, odpovědi, místní opora a výslovně označené mezery komentáře.
+
+<!-- LOCAL-HLOUBKOVY-VYKLAD-LINK -->
+## Hloubkový výklad a aplikační mapa
+
+- [HLOUBKOVY-VYKLAD.md](HLOUBKOVY-VYKLAD.md) — třináctivrstvá předpisová syntéza, místní důkazní opora, kapitolová matice a autorský protokol úplného právního komentáře.
