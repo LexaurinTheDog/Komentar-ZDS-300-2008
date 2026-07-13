@@ -130,3 +130,125 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | rozhodne | [§ 14a](https://e-sbirka.gov.cz/sb/2008/300#par_14a) |
 | Oprávnění a povinnost | má nárok; musí; mají nárok | [§ 3](https://e-sbirka.gov.cz/sb/2008/300#par_3); [§ 4](https://e-sbirka.gov.cz/sb/2008/300#par_4); [§ 5](https://e-sbirka.gov.cz/sb/2008/300#par_5) |
 | Domněnky, fikce a účinkové konstrukce | považuje se za | [§ 25](https://e-sbirka.gov.cz/sb/2008/300#par_25) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů (ZDS) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma spojuje s určitým chováním svůj normativní účinek. Nauka rozlišuje **objektivní modality** — příkaz (norma ukládá konat), zákaz (norma ukládá zdržet se) a dovolení (norma ponechává adresátu volbu) — a zvláštní kategorii **zmocnění (kompetenčních norem)**, které neregulují bezprostředně chování adresáta, nýbrž zakládají a vymezují pravomoc určitého orgánu jednat s právními účinky. ZDS je předpisem, v němž se všechny čtyři objektivní modality prolínají mimořádně hustě: příkaz doručovat do datové schránky, zákaz konvertovat vyloučené dokumenty, dovolení činit podání a rozsáhlá zmocnění Agentury (dříve Ministerstva vnitra) spravovat systém datových schránek a podzákonně upravovat technické náležitosti.
+
+Vedle objektivních modalit stojí **subjektivní modality** — oprávnění a povinnost — které jsou spojeny vztahem **korelativity**: subjektivnímu právu jednoho odpovídá povinnost druhého. V ZDS je tato korelativita zřetelná zejména u doručování: nárok fyzické osoby na zřízení datové schránky (§ 3 odst. 2) i oprávnění osob k přístupu (§ 8) mají svůj protějšek v povinnostech přístupových osob (§ 8 odst. 9) a v povinnosti orgánu veřejné moci doručovat (§ 17 odst. 1). **Normativní výrazy** — jazykové signály modality — jsou zde typicky „má nárok“, „je povinen/jsou povinny“, „může“, „doručuje“, „stanoví vyhláškou“, „neprovádí se“, „považuje se za“ či „má stejné účinky“.
+
+Zvláštní pozornost si zaslouží **domněnky a fikce**. Domněnka (praesumptio) předpokládá skutečnost, kterou lze — je-li vyvratitelná — vyvrátit důkazem opaku, čímž se přesouvá důkazní břemeno; nevyvratitelná domněnka a fikce (fictio) naopak nepřipouštějí důkaz opaku a normativně ztotožňují dvě odlišné skutečnosti. ZDS staví na několika klíčových fikcích: fikci doručení desátým dnem (§ 17 odst. 4), fikci podpisu u úkonu učiněného datovou schránkou (§ 18 odst. 2) a fikci rovnocennosti výstupu a vstupu autorizované konverze (§ 22 odst. 2). Právě tyto fikce jsou nosnými pilíři, na nichž stojí důvěryhodnost celého systému.
+
+### Příkaz
+
+Příkazová modalita ukládá adresátu povinnost aktivního konání. Centrální normou příkazového typu je v ZDS § 17 odst. 1, který orgánu veřejné moci ukládá **doručovat** dokumenty přednostně do zpřístupněné datové schránky. Nejde o pouhé dovolení či technickou možnost — orgán veřejné moci nemá při existenci zpřístupněné datové schránky volbu způsobu doručení, ledaže se doručuje veřejnou vyhláškou nebo na místě anebo to povaha dokumentu neumožňuje. Příkaz je tak formulován tvrdě a jeho porušení má procesní důsledky.
+
+Příkazová povaha § 17 odst. 1 se v praxi projevuje tím, že orgán veřejné moci **z úřední povinnosti** zjišťuje existenci datové schránky adresáta a doručuje do ní bez toho, aby o to adresát musel žádat. Judikatura přitom zdůrazňuje i druhou stranu příkazu — legitimní očekávání adresáta, že mu bude doručováno elektronicky.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 17 odst. 1 | doručuje | „orgán veřejné moci doručuje dokument této osobě prostřednictvím datové schránky, pokud se nedoručuje veřejnou vyhláškou nebo na místě“ | Přednostní (obligatorní) povinnost OVM doručovat do zpřístupněné datové schránky; centrální norma zákona |
+
+- *Nejvyšší soud* [21 Cdo 3489/2012](judikatura/NS-21-Cdo-3489-2012.md) — příkaz doručovat do DS je uplatňován z úřední povinnosti, adresát nemusí žádat ani sdělovat identifikátor.
+  > „Každému, kdo má zpřístupněnou datovou schránku, soud doručuje rozhodnutí, předvolání a další listiny do datové schránky, aniž by adresát o takové doručení musel žádat nebo soudu sdělovat identifikátor své datové schránky. Soud zjišťuje z úřední povinnosti, zda má adresát zřízenou a zpřístupněnou datovou schránku“
+- *Ústavní soud* [Pl.ÚS 14/12](judikatura/US-Pl-S-14-12.md) — usnesení ze dne 5. 6. 2012; systém doručování je pojat jako příkaz zákonodárce adresovaný orgánu veřejné moci.
+  > „pojednává o příkazu zákonodárce orgánu veřejné moci (ministerstvu vnitra) zabezpečit fungování systému doručování, seznamování se a možnost dalšího zpracování datových zpráv natolik jednoduše a srozumitelně, aby to zvládly i osoby bez zvláštních technických znalostí“
+
+### Zákaz
+
+Zákazová modalita ukládá adresátu zdržet se určitého jednání, popřípadě vylučuje z právního režimu určité skutkové stavy. V ZDS má zákaz dvě odlišné podoby. První je **technicko-právní vyloučení** konverze u taxativně vymezených dokumentů (§ 24 odst. 4): u dokumentů, jejichž jedinečnost nebo bezpečnostní prvky nelze v převedené podobě nahradit (občanský průkaz, cenné papíry, dokumenty se škrty apod.), se konverze prostě neprovádí. Druhou podobou je **sankčně vynucený zákaz** zneužití datové schránky (§ 26a odst. 1), formulovaný skutkovou podstatou přestupku.
+
+Obě podoby zákazu chrání integritu systému: § 24 odst. 4 brání tomu, aby konverze zastřela jedinečnost či pravost listiny, § 26a odst. 1 pak chrání samotný provoz a bezpečnost informačního systému datových schránek před šířením spamu a škodlivého kódu. Judikatura zákazovou logiku rozšiřuje i na doručování — nelze doručit dokument, jehož povaha to neumožňuje.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 24 odst. 4 | se neprovádí | „Konverze se neprovádí“ | Vylučuje konverzi u taxativně vymezených dokumentů, jejichž jedinečnost nelze nahradit |
+| § 26a odst. 1 | dopustí se přestupku | „Fyzická osoba se dopustí přestupku tím, že užije datovou schránku k šíření“ | Sankční zákaz zneužití DS k šíření spamu a škodlivých programů |
+
+- *Nejvyšší soud* [20 Cdo 588/2022](judikatura/NS-20-Cdo-588-2022.md) — rozsudek ze dne 13. 4. 2022; povaha dokumentu může vyloučit (zakázat) doručení datovou schránkou.
+  > „Rozsudek, jehož nedílnou součástí je geometrický plán vyhotovený jako originál v listinné podobě, nelze doručit prostřednictvím veřejné datové sítě do datové schránky, neboť to jeho povaha neumožňuje.“
+
+### Dovolení
+
+Dovolení ponechává adresátu volbu, zda určitého oprávnění využije. Klíčovou dovolovací normou je § 18 odst. 1, který soukromé osobě otevírá **opačný směr** komunikace se státem: umožňuje jí — nikoli však ukládá — činit podání vůči orgánu veřejné moci prostřednictvím datové schránky, má-li ji zpřístupněnu a umožňuje-li to povaha úkonu. Na rozdíl od příkazu v § 17 odst. 1, jenž zavazuje orgán veřejné moci, ponechává § 18 odst. 1 osobě plnou dispozici: může volit i tradiční písemnou formu.
+
+Praktický význam dovolení v § 18 odst. 1 spočívá v tom, že jeho využitím se aktivují účinky podle § 18 odst. 2 (viz oddíl o fikcích). Judikatura potvrzuje, že podání učiněné datovou schránkou je perfektní a doručené již okamžikem dodání do schránky soudu — dovolený způsob tak plnohodnotně nahrazuje klasické podání.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 18 odst. 1 | může provádět úkon | „může provádět úkon vůči orgánu veřejné moci, má-li zpřístupněnu svou datovou schránku a umožňuje-li to povaha tohoto úkonu, prostřednictvím datové schránky“ | Právo (nikoli povinnost) činit podání vůči OVM prostřednictvím datové schránky |
+
+- *Nejvyšší soud* [22 Cdo 3325/2013](judikatura/NS-22-Cdo-3325-2013.md) — dovolený úkon datovou schránkou je doručen již okamžikem dodání do schránky soudu.
+  > „Podání účastníka učiněné vůči soudu v elektronické podobě prostřednictvím datové schránky je doručeno okamžikem, kdy bylo podání dodáno do datové schránky soudu.“
+
+### Zmocnění
+
+Zmocňovací (kompetenční) normy nezavazují chování soukromých osob, nýbrž zakládají a vymezují pravomoc orgánu. V ZDS mají dvojí charakter. Prvním je **operativní kompetence** Agentury zasahovat do právního stavu datových schránek — typicky § 11 odst. 1, který Agentuře ukládá obligatorně **znepřístupnit** datovou schránku fyzické osoby a podnikající fyzické osoby z taxativně vymezených důvodů (úmrtí, omezení svéprávnosti aj.), a to případně i zpětně. Zde jde o kompetenci vázanou: Agentura nemá uvážení „zda“, nýbrž jedná při naplnění zákonného důvodu.
+
+Druhým typem je **normotvorné (prováděcí) zmocnění** — § 24 odst. 3 svěřuje Agentuře stanovit technické náležitosti konverze podzákonným předpisem (vyhláškou). Tím se do systému vnáší flexibilita: technická materie, která se rychle vyvíjí, není petrifikována v zákoně, ale delegována na podzákonnou úroveň. Obě zmocnění dohromady vytvářejí institucionální páteř správy systému.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 11 odst. 1 | Agentura znepřístupní | „Agentura znepřístupní datovou schránku fyzické osoby a podnikající fyzické osoby, a to případně i zpětně, ke dni“ | Obligatorní kompetence znepřístupnit DS z taxativních důvodů bez ohledu na vůli vlastníka |
+| § 24 odst. 3 | stanoví Agentura vyhláškou | „Technické náležitosti provádění konverze, vstupu a výstupu stanoví Agentura vyhláškou.“ | Prováděcí zmocnění svěřující stanovení technických náležitostí konverze podzákonnému předpisu |
+
+### Oprávnění a povinnost
+
+Subjektivní modality — oprávnění a povinnost — tvoří v ZDS korelativní dvojici a zde je proto pojednávám společně. Na straně oprávnění stojí především **nárok** fyzické osoby na zřízení právě jedné datové schránky (§ 3 odst. 2), jímž zákon prosazuje princip jedné identity a dobrovolnosti u fyzických osob, a dále **procesní oprávnění** adresáta žádat o určení neúčinnosti doručení (§ 17 odst. 5) — únikový mechanismus proti tvrdosti fikce doručení. Charakteristickým normativním výrazem oprávnění je „má nárok“ a „může žádat“.
+
+Protějškem oprávnění jsou povinnosti. Ústřední je bezpečnostní povinnost osob oprávněných k přístupu do datové schránky (§ 8 odst. 9) — tyto osoby nesmějí datovou schránku zneužít a jsou povinny oznámit hrozící zneužití. Právě na této povinnosti stojí důvěryhodnost celého systému: kdyby přístupové osoby mohly beztrestně nakládat s cizí schránkou, ztratilo by doručování do datové schránky svou právní jistotu. Judikatura oprávnění a povinnosti provazuje zejména při posuzování, kdo a s jakými účinky za osobu jedná.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 3 odst. 2 | má nárok | „Fyzická osoba má nárok na zřízení jedné datové schránky fyzické osoby.“ | Subjektivní právo FO na zřízení právě jedné DS (princip jedné identity) |
+| § 17 odst. 5 | může žádat | „může za podmínek stanovených jiným právním předpisem7) žádat o určení neúčinnosti doručení podle odstavce 4.“ | Právo domáhat se odklizení účinků fikce doručení z omluvitelných důvodů |
+| § 8 odst. 9 | jsou povinny | „Osoby oprávněné k přístupu do datové schránky jsou povinny“ | Bezpečnostní povinnosti přístupových osob (nezneužít DS, oznámit hrozící zneužití) |
+
+- *Nejvyšší soud* [27 Cdo 143/2020](judikatura/NS-27-Cdo-143-2020.md) — oprávnění fyzické osoby jednat za právnickou osobu a účinky úkonu z její vlastní datové schránky.
+  > „Fyzická osoba, oprávněná jednat jménem právnické osoby podle § 21 o. s. ř. (ve spojení s § 120 z. v. r.) může jménem právnické osoby učinit elektronické podání podle § 22 z. v. r. i ze své datové schránky (z datové schránky fyzické osoby podle § 8 odst. 1 zákona o elektronických úkonech). V takovém případě je podání podepsáno touto fyzickou osobou (§ 18 odst. 2 zákona o elektronických úkonech)“
+
+### Domněnky a fikce
+
+Fikce jsou právně nejsilnějším nástrojem ZDS, neboť normativně ztotožňují skutečnosti, které se ve skutečnosti liší. **Fikce doručení** (§ 17 odst. 4) považuje dokument za doručený posledním dnem desetidenní lhůty, i když se adresát fakticky nepřihlásil; tím radikálně mění mechaniku počítání procesních lhůt a přenáší na adresáta odpovědnost za sledování schránky. **Fikce podpisu** (§ 18 odst. 2) klade úkon učiněný z datové schránky naroveň úkonu písemnému a podepsanému, čímž nahrazuje vlastnoruční podpis v komunikaci s orgánem veřejné moci. **Fikce rovnocennosti** výstupu a vstupu autorizované konverze (§ 22 odst. 2) vytváří právní most mezi listinným a elektronickým světem.
+
+Tyto fikce nepřipouštějí důkaz opaku ohledně samotného právního účinku — nelze tvrdit, že úkon učiněný datovou schránkou „není podepsán“ nebo že výstup konverze „nemá stejné účinky“ jako vstup. Judikatura však jejich dosah přesně vymezuje: fikce rovnocennosti se týká právních účinků, nikoli pravdivosti obsahu (§ 24 odst. 5), a běh lhůty rozhodné pro fikci doručení se řídí obecnými pravidly počítání času. Právě proto jsou fikce v ZDS provázeny korektivem oprávnění žádat o neúčinnost doručení (§ 17 odst. 5).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 17 odst. 4 | považuje se za doručený | „považuje se tento dokument za doručený posledním dnem této lhůty“ | Fikce doručení desátým dnem po dodání do DS; mění počítání procesních lhůt |
+| § 18 odst. 2 | má stejné účinky | „prostřednictvím datové schránky má stejné účinky jako úkon učiněný písemně a podepsaný“ | Fikce podpisu — úkon z DS naroveň písemnému a podepsanému úkonu |
+| § 22 odst. 2 | má stejné právní účinky | „Dokument, který provedením konverze vznikl (dále jen „výstup“), má stejné právní účinky jako dokument, jehož převedením výstup vznikl (dále jen „vstup“).“ | Rovnocennost výstupu a vstupu konverze — most mezi listinným a elektronickým světem |
+
+- *Nejvyšší správní soud* [2 A 24/2019 - 20](judikatura/NSS-2-A-24-2019-20.md) — rozsudek ze dne 1. 7. 2021; fikce rovnocennosti podle § 22 odst. 2 se týká právních účinků, nikoli pravdivosti obsahu.
+  > „Dle ust. § 22 odst. 2 zákona č. 300/2008 Sb. je tak třeba vycházet z toho, že tyto dokumenty v elektronické podobě mají stejné právní účinky jako vstupní listinné dokumenty“
+- *Vrchní soud v Praze* [3 VSPH 605/2010](judikatura/NS-3-VSPH-605-2010.md) — usnesení ze dne 30. 5. 2011; fikce podpisu podle § 18 odst. 2 u podání odeslaného z datové schránky.
+  > „Přihláška pohledávky je podáním věřitele, které v případě, že bylo odesláno z datové schránky tohoto věřitele do datové schránky příslušného soudu osobou uvedenou v § 18 odst. 1 až 4 zákona č. 300/2008 Sb. ve znění pozdějších předpisů má z hlediska úpravy obsažené v ustanovení § 18 odst. 2 tohoto zákona stejné účinky jako procesní úkon učiněný písemně a podepsaný.“
+- *Nejvyšší soud* [11 Co 393/2013](judikatura/NS-11-Co-393-2013.md) — běh lhůty rozhodné pro fikci doručení se řídí obecnými pravidly počítání času.
+  > „Pravidla počítání času podle § 57 o. s. ř. platí i pro běh lhůty u doručování do datových schránek.“
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality ZDS nepůsobí izolovaně, nýbrž se v jednotlivých institutech zákona kombinují do funkčních celků (kotveno výhradně na položky z klasifikace):
+
+- **Doručování orgánem veřejné moci** spojuje příkaz, fikci a oprávnění: § 17 odst. 1 (příkaz doručovat) → § 17 odst. 4 (fikce doručení desátým dnem) → § 17 odst. 5 (oprávnění žádat o neúčinnost jako korektiv tvrdosti fikce). Trojice tvoří vyvážený mechanismus, v němž je přísnost fikce vyvážena únikovým ventilem.
+- **Komunikace osoby vůči orgánu veřejné moci** kombinuje dovolení a fikci: § 18 odst. 1 (dovolení činit úkon datovou schránkou) → § 18 odst. 2 (fikce podpisu, jež dovolenému úkonu propůjčuje účinky písemného a podepsaného podání). Dovolení se tak stává právně plnohodnotnou alternativou k listinné formě.
+- **Autorizovaná konverze** propojuje fikci, zmocnění a zákaz: § 22 odst. 2 (fikce rovnocennosti výstupu a vstupu) → § 24 odst. 3 (zmocnění Agentury upravit technické náležitosti vyhláškou) → § 24 odst. 4 (zákaz konverze u vyloučených dokumentů). Fikce dává konverzi právní sílu, zmocnění ji technicky provozuje, zákaz vymezuje její meze.
+- **Správa a bezpečnost datových schránek** spojuje oprávnění, povinnost, zmocnění a zákaz: § 3 odst. 2 (nárok FO na zřízení DS) a § 8 odst. 9 (povinnosti přístupových osob) na straně soukromých subjektů, § 11 odst. 1 (kompetence Agentury znepřístupnit DS) na straně státu a § 26a odst. 1 (sankční zákaz zneužití DS) jako záruka integrity systému.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | doručuje; (orgán) zabezpečí | § 17 odst. 1 |
+| Zákaz | neprovádí se; dopustí se přestupku | § 24 odst. 4; § 26a odst. 1 |
+| Dovolení | může provádět úkon; má-li zpřístupněnu | § 18 odst. 1 |
+| Zmocnění | Agentura znepřístupní; stanoví Agentura vyhláškou | § 11 odst. 1; § 24 odst. 3 |
+| Oprávnění a povinnost | má nárok; může žádat; jsou povinny | § 3 odst. 2; § 17 odst. 5; § 8 odst. 9 |
+| Domněnky a fikce | považuje se za doručený; má stejné účinky; má stejné právní účinky | § 17 odst. 4; § 18 odst. 2; § 22 odst. 2 |
