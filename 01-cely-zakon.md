@@ -95,6 +95,62 @@ Druhý odstavec zcela vylučuje doručování dokumentů obsahujících **utajov
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=427ab6c22f7c01e4d691 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Tento zákon upravuje
+>
+> - a) elektronické úkony státních orgánů, územních samosprávných celků a fyzických nebo právnických osob, pokud těmto fyzickým nebo právnickým osobám byla svěřena působnost v oblasti veřejné správy, notářů, soudních exekutorů a insolvenčních správců (dále jen „orgán veřejné moci“) vůči fyzickým osobám a právnickým osobám, elektronické úkony fyzických osob a právnických osob vůči orgánům veřejné moci a elektronické úkony mezi orgány veřejné moci navzájem prostřednictvím datových schránek,
+>
+> - b) dodávání dokumentů fyzických osob, podnikajících fyzických osob a právnických osob prostřednictvím datových schránek,
+>
+> - c) informační systém datových schránek,
+>
+> - d) autorizovanou konverzi dokumentů1) (dále jen „konverze“).
+>
+> (2) Tento zákon se nevztahuje na dokumenty, které obsahují utajované informace2).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=427ab6c22f7c01e4d691 -->
+
 ## § 2 — Datová schránka
 
 > **§ 2**
@@ -173,6 +229,60 @@ Od 1. 4. 2023 byly kompetence ze zákona č. 471/2022 Sb. převedeny z Ministers
 **Typicky rozhodné důkazy / podklady:** výpis zprávy z DS s identifikátorem odesílatele; nastavení DS FO ohledně soukromého dodávání; doklad o obsahu (obchodní sdělení); evidence ISDS o dodání.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6b3186f0f0c08ff0b83c generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 2 — Datová schránka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Datová schránka je elektronické úložiště, které je určeno k
+>
+> - a) doručování orgány veřejné moci,
+>
+> - b) provádění úkonů vůči orgánům veřejné moci,
+>
+> - c) dodávání dokumentů fyzických osob, podnikajících fyzických osob a právnických osob.
+>
+> (2) Datové schránky zřizuje a spravuje Digitální a informační agentura (dále jen „Agentura“).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6b3186f0f0c08ff0b83c -->
 
 ## § 3 — Datová schránka fyzické osoby
 
@@ -270,6 +380,72 @@ Agentura nepostupuje formálně podle § 37 odst. 3 SŘ (jak by činil běžný 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o omezení svéprávnosti s vyznačením právní moci; výpis z ISDS (datum dodání, fikce, znepřístupnění); žádost o zřízení DS a způsob ověření identity; ustanovení opatrovníka.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2d36197325dc62a451e3 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 3 — Datová schránka fyzické osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Datovou schránku fyzické osoby zřídí Agentura bezplatně fyzické osobě, která je plně svéprávná, na žádost této osoby bezodkladně po podání žádosti.
+>
+> (2) Fyzická osoba má nárok na zřízení jedné datové schránky fyzické osoby.
+>
+> (3) Náležitosti žádosti o zřízení datové schránky fyzické osoby jsou
+>
+> - a) jméno, popřípadě jména, příjmení, jejich případné změny,
+>
+> - b) rodné příjmení,
+>
+> - c) den, měsíc a rok narození,
+>
+> - d) místo a okres narození; pokud se fyzická osoba narodila v cizině, místo narození a stát, na jehož území se narodila,
+>
+> - e) státní občanství, není-li fyzická osoba státním občanem České republiky, a
+>
+> - f) číslo a druh identifikačního dokladu, je-li fyzické osobě vydán.
+>
+> (4) Žádost o zřízení datové schránky fyzické osoby musí obsahovat úředně ověřený podpis fyzické osoby.
+>
+> (5) Splňuje-li žádost o zřízení datové schránky fyzické osoby požadavky stanovené v odstavcích 3 a [[#§ 4|4]], zřídí Agentura datovou schránku fyzické osoby, jinak fyzickou osobu po předchozí marné výzvě k odstranění nedostatků žádosti vyrozumí o tom, že datovou schránku fyzické osoby nelze zřídit. Má-li již fyzická osoba zřízenu datovou schránku fyzické osoby nebo není-li plně svéprávná, Agentura ji vyrozumí, že datovou schránku fyzické osoby nelze zřídit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2d36197325dc62a451e3 -->
 
 ## § 4 — Datová schránka podnikající fyzické osoby
 
@@ -385,6 +561,76 @@ Praktický význam odst. 4–6 po DEPO novele výrazně klesl — drtivá větš
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=331dd2c176da04da7eec generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 4 — Datová schránka podnikající fyzické osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Datovou schránku podnikající fyzické osobě, advokátu, statutárnímu auditorovi, daňovému poradci, insolvenčnímu správci, znalci, soudnímu tlumočníku a soudnímu překladateli zřídí Agentura bezplatně a bezodkladně poté, co obdrží informaci o jejich zapsání do zákonem stanovené evidence nebo rejstříku.
+>
+> (2) Podnikající fyzická osoba, advokát, statutární auditor, daňový poradce, insolvenční správce, znalec, soudní tlumočník a soudní překladatel mají nárok na zřízení jedné datové schránky podnikající fyzické osoby, advokáta, statutárního auditora, daňového poradce, insolvenčního správce, znalce, soudního tlumočníka a soudního překladatele.
+>
+> (3) Datovou schránku podnikající fyzické osoby zřídí Agentura bezplatně advokátu, statutárnímu auditorovi, daňovému poradci, insolvenčnímu správci, znalci, soudnímu tlumočníkovi a soudnímu překladateli, autorizovanému architektovi, autorizovanému inženýrovi a autorizovanému technikovi, úředně oprávněnému zeměměřickému inženýrovi, bezodkladně poté, co obdrží informaci o jejich zapsání do zákonem stanovené evidence. Ustanovení odstavce 2 se použije pro advokáty, statutární auditory, daňové poradce, insolvenční správce, znalce, soudní tlumočníky a soudní překladatele, autorizované architekty, autorizované inženýry, autorizované techniky, úředně oprávněné zeměměřické inženýry obdobně.
+>
+> (4) Náležitosti žádosti o zřízení datové schránky podnikající fyzické osoby jsou
+>
+> - a) jméno, popřípadě jména, a příjmení, popřípadě obchodní firma,
+>
+> - b) rodné příjmení,
+>
+> - c) den, měsíc a rok narození,
+>
+> - d) místo a okres narození; pokud se podnikající fyzická osoba narodila v cizině, místo narození a stát, na jehož území se narodila,
+>
+> - e) státní občanství, není-li podnikající fyzická osoba státním občanem České republiky,
+>
+> - f) identifikační číslo osoby, bylo-li přiděleno,
+>
+> - g) sídlo.
+>
+> (5) Žádost o zřízení datové schránky podnikající fyzické osoby musí obsahovat úředně ověřený podpis podnikající fyzické osoby.
+>
+> (6) Splňuje-li žádost o zřízení datové schránky podnikající fyzické osoby požadavky stanovené v odstavcích 4 a [[#§ 5|5]], zřídí Agentura datovou schránku podnikající fyzické osoby, jinak podnikající fyzickou osobu po předchozí marné výzvě k odstranění nedostatků žádosti vyrozumí o tom, že datovou schránku podnikající fyzické osoby nelze zřídit. Má-li již podnikající fyzická osoba zřízenu datovou schránku podnikající fyzické osoby, Agentura ji vyrozumí, že datovou schránku podnikající fyzické osoby nelze zřídit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=331dd2c176da04da7eec -->
+
 ## § 5 — Datová schránka právnické osoby
 
 > **§ 5**
@@ -487,6 +733,72 @@ Klíčová položka **„osoba oprávněná jednat jménem PO"** (písm. d) je v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9c8c7aebac1c59f7ec32 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 5 — Datová schránka právnické osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Datovou schránku právnické osoby zřídí Agentura bezplatně právnické osobě zapsané v registru osob bezodkladně poté, co obdrží informaci o jejím zapsání do registru osob.
+>
+> (2) Právnické osobě, která není uvedena v odstavci 1, zřídí Agentura datovou schránku právnické osoby bezplatně na žádost této osoby bezodkladně po podání žádosti.
+>
+> (3) Právnická osoba má nárok na zřízení jedné datové schránky právnické osoby.
+>
+> (4) Náležitosti žádosti o zřízení datové schránky právnické osoby jsou
+>
+> - a) název nebo obchodní firma,
+>
+> - b) identifikační číslo osoby, a nebylo-li přiděleno, registrační číslo, evidenční číslo nebo jiný obdobný údaj, byl-li přidělen,
+>
+> - c) adresa sídla,
+>
+> - d) jméno, popřípadě jména, příjmení, datum narození a adresa pobytu osoby oprávněné jednat jménem právnické osoby,
+>
+> - e) stát registrace nebo evidence právnické osoby.
+>
+> (5) Žádost o zřízení datové schránky právnické osoby musí obsahovat úředně ověřený podpis osoby oprávněné jednat jménem právnické osoby.
+>
+> (6) Splňuje-li žádost o zřízení datové schránky právnické osoby požadavky stanovené v odstavcích 4 a [[#§ 5|5]], zřídí Agentura datovou schránku právnické osoby, jinak právnickou osobu po předchozí marné výzvě k odstranění nedostatků žádosti vyrozumí o tom, že datovou schránku právnické osoby nelze zřídit. Má-li již právnická osoba zřízenu datovou schránku právnické osoby, Agentura ji vyrozumí, že datovou schránku právnické osoby nelze zřídit.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c8c7aebac1c59f7ec32 -->
+
 ## § 6 — Datová schránka orgánu veřejné moci
 
 > **§ 6**
@@ -568,6 +880,68 @@ V některých případech je tento princip složitý — typicky **insolvenční
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=979271aa3c36eca0dba8 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 6 — Datová schránka orgánu veřejné moci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Datovou schránku orgánu veřejné moci zřídí Agentura bezplatně orgánu veřejné moci, a to bezodkladně po jeho vzniku a v případě, že orgán veřejné moci vzniká zápisem do evidence podle jiného právního předpisu, bezodkladně po jeho zápisu do rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů.
+>
+> (2) Další datové schránky orgánu veřejné moci zřídí Agentura orgánu veřejné moci bezplatně na žádost tohoto orgánu bezodkladně po podání žádosti. Datová schránka podle věty první se zřizuje zejména pro potřebu vnitřní organizační jednotky orgánu veřejné moci nebo výkonu konkrétní agendy nebo činnosti orgánu veřejné moci.
+>
+> (3) Náležitosti žádosti o zřízení další datové schránky orgánu veřejné moci jsou
+>
+> - a) název orgánu veřejné moci a název vnitřní organizační jednotky orgánu veřejné moci, pro jejíž potřebu se datová schránka zřizuje nebo název agendy nebo činnosti orgánu veřejné moci, pro jejíž potřebu se datová schránka zřizuje,
+>
+> - b) identifikátor orgánu veřejné moci,
+>
+> - c) adresa sídla,
+>
+> - d) jméno, popřípadě jména, příjmení, datum narození a adresa pobytu osoby, jíž mají být zaslány přístupové údaje.
+>
+> (4) Splňuje-li žádost o zřízení další datové schránky orgánu veřejné moci požadavky stanovené v odstavci 3, zřídí Agentura další datovou schránku orgánu veřejné moci a zašle přístupové údaje k této datové schránce osobě podle odstavce 3 písm. d) výlučně do vlastních rukou adresáta, jinak orgán veřejné moci po předchozí marné výzvě k odstranění nedostatků žádosti vyrozumí o tom, že další datovou schránku orgánu veřejné moci nelze zřídit.
+>
+> (5) Orgánu veřejné moci se zřizuje pouze datová schránka orgánu veřejné moci.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=979271aa3c36eca0dba8 -->
+
 ## § 7 — Zvláštní ustanovení o datových schránkách orgánů územních samosprávných celků
 
 > **§ 7**
@@ -638,6 +1012,56 @@ Praktický důsledek: každý nový starosta po komunálních volbách obdrží 
 **Typicky rozhodné důkazy / podklady:** zápis o výsledku voleb a ustavujícím zastupitelstvu; doklad o oznámení změny Agentuře; výpis z ISDS o přihlášeních a přístupových údajích; identifikace osoby vedoucího OVM v rozhodné době.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=1a5ca6654980b39880e4 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 7 — Zvláštní ustanovení o datových schránkách orgánů územních samosprávných celků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Pro orgány územního samosprávného celku se zřizuje jedna datová schránka orgánu veřejné moci, nepožádá-li územní samosprávný celek o zřízení další datové schránky orgánu veřejné moci.
+>
+> (2) Pro orgány městské části hlavního města Prahy se zřizuje jedna datová schránka orgánu veřejné moci, nepožádá-li městská část hlavního města Prahy o zřízení další datové schránky orgánu veřejné moci. Pro orgány městské části nebo městského obvodu územně členěného statutárního města se zřizuje jedna datová schránka orgánu veřejné moci, nepožádá-li územně členěné statutární město o zřízení další datové schránky orgánu veřejné moci.
+>
+> (3) Pro účely tohoto zákona se za vedoucího orgánu veřejné moci považuje hejtman kraje, primátor hlavního města Prahy, starosta obce, starosta městské části hlavního města Prahy a starosta městské části nebo městského obvodu územně členěného statutárního města.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1a5ca6654980b39880e4 -->
 
 ## § 8 — Osoby oprávněné k přístupu do datové schránky
 
@@ -758,6 +1182,78 @@ Odst. 9 zakotvuje dvě obecné povinnosti všech oprávněných osob: (a) nezneu
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d29b5e6542fa25c7f452 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 8 — Osoby oprávněné k přístupu do datové schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) K přístupu do datové schránky fyzické osoby je oprávněna fyzická osoba, pro niž byla datová schránka zřízena.
+>
+> (2) K přístupu do datové schránky podnikající fyzické osoby je oprávněna podnikající fyzická osoba, pro niž byla datová schránka zřízena.
+>
+> (3) K přístupu do datové schránky právnické osoby je oprávněn statutární orgán právnické osoby nebo člen statutárního orgánu právnické osoby, pro niž byla datová schránka zřízena.
+>
+> (4) K přístupu do datové schránky orgánu veřejné moci je oprávněn vedoucí orgánu veřejné moci, pro něhož byla datová schránka zřízena.
+>
+> (5) Není-li dále stanoveno jinak, pouze osoby uvedené v odstavcích 1 až 4 jsou oprávněny činit úkony uvedené v § 11 odst. 5 a [[#§ 7|7.]] Rozsah přístupu osob uvedených v odstavcích 1 až 4 do datové schránky zahrnuje i přístup k dokumentům určeným do vlastních rukou adresáta.
+>
+> (6) K přístupu do datové schránky je dále oprávněna pověřená osoba, kterou je
+>
+> - a) u datové schránky fyzické osoby a datové schránky podnikající fyzické osoby fyzická osoba pověřená osobou, pro niž byla datová schránka zřízena, a to v rozsahu jí stanoveném,
+>
+> - b) u datové schránky právnické osoby fyzická osoba pověřená statutárním orgánem právnické osoby, pro niž byla datová schránka zřízena, a to v rozsahu jím stanoveném,
+>
+> - c) u datové schránky orgánu veřejné moci fyzická osoba určená vedoucím orgánu veřejné moci, pro který byla datová schránka zřízena, a to v rozsahu jím stanoveném.
+>
+> (7) Osoby uvedené v odstavcích 1 až 4 mohou určit, že úkony, které jsou jim podle tohoto zákona vyhrazeny ve vztahu k pověřeným osobám a k Agentuře, může činit fyzická osoba k tomu určená (dále jen „administrátor“).
+>
+> (8) Pověřená osoba je oprávněna k přístupu k dokumentům určeným do vlastních rukou adresáta pouze, stanoví-li tak osoba uvedená v odstavcích 1 až 4 nebo administrátor.
+>
+> (9) Osoby oprávněné k přístupu do datové schránky jsou povinny
+>
+> - a) využívat datovou schránku způsobem, který neohrožuje bezpečnost informačního systému datových schránek,
+>
+> - b) uvědomit neprodleně Agenturu o tom, že hrozí nebezpečí zneužití datové schránky; pověřená osoba uvědomí rovněž toho, kdo ji určil pověřenou osobou.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 7
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d29b5e6542fa25c7f452 -->
+
 ## Prostředky k přístupu do datové schránky
 
 ## § 9
@@ -843,6 +1339,58 @@ Konkrétní náležitosti přístupových údajů, technické podmínky a bezpe�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=499ab5c1aab548252adf generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 9
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Osoba oprávněná k přístupu do datové schránky se do ní přihlašuje prostřednictvím přístupových údajů.
+>
+> (2) Osoba oprávněná k přístupu do datové schránky je povinna zacházet s přístupovými údaji tak, aby nemohlo dojít k jejich zneužití.
+>
+> (3) Přihlášení podle odstavce 1 zajišťuje Agentura prostřednictvím jím vydaných přístupových údajů nebo elektronických prostředků anebo prostřednictvím přístupu s využitím prostředku pro elektronickou identifikaci vydaného v rámci kvalifikovaného systému elektronické identifikace (dále jen „přístup pomocí kvalifikovaného prostředku“). Náležitosti přístupových údajů a elektronické prostředky k přihlášení a jejich náležitosti stanoví Agentura vyhláškou. Ustanovení o přístupových údajích se použijí obdobně i pro elektronické prostředky podle věty první.
+>
+> (4) Agentura stanoví vyhláškou technické podmínky a bezpečnostní zásady přístupu do datové schránky.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=499ab5c1aab548252adf -->
+
 ## § 9a
 
 > **§ 9a**
@@ -905,6 +1453,56 @@ Agentura zveřejní podmínky pro vydání a použití na internetových stránk
 **Typicky rozhodné důkazy / podklady:** zveřejněné podmínky pro vydání/použití prostředku (odst. 3); záznam o autentizaci držitele; doklad o zařazení prostředku do kvalifikovaného systému; specifikace požadované úrovně záruky služby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=f0fa00b57e071b1cebcd generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 9a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Agentura může vydávat elektronický prostředek podle § 9 odst. 3 rovněž jako prostředek pro elektronickou identifikaci určený v rámci jím spravovaného nebo stanoveného kvalifikovaného systému elektronické identifikace k autentizaci svého držitele v jiných případech, než je přihlášení do datové schránky.
+>
+> (2) Agentura zajišťuje autentizaci držitele elektronického prostředku podle odstavce 1 při přihlášení do datové schránky a při použití elektronického prostředku jako prostředku pro elektronickou identifikaci v jiných případech, než je přihlášení do datové schránky.
+>
+> (3) Agentura zveřejní na svých internetových stránkách podmínky pro vydání a použití elektronického prostředku podle odstavce 1 jako prostředku pro elektronickou identifikaci určeného k autentizaci svého držitele v jiných případech, než je přihlášení do datové schránky, a doporučená bezpečnostní opatření spojená s takovým vydáním a použitím.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f0fa00b57e071b1cebcd -->
 
 ## § 10 — Zpřístupnění datové schránky
 
@@ -988,6 +1586,56 @@ Pokud byla DS zřízena způsobem podle § 27 odst. 4 (tj. s využitím přístu
 **Typicky rozhodné důkazy / podklady:** doručenka k přístupovým údajům; výpis z ISDS (zřízení, zpřístupnění, dodání, fikce); doklad o způsobu zřízení DS (žádost/BankID/ex offo); údaj o nastavení notifikací.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=9b945af362b923bd7e3a generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 10 — Zpřístupnění datové schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Agentura zašle výlučně do vlastních rukou adresáta přístupové údaje k datové schránce osobě uvedené v § 8 odst. 1 až 4, bezodkladně po zřízení datové schránky. V případě datové schránky zřízené na základě žádosti podané způsobem podle § 27 odst. 4 Agentura zašle přístupové údaje pouze na žádost osoby uvedené v § 8 odst. 1 nebo [[#§ 2|2.]]
+>
+> (2) Datová schránka je zpřístupněna prvním přihlášením osoby uvedené v § 8 odst. 1 až 4, nejpozději však patnáctým dnem po dni doručení přístupových údajů těmto osobám. Datová schránka zřízená na základě žádosti podané způsobem podle § 27 odst. 4, u které osoba uvedená v § 8 odst. 1 nebo [[#§ 2|2]] nepožádala o zaslání přístupových údajů, je zpřístupněna prvním přihlášením osoby uvedené v § 8 odst. 1 nebo [[#§ 2|2]], nejpozději však patnáctým dnem po dni jejího zřízení. Agentura vyrozumí osobu uvedenou v § 8 odst. 1 nebo [[#§ 2|2]] o zřízení datové schránky prostřednictvím informačního systému veřejné správy, kterým podala žádost o zřízení datové schránky.
+>
+> (3) Na žádost osoby uvedené v § 8 odst. 1 až 4 nebo administrátora zašle Agentura přístupové údaje k datové schránce pověřené osobě výlučně do vlastních rukou adresáta.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 27, § 2
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9b945af362b923bd7e3a -->
 
 ## § 11 — Znepřístupnění datové schránky
 
@@ -1086,6 +1734,74 @@ Při znepřístupnění DS Agentura zastaví dodávání nových zpráv. Zprávy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0f96c090ba387d941c74 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 11 — Znepřístupnění datové schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Agentura znepřístupní datovou schránku fyzické osoby a podnikající fyzické osoby, a to případně i zpětně, ke dni
+>
+> - a) úmrtí osoby, pro niž byla datová schránka zřízena,
+>
+> - b) uvedenému v rozhodnutí soudu o prohlášení za mrtvého jako den úmrtí této osoby,
+>
+> - c) nabytí právní moci rozhodnutí o omezení svéprávnosti této osoby,
+>
+> - d) kdy byla tato osoba omezena na osobní svobodě z důvodu vzetí do vazby, výkonu trestu odnětí svobody, výkonu zabezpečovací detence, ochranného léčení nebo ochrany zdraví lidu.
+>
+> (2) Agentura znepřístupní datovou schránku podnikající fyzické osoby a právnické osoby, a to případně i zpětně, ke dni jejího výmazu ze zákonem stanovené evidence.
+>
+> (3) Agentura znepřístupní datovou schránku právnické osoby zřízené zákonem dnem jejího zrušení, a to popřípadě i zpětně ke dni jejího zrušení.
+>
+> (4) Agentura znepřístupní datovou schránku orgánu veřejné moci dnem jeho zrušení, a to popřípadě i zpětně ke dni jeho zrušení, a v případě, že orgán veřejné moci zaniká výmazem z evidence podle jiného právního předpisu, dnem uvedeným v rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů jako den jeho zániku, a to popřípadě i zpětně ke dni jeho zániku. Agentura dále znepřístupní datovou schránku orgánu veřejné moci dnem uvedeným v rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů jako den přerušení nebo pozastavení působnosti, a to popřípadě i zpětně ke dni přerušení nebo pozastavení jeho působnosti.
+>
+> (5) Agentura znepřístupní datovou schránku fyzické osoby, podnikající fyzické osoby, právnické osoby nebo orgánu veřejné moci rovněž na žádost osoby nebo orgánu veřejné moci, jimž byla datová schránka zřízena, nebo administrátora, jde-li o datovou schránku, kterou Agentura zřizuje na žádost.
+>
+> (6) Datová schránka je znepřístupněna bezodkladně po podání žádosti podle odstavce 5.
+>
+> (7) Znepřístupněnou datovou schránku fyzické osoby, podnikající fyzické osoby, právnické osoby nebo orgánu veřejné moci Agentura zpřístupní na žádost osoby nebo orgánu veřejné moci, jimž byla datová schránka zřízena, nebo administrátora bezodkladně po podání žádosti. Byla-li datová schránka na žádost znepřístupněna dvakrát za poslední rok, lze ji zpřístupnit nejdříve uplynutím 1 roku od jejího posledního znepřístupnění.
+>
+> (8) Znepřístupněnou datovou schránku orgánu veřejné moci, která byla znepřístupněna podle odstavce 4 věty druhé, Agentura zpřístupní dnem, kdy byl údaj o přerušení nebo pozastavení působnosti vymazán z rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0f96c090ba387d941c74 -->
+
 ## § 12 — Zneplatnění přístupových údajů
 
 > **§ 12**
@@ -1154,6 +1870,56 @@ Pozor na terminologii:
 **Typicky rozhodné důkazy / podklady:** zápis o změně statutárního orgánu a výpis z OR; oznámení Agentuře a doklad o jeho doručení; výpis z ISDS o přihlášení a úkonu odvolané osoby; doklad o dobré víře třetí osoby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=2f02a87359cc0933a40a generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 12 — Zneplatnění přístupových údajů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Agentura zneplatní přístupové údaje osoby oprávněné k přístupu do datové schránky neprodleně po jejím oznámení, zejména při ztrátě či odcizení přístupových údajů, a současně zašle této osobě výlučně do vlastních rukou adresáta nové přístupové údaje.
+>
+> (2) Agentura zneplatní přístupové údaje pověřené osobě v případě zrušení pověření podle § 8 odst. 6 neprodleně po oznámení osoby uvedené v § 8 odst. 1 až 4 nebo administrátora a o této skutečnosti informuje pověřenou osobu, jejíž údaje zneplatnilo, i osobu, která o zneplatnění požádala.
+>
+> (3) Agentura zneplatní přístupové údaje statutárnímu orgánu právnické osoby nebo jeho členu, přestane-li být statutárním orgánem právnické osoby nebo jeho členem a vedoucímu orgánu veřejné moci, přestane-li být vedoucím orgánu veřejné moci, neprodleně po oznámení této skutečnosti novým statutárním orgánem právnické osoby nebo jeho členem, novým vedoucím orgánu veřejné moci nebo administrátorem. Agentura současně zašle novému statutárnímu orgánu právnické osoby nebo jeho členu nebo novému vedoucímu orgánu veřejné moci nové přístupové údaje výlučně do vlastních rukou adresáta.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2f02a87359cc0933a40a -->
 
 ## § 13 — Zrušení datové schránky
 
@@ -1230,6 +1996,60 @@ V období mezi (1) a (2) lze do DS přihlašovat (na žádost zpřístupnit zpě
 **Typicky rozhodné důkazy / podklady:** úmrtní list / doklad o zániku PO; výpis z ISDS o existenci a stavu DS; doklad o dědickém právu / pověření notáře; případně archivovaná datová zpráva nebo její rekonstrukce od odesílatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b951dcb0c420b37d5cdd generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 13 — Zrušení datové schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> Agentura zruší
+>
+> - a) datovou schránku fyzické osoby po uplynutí 3 let ode dne úmrtí fyzické osoby, případně dne, který je v rozhodnutí soudu o prohlášení za mrtvého uveden jako den úmrtí,
+>
+> - b) datovou schránku podnikající fyzické osoby po uplynutí 3 let ode dne výmazu podnikající fyzické osoby ze zákonem stanovené evidence,
+>
+> - c) datovou schránku právnické osoby po uplynutí 3 let ode dne zániku právnické osoby, případně ode dne jejího výmazu ze zákonem stanovené evidence,
+>
+> - d) datovou schránku orgánu veřejné moci po uplynutí 3 let ode dne po jeho zrušení a v případě, že orgán veřejné moci zaniká výmazem z evidence podle jiného právního předpisu, po uplynutí 3 let ode dne uvedeného v rejstříku orgánů veřejné moci a soukromoprávních uživatelů údajů jako den jeho zániku.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b951dcb0c420b37d5cdd -->
 
 ## § 14 — Informační systém datových schránek
 
@@ -1363,6 +2183,86 @@ Klíčová bezpečnostní záruka: **správce a provozovatel ISDS NEJSOU oprávn
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=39dd477c2ccb4cb5e844 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 14 — Informační systém datových schránek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Informační systém datových schránek je informačním systémem veřejné správy4), který obsahuje informace o datových schránkách a jejich uživatelích.
+>
+> (2) Správcem informačního systému datových schránek je Agentura. Provozovatelem informačního systému datových schránek je držitel poštovní licence. Provozovatel informačního systému datových schránek zajišťuje též jeho rozvoj. Odměna držiteli poštovní licence za provozování informačního systému datových schránek se stanoví podle cenových předpisů5). Výše nákladů na rozvoj informačního systému datových schránek se stanoví dohodou mezi držitelem poštovní licence a Agenturou. Náklady spojené s provozováním a rozvojem informačního systému datových schránek hradí stát z prostředků státního rozpočtu vyčleněných podle návrhu Agentury pro stanovený účel v kapitole všeobecná pokladní správa5a).
+>
+> (3) V informačním systému datových schránek se vedou alespoň tyto informace o datových schránkách:
+>
+> - a) identifikátor datové schránky (dále jen „identifikátor“),
+>
+> - b) datum zřízení, zpřístupnění, znepřístupnění a zrušení datové schránky s uvedením hodiny, minuty a sekundy,
+>
+> - c) datum přihlášení osoby oprávněné k přístupu do datové schránky do této datové schránky s uvedením hodiny, minuty a sekundy a údaj identifikující tuto osobu,
+>
+> - d) datum odeslání dokumentu nebo provedení úkonu z datové schránky s uvedením hodiny, minuty a sekundy a údaj identifikující osobu, která odeslání dokumentu nebo úkon provedla,
+>
+> - e) jméno, popřípadě jména, příjmení, datum a místo narození, adresa místa trvalého pobytu nebo jiného pobytu na území České republiky anebo adresa bydliště mimo území České republiky fyzické osoby, pro niž byla zřízena datová schránka,
+>
+> - f) jméno, popřípadě jména, a příjmení, popřípadě obchodní firma podnikající fyzické osoby, pro niž byla zřízena datová schránka, datum a místo jejího narození, adresa místa trvalého pobytu u občanů České republiky, místo, kde má povolení k pobytu nebo k trvalému pobytu v České republice, včetně uvedení adresy, a adresa bydliště v cizině, jde-li o cizince, adresa bydliště v členském státě Evropské unie, ve kterém je usazen, jde-li o státního příslušníka členského státu Evropské unie, který nemá povolení k pobytu nebo k trvalému pobytu v České republice, sídlo a identifikační číslo osoby, bylo-li přiděleno,
+>
+> - g) obchodní firma nebo název právnické osoby, pro niž byla zřízena datová schránka, sídlo a identifikační číslo osoby, bylo-li přiděleno,
+>
+> - h) název orgánu veřejné moci, pro nějž byla zřízena datová schránka, sídlo a identifikační číslo osoby, bylo-li přiděleno,
+>
+> - i) jméno, popřípadě jména, příjmení, datum narození, adresa místa trvalého pobytu nebo jiného pobytu na území České republiky anebo adresa bydliště mimo území České republiky osoby oprávněné k přístupu do datové schránky, přístupové údaje, vazby přístupových údajů na přístupové údaje k individuálním uživatelským účtům podle [[#§ 14a|§ 14a]], rozsah přístupu a datum vzniku a zániku oprávnění k přístupu do datové schránky s uvedením hodiny, minuty a sekundy,
+>
+> - j) jméno, popřípadě jména, příjmení, datum narození, adresa místa trvalého pobytu nebo jiného pobytu na území České republiky anebo adresa bydliště mimo území České republiky administrátora a datum vzniku a zániku určení administrátorem s uvedením hodiny, minuty a sekundy,
+>
+> - k) elektronická adresa nebo obdobný údaj pro vyrozumění o dodání datové zprávy do datové schránky, popřípadě kontaktní adresa, na niž má být adresátu doručováno; seznam kontaktních adres, u nichž byl dán souhlas k jejich zveřejnění, vede Agentura způsobem umožňujícím dálkový přístup,
+>
+> - l) datum a čas událostí spojených s provozem informačního systému datových schránek.
+>
+> (4) Údaje uvedené v odstavci 3 jsou neveřejné a nelze je poskytnout jiným osobám, s výjimkou kontaktní adresy, na niž má být adresátu doručováno, byl-li dán souhlas k jejímu zveřejnění. Agentura umožní identifikovat datovou schránku tak, aby do ní mohlo být doručováno.
+>
+> (5) Správce a provozovatel informačního systému datových schránek zajišťuje náležitá opatření v oblasti bezpečnosti informačního systému datových schránek.
+>
+> (6) Správce ani provozovatel informačního systému datových schránek nejsou oprávněni k přístupu do datových schránek jiných subjektů.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 14a
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=39dd477c2ccb4cb5e844 -->
+
 ## § 14a — Přístupové rozhraní pro poskytovatele internetových služeb
 
 > **§ 14a**
@@ -1453,6 +2353,70 @@ Poskytovatel odpovídá **objektivně** (bez ohledu na zavinění) za škodu z v
 **Typicky rozhodné důkazy / podklady:** povolení Agentury a popis způsobu využití rozhraní; bezpečnostní dokumentace a audity; technická zpráva o incidentu; doklad o počtu účtů (pro poplatek i rozsah škody); smlouva a kontrola subdodavatele.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=4c3b9865ab3f6de7c47b generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 14a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Agentura může na žádost osoby poskytující své služby na internetu, jež jsou přístupné prostřednictvím jí provozovaných individuálních uživatelských účtů adresátů těchto služeb (dále jen „poskytovatel internetových služeb“), povolit využívání rozhraní informačního systému datových schránek, které slouží pro správu přístupových údajů a identity osob oprávněných k přístupu do datových schránek a vazby přístupových údajů těchto osob na přístupové údaje k individuálním uživatelským účtům (dále jen „přístupové rozhraní“). Součástí žádosti je popis způsobu využití přístupového rozhraní.
+>
+> (2) Agentura rozhodne o žádosti do 3 měsíců ode dne jejího podání. Splňuje-li poskytovatel internetových služeb věcné, personální, technické, bezpečnostní a organizační podmínky, Agentura mu může vydat povolení k využívání přístupového rozhraní. Povolení se vydává na dobu 5 let.
+>
+> (3) Agentura stanovuje věcné, personální, technické, bezpečnostní a organizační podmínky pro využívání přístupového rozhraní a zveřejňuje je ve Věstníku Agentury a způsobem umožňujícím dálkový přístup. Stanoví-li Agentura nové podmínky podle věty první, povinnost poskytovatele internetových služeb splňovat tyto podmínky nastane nejdříve prvním dnem třetího kalendářního měsíce následujícího po kalendářním měsíci, v němž došlo k jejich zveřejnění, nestanoví-li Agentura delší dobu.
+>
+> (4) Poskytovatel internetových služeb platí za využívání přístupového rozhraní roční poplatek vypočtený jako součin částky 100 Kč a počtu uživatelských účtů k jeho službám, pro které v daném kalendářním roce využil přístupového rozhraní. Poplatek se platí do 31. ledna následujícího kalendářního roku. Poplatek je příjmem státního rozpočtu, vybírá jej Agentura.
+>
+> (5) Poskytovatel internetových služeb odpovídá za škodu způsobenou v souvislosti s využíváním přístupového rozhraní. Poskytovatel internetových služeb se odpovědnosti zprostí, prokáže-li, že škodě nemohlo být zabráněno ani při vynaložení veškerého úsilí, které lze na něm požadovat.
+>
+> (6) Agentura kontroluje u poskytovatele internetových služeb plnění věcných, personálních, technických, bezpečnostních a organizačních podmínek pro využívání přístupového rozhraní.
+>
+> (7) Agentura rozhodne o odnětí povolení k využívání přístupového rozhraní,
+>
+> - a) nesplňuje-li poskytovatel internetových služeb věcné, personální, technické, bezpečnostní nebo organizační podmínky pro využívání přístupového rozhraní a nedojde-li do 3 měsíců ode dne, kdy Agentura na tuto skutečnost upozornila, k nápravě, nebo
+>
+> - b) požádá-li o to poskytovatel internetových služeb.
+>
+> (8) Agentura vede seznam poskytovatelů internetových služeb, kteří využívají přístupové rozhraní, a zveřejňuje jej způsobem umožňujícím dálkový přístup.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4c3b9865ab3f6de7c47b -->
 
 ## § 14b — Seznam držitelů datových schránek
 
@@ -1562,6 +2526,88 @@ Vyhledávání probíhá na portálu mojedatovaschranka.cz nebo prostřednictví
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ed69aea6ac0a80cb4bb1 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 14b — Seznam fyzických osob, podnikajících fyzických osob, právnických osob a orgánů veřejné moci, které mají zřízenu a zpřístupněnu datovou schránku
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Agentura vede veřejný seznam fyzických osob, podnikajících fyzických osob, právnických osob a orgánů veřejné moci, které mají zřízenu a zpřístupněnu datovou schránku (dále jen „seznam držitelů datových schránek“), který je přístupný způsobem umožňujícím dálkový přístup. Seznam je součástí informačního systému datových schránek.
+>
+> (2) Agentura zapíše údaje o fyzické nebo podnikající fyzické osobě, která má zřízenu a zpřístupněnu datovou schránku, do seznamu držitelů datových schránek, na žádost této osoby.
+>
+> (3) Seznam držitelů datových schránek se člení na samostatné části vedené pro fyzické osoby, pro podnikající fyzické osoby, pro právnické osoby a pro orgány veřejné moci.
+>
+> (4) Seznam držitelů datových schránek obsahuje tyto údaje o fyzických osobách, podnikajících fyzických osobách, právnických osobách a orgánech veřejné moci, které mají zřízenu a zpřístupněnu datovou schránku
+>
+> - a) v části vedené pro fyzické osoby
+>
+> - 1. jméno, popřípadě jména, příjmení, adresa místa trvalého pobytu nebo jiného pobytu na území České republiky anebo adresa bydliště mimo území České republiky,
+>
+> - 2. identifikátor,
+>
+> - b) v části vedené pro podnikající fyzické osoby
+>
+> - 1. jméno, popřípadě jména a příjmení, popřípadě obchodní firma, sídlo a identifikační číslo osoby, bylo-li přiděleno,
+>
+> - 2. identifikátor,
+>
+> - c) v části vedené pro právnické osoby
+>
+> - 1. obchodní firma nebo název, sídlo a identifikační číslo osoby, bylo-li přiděleno,
+>
+> - 2. identifikátor, případně identifikátory,
+>
+> - d) v části vedené pro orgány veřejné moci
+>
+> - 1. název, sídlo a identifikační číslo osoby, bylo-li přiděleno,
+>
+> - 2. identifikátor, případně identifikátory,
+>
+> - 3. má-li orgán veřejné moci zřízeno více datových schránek orgánu veřejné moci, údaj o tom, která datová schránka orgánu veřejné moci je další datovou schránkou orgánu veřejné moci, je-li další datová schránka orgánu veřejné moci zřízena pro potřeby vnitřní organizační jednotky orgánu veřejné moci, název této vnitřní organizační jednotky, a je-li další datová schránka orgánu veřejné moci zřízena pro potřeby výkonu konkrétní agendy nebo činnosti orgánu veřejné moci, název této agendy nebo činnosti.
+>
+> (5) Na žádost fyzické nebo podnikající fyzické osoby, která má zřízenu a zpřístupněnu datovou schránku, se údaje o ní vedené v seznamu držitelů datových schránek zlikvidují.
+>
+> (6) Agentura využívá pro vedení seznamu držitelů datových schránek údaje vedené v informačním systému datových schránek.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ed69aea6ac0a80cb4bb1 -->
+
 ## § 15 — Využívání údajů z informačních systémů veřejné správy a součinnost
 
 > **§ 15**
@@ -1640,6 +2686,60 @@ Smyslem § 15 je zajistit, aby osoba **nemusela sama žádat o DS PFO** — DS j
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7ec7a55968df65f9cb0a generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 15 — Využívání údajů z informačních systémů veřejné správy a součinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Komora auditorů České republiky bezodkladně informuje Agenturu o zápisu osoby do rejstříku auditorů, o údajích vedených o osobě v rejstříku auditorů nezbytně nutných pro zřízení datové schránky a jejich změnách a o zániku oprávnění k výkonu auditorské činnosti této osoby.
+>
+> (2) Ministerstvo spravedlnosti bezodkladně informuje Agenturu o zápisu znalce do seznamu znalců, znaleckých kanceláří a znaleckých ústavů (dále jen „seznam znalců“) a o zápisu soudního tlumočníka nebo soudního překladatele do seznamu soudních tlumočníků a soudních překladatelů (dále jen „seznam soudních tlumočníků“), o údajích vedených o této osobě v seznamu znalců nebo v seznamu soudních tlumočníků nezbytně nutných pro zřízení datové schránky a jejich změnách a o vyškrtnutí této osoby ze seznamu znalců nebo seznamu soudních tlumočníků.
+>
+> (3) Česká komora architektů bezodkladně informuje Agenturu o zápisu autorizovaného architekta do seznamu autorizovaných architektů, o údajích vedených o této osobě v seznamu autorizovaných architektů nezbytně nutných pro zřízení datové schránky a jejich změnách a o vyškrtnutí této osoby ze seznamu autorizovaných architektů.
+>
+> (4) Česká komora autorizovaných inženýrů a techniků činných ve výstavbě bezodkladně informuje Agenturu o zápisu autorizovaného inženýra do seznamu autorizovaných inženýrů a o zápisu autorizovaného technika do seznamu autorizovaných techniků, o údajích vedených o této osobě v seznamu autorizovaných inženýrů nebo v seznamu autorizovaných techniků nezbytně nutných pro zřízení datové schránky a jejich změnách a o vyškrtnutí této osoby ze seznamu autorizovaných inženýrů nebo ze seznamu autorizovaných techniků.
+>
+> (5) Český úřad zeměměřický a katastrální nebo Ministerstvo obrany bezodkladně informuje Agenturu o zápisu úředně oprávněného zeměměřického inženýra do seznamu fyzických osob s úředním oprávněním, o údajích vedených o této osobě v seznamu fyzických osob s úředním oprávněním nezbytně nutných pro zřízení datové schránky a jejich změnách a o vyškrtnutí této osoby ze seznamu fyzických osob s úředním oprávněním.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ec7a55968df65f9cb0a -->
+
 ## § 16 — Informační povinnost při omezení osobní svobody
 
 > **§ 16**
@@ -1699,6 +2799,52 @@ Zpětné znepřístupnění DS ke dni omezení svobody (§ 11 odst. 1) **anuluje
 **Typicky rozhodné důkazy / podklady:** doklad o vzetí do vazby/nástupu výkonu trestu/detence/ochranného léčení; výpis z ISDS o dodání, fikci a znepřístupnění; doklad o splnění/nesplnění informační povinnosti zařízením; rozhodnutí, jehož doručení je sporné.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b1f192ab06287ea68e0a generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 16
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> Věznice nebo vazební věznice bezodkladně informuje Agenturu o vzetí fyzické osoby do vazby nebo o nástupu fyzické osoby do výkonu trestu odnětí svobody, jde-li o osobu, která má zřízenu datovou schránku. Detenční ústav bezodkladně informuje Agenturu o nástupu fyzické osoby, která má zřízenu datovou schránku, do výkonu zabezpečovací detence. Soud bezodkladně informuje Agenturu o vykonatelném rozhodnutí, jímž se fyzická osoba, která má zřízenu datovou schránku, omezuje na osobní svobodě z důvodu ochranného léčení nebo ochrany zdraví lidu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1f192ab06287ea68e0a -->
 
 ## § 17 — Doručování dokumentů orgánů veřejné moci prostřednictvím datové schránky
 
@@ -1844,6 +2990,64 @@ Doručování mezi OVM nemusí probíhat přes DS, je-li mezi nimi zavedena **ji
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7afc66d9433bf5aed4f5 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 17 — Doručování dokumentů orgánů veřejné moci prostřednictvím datové schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Umožňuje-li to povaha dokumentu, orgán veřejné moci jej doručuje jinému orgánu veřejné moci prostřednictvím datové schránky, pokud se nedoručuje na místě. Umožňuje-li to povaha dokumentu a má-li fyzická osoba, podnikající fyzická osoba nebo právnická osoba zpřístupněnu svou datovou schránku, orgán veřejné moci doručuje dokument této osobě prostřednictvím datové schránky, pokud se nedoručuje veřejnou vyhláškou nebo na místě. Doručuje-li se způsobem podle tohoto zákona, ustanovení jiných právních předpisů upravující způsob doručení se nepoužijí.
+>
+> (2) Připouštějí-li jiné právní předpisy doručování prostřednictvím datových schránek, pořadí způsobů doručování stanovené těmito právními předpisy zůstává ustanovením odstavce 1 nedotčeno.
+>
+> (3) Dokument, který byl dodán do datové schránky, je doručen okamžikem, kdy se do datové schránky přihlásí osoba, která má s ohledem na rozsah svého oprávnění přístup k dodanému dokumentu.
+>
+> (4) Nepřihlásí-li se do datové schránky osoba podle odstavce 3 ve lhůtě 10 dnů ode dne, kdy byl dokument dodán do datové schránky, považuje se tento dokument za doručený posledním dnem této lhůty; to neplatí, vylučuje-li jiný právní předpis náhradní doručení6).
+>
+> (5) Osoba, pro niž byla datová schránka zřízena, může za podmínek stanovených jiným právním předpisem7) žádat o určení neúčinnosti doručení podle odstavce 4.
+>
+> (6) Doručení dokumentu podle odstavce 3 nebo [[#§ 4|4]] má stejné právní účinky jako doručení do vlastních rukou.
+>
+> (7) Doručování mezi orgány veřejné moci prostřednictvím datové schránky se nepoužije, pokud je z bezpečnostních důvodů mezi těmito orgány zavedena jiná forma elektronické komunikace.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7afc66d9433bf5aed4f5 -->
+
 ## § 18 — Provádění úkonů vůči orgánům veřejné moci prostřednictvím datové schránky
 
 > **§ 18**
@@ -1930,6 +3134,54 @@ Odst. 2 výslovně připouští, že **pověřená osoba činí úkon s plnými 
 **Typicky rozhodné důkazy / podklady:** společenská smlouva / stanovy a výpis z OR (způsob jednání); výpis z ISDS o tom, kdo úkon odeslal; obsah úkonu; případná plná moc nebo doplňující projev vůle druhého člena.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e9de4a9fa969017560be generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 18 — Provádění úkonů vůči orgánům veřejné moci prostřednictvím datové schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Fyzická osoba, podnikající fyzická osoba a právnická osoba může provádět úkon vůči orgánu veřejné moci, má-li zpřístupněnu svou datovou schránku a umožňuje-li to povaha tohoto úkonu, prostřednictvím datové schránky.
+>
+> (2) Úkon učiněný osobou uvedenou v § 8 odst. 1 až 4 nebo pověřenou osobou, pokud k tomu byla pověřena, prostřednictvím datové schránky má stejné účinky jako úkon učiněný písemně a podepsaný, ledaže jiný právní předpis nebo vnitřní předpis požaduje společný úkon více z uvedených osob.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e9de4a9fa969017560be -->
 
 ## § 18a — Dodávání dokumentů fyzických osob, podnikajících fyzických osob a právnických osob
 
@@ -2021,6 +3273,58 @@ Soukromé dodání **není zdarma**, na rozdíl od doručování OVM. Odměna pr
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=64aa559f004e5a5dc546 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 18a — Dodávání dokumentů fyzických osob, podnikajících fyzických osob a právnických osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Informační systém datových schránek umožňuje dodávání dokumentů z datové schránky fyzické osoby, podnikající fyzické osoby nebo právnické osoby do zpřístupněné datové schránky jiné osoby. Datovou schránku fyzické osoby může držitel datové schránky znepřístupnit pro dodávání dokumentů z datové schránky fyzické osoby, podnikající fyzické osoby nebo právnické osoby.
+>
+> (2) Dokument dodaný podle odstavce 1 věty první je doručen okamžikem, kdy se do datové schránky přihlásí osoba, která má s ohledem na rozsah svého oprávnění přístup k tomuto dokumentu.
+>
+> (3) Nepřihlásí-li se do datové schránky osoba podle odstavce 2 ve lhůtě 10 dnů ode dne, kdy byl dokument dodán do datové schránky, považuje se tento dokument za doručený posledním dnem této lhůty.
+>
+> (4) Za dodání dokumentu podle odstavce 1 věty první náleží provozovateli informačního systému datových schránek odměna, kterou stanoví cenový orgán podle cenových předpisů5). Odměnu hradí fyzická osoba, podnikající fyzická osoba nebo právnická osoba, z jejíž datové schránky byl dokument odeslán. Tato osoba může určit, že bude hradit i dodání dokumentu, který je odpovědí na dokument dodaný podle předchozí věty. Odměnu podle věty první může za fyzickou osobu, podnikající fyzickou osobu nebo právnickou osobu, z jejíž datové schránky byl dokument odeslán, s jejím souhlasem hradit rovněž jiná fyzická osoba, podnikající fyzická osoba nebo právnická osoba.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=64aa559f004e5a5dc546 -->
+
 ## § 19 — Datová zpráva
 
 > **§ 19**
@@ -2095,6 +3399,54 @@ V praxi se příznak „do vlastních rukou" nastavuje při odesílání zprávy
 **Typicky rozhodné důkazy / podklady:** protokol ISDS o odeslání a (ne)dodání zprávy; chybové hlášení o formátu/velikosti; potvrzení o dodání (§ 20 odst. 1 písm. c); údaj o vyznačení příznaku „do vlastních rukou".
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=a10098093dd72ed7905e generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 19 — Datová zpráva
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Dokumenty orgánů veřejné moci doručované prostřednictvím datové schránky, úkony prováděné vůči orgánům veřejné moci prostřednictvím datové schránky a dokumenty fyzických osob, podnikajících fyzických osob a právnických osob dodávané prostřednictvím datové schránky mají formu datové zprávy.
+>
+> (2) Je-li dokument nebo úkon určen do vlastních rukou adresáta, vyznačí tuto skutečnost odesilatel v datové zprávě.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a10098093dd72ed7905e -->
 
 ## § 20 — Působnost Agentury
 
@@ -2227,6 +3579,76 @@ Datová zpráva zůstává v DS po dobu stanovenou vyhláškou — aktuálně **
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=1ac55920f71ec7697a38 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 20 — Působnost Agentury
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Agentura
+>
+> - a) připojí k datové zprávě odeslané z datové schránky data prokazující existenci datové zprávy k okamžiku jejího odeslání z datové schránky,
+>
+> - b) dodá datovou zprávu odeslanou z datové schránky do datové schránky osoby, která je odesílatelem označena jako adresát,
+>
+> - c) oznámí odesílateli, že datová zpráva, kterou odeslal, byla dodána do datové schránky adresáta, a toto oznámení zabezpečí způsobem zajišťujícím integritu, případně původ dat,
+>
+> - d) vyrozumí adresáta o dodání datové zprávy do jeho datové schránky na jím zvolenou elektronickou adresu nebo jiný technický prostředek pro vyrozumění; adresát je v tomto případě povinen uhradit náklady, které Agentuře v souvislosti s vyrozuměním vznikly, s výjimkou, bylo-li vyrozumění učiněno na adresátem zvolenou elektronickou adresu,
+>
+> - e) oznámí odesílateli, že datová zpráva, kterou odeslal do datové schránky adresáta, byla doručena, a toto oznámení zabezpečí způsobem zajišťujícím integritu, případně původ dat,
+>
+> - f) oznámí odesílateli, že datová schránka, do které odeslal datovou zprávu, neexistuje,
+>
+> - g) oznámí odesílateli, že datová schránka, do které odeslal datovou zprávu, je znepřístupněna, a to i zpětně,
+>
+> - h) oznámí odesílateli, že datová schránka, do které odeslal datovou zprávu, byla zrušena,
+>
+> - i) vede evidenci o datu a času událostí podle tohoto odstavce včetně identifikace datové zprávy, odesílatele a adresáta.
+>
+> (2) Agentura je oprávněna datovou zprávu zničit, pokud u ní zjistí výskyt chybného formátu nebo počítačového programu, které jsou způsobilé přivodit škodu na informačním systému datových schránek nebo na informacích v tomto informačním systému. O zničení datové zprávy Agentura neprodleně vyrozumí odesílatele.
+>
+> (3) Obsah datové zprávy a všech jejích částí musí být uzpůsoben tak, aby se s ním bylo možné seznámit a dále jej zpracovávat bez zvláštních technických znalostí a způsobem umožňujícím práci s ním i osobám se zdravotním postižením prostřednictvím speciálních technických pomůcek. Agentura stanoví vyhláškou technické náležitosti užívání datových schránek, přípustné formáty datové zprávy, včetně jejích příloh, a maximální velikost datové zprávy, včetně jejich příloh. Agentura zveřejní způsobem umožňujícím dálkový přístup seznam možných technických prostředků pro vyrozumění o dodání datové zprávy do datové schránky.
+>
+> (4) Agentura zajistí uložení dodané datové zprávy v datové schránce. Minimální dobu uložení dodané datové zprávy v datové schránce stanoví Agentura vyhláškou. Na žádost držitele datové schránky umožní provozovatel informačního systému datových schránek uložení dodané datové zprávy v datové schránce po dobu delší, než je doba stanovená vyhláškou. Za uložení dodané datové zprávy v datové schránce po dobu delší, než je doba stanovená vyhláškou, náleží provozovateli informačního systému datových schránek odměna, která se stanoví podle cenových předpisů5).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ac55920f71ec7697a38 -->
+
 ## § 21 — Identifikátor datové schránky
 
 > **§ 21**
@@ -2298,6 +3720,52 @@ Vyhledávač DS je dostupný na portálu mojedatovaschranka.cz a jako API služb
 **Typicky rozhodné důkazy / podklady:** výpis z ISDS o identifikátoru DS adresáta; identifikátor DS, kam bylo skutečně doručeno; údaj o vlastníkovi cílové DS; doklad o úřední kontrole identifikátoru.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=20452069424da5078155 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 21 — Identifikátor datové schránky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> K identifikaci datové schránky slouží identifikátor. Identifikátor není zaměnitelný s žádným jiným identifikátorem využívaným orgány veřejné moci. Způsob tvorby identifikátoru stanoví Agentura vyhláškou.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20452069424da5078155 -->
 
 ## § 22 — Konverze
 
@@ -2405,6 +3873,60 @@ Mnoho právních předpisů vyžaduje **předložení listiny** (originálu nebo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4e7c5a15c49baf0b160a generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 22 — Konverze
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Konverzí se rozumí
+>
+> - a) úplné převedení dokumentu v listinné podobě do dokumentu obsaženého v datové zprávě nebo datovém souboru (dále jen „dokument obsažený v datové zprávě“) způsobem zajišťujícím shodu obsahu těchto dokumentů a připojení doložky o provedení konverze (dále jen „doložka“), nebo
+>
+> - b) úplné převedení dokumentu obsaženého v datové zprávě do dokumentu v listinné podobě způsobem zajišťujícím shodu obsahu těchto dokumentů a připojení doložky.
+>
+> (2) Dokument, který provedením konverze vznikl (dále jen „výstup“), má stejné právní účinky jako dokument, jehož převedením výstup vznikl (dále jen „vstup“).
+>
+> (3) Má-li být podle jiného právního předpisu předložen dokument v listinné podobě správnímu orgánu, nebo soudu anebo jinému státnímu orgánu, zejména aby byl užit jako podklad pro vydání rozhodnutí, je tato povinnost splněna předložením jeho výstupu.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4e7c5a15c49baf0b160a -->
+
 ## § 23 — Subjekty provádějící konverzi
 
 > **§ 23**
@@ -2493,6 +4015,54 @@ Tento režim **není zpoplatněn správním poplatkem** (na rozdíl od konverze 
 **Typicky rozhodné důkazy / podklady:** výstup konverze s doložkou označující subjekt; doklad o oprávnění subjektu (registrace advokáta u ČAK / pověření Czech POINT); evidence provedených konverzí; pořadové číslo konverze (§ 26).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=94a20823dbcc34fb2ed1 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 23 — Subjekty provádějící konverzi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Konverzi na žádost provádějí kontaktní místa veřejné správy4) a advokáti za podmínek stanovených jiným právním předpisem.4a)
+>
+> (2) Konverzi z moci úřední provádějí orgány veřejné moci pro výkon své působnosti.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=94a20823dbcc34fb2ed1 -->
 
 ## § 24 — Postup při provádění konverze
 
@@ -2648,6 +4218,94 @@ Klíčové omezení **rozsahu odpovědnosti subjektu provádějícího konverzi*
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=5c5258927bf037e41ca9 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 24 — Postup při provádění konverze
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Při konverzi do dokumentu v listinné podobě subjekt provádějící konverzi
+>
+> - a) ověří platnost kvalifikovaného elektronického časového razítka vstupu, je-li jím vstup opatřen,
+>
+> - b) ověří platnost uznávaného elektronického podpisu, je-li jím vstup podepsán, platnost uznávané elektronické pečetě, je-li jí vstup zapečetěn, nebo platnost uznávané elektronické značky, je-li jí vstup označen,
+>
+> - c) ověří integritu vstupu, je-li zajištěna jiným způsobem než podle písmene b) a lze-li tuto skutečnost ze vstupu zjistit a ověření provést.
+>
+> (2) Bezodkladně poté, kdy subjekt provádějící konverzi provede úplné převedení dokumentu, připojí k výstupu doložku.
+>
+> (3) Technické náležitosti provádění konverze, vstupu a výstupu stanoví Agentura vyhláškou.
+>
+> (4) Konverze se neprovádí
+>
+> - a) je-li dokument v jiné než v listinné podobě či v podobě datové zprávy,
+>
+> - b) jde-li o dokument v listinné podobě, jehož jedinečnost nelze konverzí nahradit, zejména o občanský průkaz, cestovní doklad, řidičský průkaz, vojenskou knížku, služební průkaz, průkaz o povolení k pobytu cizince, rybářský lístek, lovecký lístek nebo jiný průkaz, vkladní knížku, šek, směnku nebo jiný cenný papír, los, sázenku, geometrický plán, rys nebo technickou kresbu,
+>
+> - c) jsou-li v dokumentu v listinné podobě změny, doplňky, vsuvky nebo škrty, které by mohly zeslabit jeho věrohodnost,
+>
+> - d) není-li z dokumentu v listinné podobě patrné, zda se jedná o
+>
+> - 1. prvopis,
+>
+> - 2. vidimovaný dokument,
+>
+> - 3. opis nebo kopii pořízenou ze spisu, nebo
+>
+> - 4. stejnopis písemného vyhotovení rozhodnutí anebo výroku rozhodnutí vydaného podle jiného právního předpisu,
+>
+> - e) jde-li o dokument, který je výstupem, v jehož doložce je uveden údaj o tom, že vstup obsahuje viditelný prvek, který nelze plně přenést na výstup,
+>
+> - f) jde-li o vidimovaný dokument, v jehož ověřovací doložce je uveden údaj o tom, že dokument, ze kterého byl vidimovaný dokument pořízen, obsahoval viditelný zajišťovací prvek,
+>
+> - g) v případě provedení konverze na žádost, nebyl-li dokument obsažený v datové zprávě podepsán způsobem, se kterým jiný právní předpis spojuje při právním jednání vůči státu v souvislosti s výkonem jeho působnosti účinky vlastnoručního podpisu11), zapečetěn uznávanou elektronickou pečetí nebo označen uznávanou elektronickou značkou toho, kdo dokument vydal nebo vytvořil; to neplatí, jde-li o legalizovaný dokument v elektronické podobě,
+>
+> - h) v případě porušení integrity dokumentu obsaženého v datové zprávě,
+>
+> - i) jde-li o dokument obsažený v datové zprávě, který nelze konvertovat do listinné podoby, například o zvukový nebo audiovizuální záznam,
+>
+> - j) pokud dokument nesplňuje technické náležitosti podle odstavce3.
+>
+> (5) Konverzí se nepotvrzuje správnost a pravdivost údajů obsažených ve vstupu a jejich soulad s právními předpisy.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5c5258927bf037e41ca9 -->
+
 ## § 25 — Doložka
 
 > **§ 25**
@@ -2790,6 +4448,92 @@ Všechny typy mají **stejné právní účinky** (§ 22 odst. 2 — výstup = v
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7bd6788f44549c542904 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 25 — Doložka
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Doložka konverze do dokumentu obsaženého v datové zprávě se považuje za součást výstupu a obsahuje
+>
+> - a) název subjektu, který konverzi provedl,
+>
+> - b) pořadové číslo, pod kterým je konverze vedena v evidenci provedených konverzí,
+>
+> - c) sdělení, že obsah výstupu odpovídá obsahu vstupu,
+>
+> - d) údaj o tom, z kolika stran se skládá vstup,
+>
+> - e) údaj o tom, zda vstup obsahuje viditelný prvek, který nelze plně přenést na výstup,
+>
+> - f) datum vyhotovení doložky,
+>
+> - g) jméno, případně jména, a příjmení osoby, která konverzi provedla; údaj se neuvede, byla-li konverze provedena automatizovaně,
+>
+> - h) kvalifikovaný elektronický podpis osoby, která konverzi provedla, nebo kvalifikovanou elektronickou pečeť subjektu, který konverzi provedl, byla-li konverze provedena automatizovaně.
+>
+> (2) Doložka konverze do dokumentu v listinné podobě se považuje za součást výstupu a obsahuje
+>
+> - a) název subjektu, který konverzi provedl,
+>
+> - b) název datového souboru, v němž je obsažen vstup,
+>
+> - c) pořadové číslo, pod kterým je konverze vedena v evidenci provedených konverzí,
+>
+> - d) sdělení, že obsah výstupu odpovídá obsahu vstupu,
+>
+> - e) údaj o tom, z kolika stran se skládá výstup,
+>
+> - f) datum vyhotovení doložky,
+>
+> - g) údaj o tom, zda byl vstup podepsán uznávaným elektronickým podpisem, zapečetěn uznávanou elektronickou pečetí nebo označen uznávanou elektronickou značkou, identifikaci uznávaného elektronického podpisu, uznávané elektronické pečetě nebo uznávané elektronické značky alespoň v rozsahu identifikačního čísla kvalifikovaného certifikátu a údajů o kvalifikovaném poskytovateli služeb vytvářejících důvěru a o podepisující osobě, pečetící osobě nebo označující osobě obsažených v kvalifikovaném certifikátu a údaj o výsledku ověření platnosti uznávaného elektronického podpisu, uznávané elektronické pečetě nebo uznávané elektronické značky,
+>
+> - h) údaj o tom, zda integrita vstupu byla zajištěna jiným způsobem než podle § 24 odst. 1 písm. b), a byl-li při zajištění integrity vstupu užit způsob založený na certifikátu, identifikaci tohoto způsobu alespoň v rozsahu identifikačního čísla certifikátu, údajů identifikujících vydavatele certifikátu a údajů identifikujících osobu, pro kterou byl certifikát vydán, lze-li tyto skutečnosti ze vstupu zjistit,
+>
+> - i) údaj o tom, zda byl vstup opatřen kvalifikovaným elektronickým časovým razítkem, identifikaci kvalifikovaného elektronického časového razítka alespoň v rozsahu identifikačního čísla certifikátu a údajů o kvalifikovaném poskytovateli služeb vytvářejících důvěru obsažených v certifikátu a datum a čas uvedené v kvalifikovaném elektronickém časovém razítku,
+>
+> - j) otisk úředního razítka a jméno, popřípadě jména, příjmení a podpis osoby, která konverzi provedla, nebo zajišťovací prvek zabezpečující integritu výstupu, byla-li konverze provedena automatizovaně,
+>
+> - k) údaj o tom, zda vstupem byl dokument obsažený v datové zprávě odeslané z datové schránky, a údaje o jejím odeslání z datové schránky umožňující alespoň identifikaci datové zprávy, datové schránky odesílatele a datové schránky adresáta a datum a čas dodání datové zprávy do datové schránky adresáta.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7bd6788f44549c542904 -->
+
 ## § 26 — Evidence provedených konverzí
 
 > **§ 26**
@@ -2878,6 +4622,68 @@ Evidence slouží **dvěma účelům**:
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=4d30dbee6c081e18b61c generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 26 — Evidence provedených konverzí
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Agentura vede evidenci provedených konverzí.
+>
+> (2) V evidenci provedených konverzí se vedou tyto údaje o provedené konverzi:
+>
+> - a) pořadové číslo, pod kterým je konverze vedena v evidenci provedených konverzí,
+>
+> - b) datum provedení konverze,
+>
+> - c) konkrétní označení vstupu a datum jeho sepsání, je-li datum ve vstupu obsaženo,
+>
+> - d) údaj o uhrazení správního poplatku nebo odměny notáře (uvedení čísla dokladu, kterým byl uhrazen) nebo údaj o osvobození od správního poplatku s odkazem na právní předpis.
+>
+> (3) Zapisovatelem údaje podle odstavce 2 písm. a) je Agentura. Zapisovatelem údaje podle odstavce 2 písm. b) až d) je subjekt provádějící konverzi.
+>
+> (4) Agentura umožní subjektu provádějícímu konverzi dálkový přístup k údajům o jím provedené konverzi.
+>
+> (5) Údaje podle odstavce 2 jsou v evidenci provedených konverzí uchovávány po dobu 10 let od provedení konverze.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4d30dbee6c081e18b61c -->
+
 ## Přestupky
 
 ## § 26a — Přestupky fyzické osoby
@@ -2955,6 +4761,62 @@ Tyto sazby vyplývají z tradičního přístupu k FO jako k „neorganizovaném
 **Typicky rozhodné důkazy / podklady:** výpisy z ISDS o odeslaných zprávách (odesílatel, počet adresátů, čas); obsah sdělení; podněty/stížnosti adresátů; doklad o (ne)existenci souhlasu adresátů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=092cc13a24635190dd94 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 26a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že užije datovou schránku k šíření
+>
+> - a) nevyžádaných obchodních či jiných obtěžujících sdělení,
+>
+> - b) počítačového programu, který může poškodit informační systém datových schránek, údaj v něm obsažený nebo výpočetní techniku držitele datové schránky.
+>
+> (2) Za přestupek lze uložit pokutu do
+>
+> - a) 10 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+>
+> - b) 20 000 Kč, jde-li o přestupek podle odstavce 1 písm. b).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=092cc13a24635190dd94 -->
 
 ## § 26b — Přestupky podnikající fyzické osoby nebo právnické osoby
 
@@ -3034,6 +4896,62 @@ PFO a PO mohou podle obecné úpravy (§ 21 odst. 1 zákona č. 250/2016 Sb.) vy
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=bc1c3172a39dac5f5377 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 26b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Podnikající fyzická osoba nebo právnická osoba se dopustí přestupku tím, že užije datovou schránku k šíření
+>
+> - a) nevyžádaných obchodních či jiných obtěžujících sdělení,
+>
+> - b) počítačového programu, který může poškodit informační systém datových schránek, údaj v něm obsažený nebo výpočetní techniku držitele datové schránky.
+>
+> (2) Za přestupek lze uložit pokutu do
+>
+> - a) 10 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. a),
+>
+> - b) 20 000 000 Kč, jde-li o přestupek podle odstavce 1 písm. b).
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bc1c3172a39dac5f5377 -->
+
 ## § 26c — Příslušnost
 
 > **§ 26c**
@@ -3088,6 +5006,52 @@ Proti rozhodnutí Agentury o uložení pokuty lze podat **rozklad** podle § 152
 **Typicky rozhodné důkazy / podklady:** rozhodnutí Agentury o přestupku; doklad o včasnosti rozkladu; podklady ke skutkové podstatě (výpisy z ISDS, obsah sdělení); doklad o vyčerpání opravných prostředků pro účely žaloby.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=e0325252b8c5f73fa58f generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 26c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> Přestupky podle tohoto zákona projednává Agentura.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e0325252b8c5f73fa58f -->
 
 ## Společná, přechodná a závěrečná ustanovení
 
@@ -3180,6 +5144,62 @@ V případě **automatického zřízení DS PFO/PO** (§ 4 odst. 1, § 5 odst. 1
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=ff0fd0d45dc580d3d3e1 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Žádosti a oznámení podle tohoto zákona lze podat rovněž prostřednictvím kontaktního místa veřejné správy.
+>
+> (2) Žádost podle § 11 odst. 5 nebo 7 a oznámení podle § 12 odst. 1 může osoba uvedená v § 8 odst. 1 a 2 podat rovněž s využitím přístupu pomocí kvalifikovaného prostředku. Žádost podle § 11 odst. 5 může osoba uvedená v § 8 odst. 1 a 2 podat rovněž jednoduchým způsobem prostřednictvím informačního systému datových schránek.
+>
+> (3) Úředně ověřený podpis žádosti podle § 3 odst. 4, § 4 odst. 5 a § 5 odst. 5 se nevyžaduje, je-li žádost podepsána před zaměstnancem státu zařazeným v Agentuře nebo zaměstnancem zařazeným v kontaktním místu veřejné správy.
+>
+> (4) Úředně ověřený podpis žádosti podle § 3 odst. 4 a § 4 odst. 5 se nevyžaduje, je-li žádost podána fyzickou osobou nebo podnikající fyzickou osobou, pro niž má být datová schránka fyzické osoby nebo datová schránka podnikající fyzické osoby zřízena, s využitím přístupu pomocí kvalifikovaného prostředku.
+>
+> (5) Úředně ověřený podpis žádosti podle § 3 odst. 4 se nevyžaduje, je-li žádost podána fyzickou osobou, pro niž má být datová schránka fyzické osoby zřízena, s využitím ověření její identity způsobem, kterým se lze přihlásit do datové schránky, do níž má přístup jako oprávněná osoba, a údajů vedených o fyzické osobě v základním registru obyvatel.
+>
+> (6) Je-li datová schránka zřízena podle § 4 odst. 1 nebo § 5 odst. 1 anebo jsou-li žádosti nebo oznámení, které zákon spojuje s vydáním přístupových údajů, podány prostřednictvím kontaktního místa veřejné správy, lze obdržet přístupové údaje na kontaktním místě veřejné správy po ověření totožnosti na počkání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 11, § 12, § 8, § 3, § 4, § 5
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ff0fd0d45dc580d3d3e1 -->
+
 ## § 28 — Bezplatnost základních úkonů
 
 > **§ 28**
@@ -3243,6 +5263,52 @@ Toto je významné — bez § 28 by Czech POINTy mohly za přijetí žádostí �
 **Typicky rozhodné důkazy / podklady:** doklad o požadovaném/zaplaceném poplatku; potvrzení o příjmu oznámení / vydání nových údajů; identifikace typu úkonu (zda spadá pod § 27 odst. 1 / § 12 odst. 1).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=33434e82a60b34ec3ed7 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 28
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> Příjem žádostí nebo oznámení podle § 27 odst. 1 a vydávání přístupových údajů podle § 12 odst. 1 je bezplatné.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 27, § 12
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=33434e82a60b34ec3ed7 -->
 
 ## § 29 — Spisová služba a systémové certifikáty
 
@@ -3310,6 +5376,52 @@ Při přístupu přes systémový certifikát se **nepoužijí ustanovení o pov
 **Typicky rozhodné důkazy / podklady:** konfigurace a logy systémového certifikátu; záznam o automatickém stažení zprávy; vnitřní distribuční záznamy OVM; výpis z ISDS o dodání a doručení.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=06c2ee6bd2755d6ae1b4 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 29
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> Vedou-li orgány veřejné moci spisovou službu elektronicky, činí tak způsobem umožňujícím doručování dokumentů a provádění úkonů prostřednictvím datové schránky, ledaže je z bezpečnostních důvodů nezbytné vést spisovou službu odděleně. Přístup do datové schránky prostřednictvím elektronického systému spisové služby nebo jiné elektronické aplikace třetí osoby je možné činit rovněž prostřednictvím systémového certifikátu za podmínek stanovených v provozní dokumentaci informačního systému datových schránek; v takovém případě se ustanovení o pověřených osobách nepoužijí, přístup prostřednictvím systémového certifikátu zahrnuje i přístup k dokumentům určeným do vlastních rukou adresáta.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=06c2ee6bd2755d6ae1b4 -->
 
 ## § 30 — Zkouška pro provádění konverze
 
@@ -3395,6 +5507,60 @@ Při neúspěchu lze zkoušku opakovat **dvakrát** (tj. celkem 3 pokusy). Mezi 
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=9c4dd2127230c41d2147 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 30
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Konverzi na žádost provádí fyzická osoba, která složila zkoušku; složení zkoušky se nevyžaduje, splňuje-li fyzická osoba požadavky pro provádění vidimace a legalizace9).
+>
+> (2) Obsahem zkoušky je ověření znalostí tohoto zákona, vybraných ustanovení právních předpisů týkajících se správních poplatků a [[správního řádu|správního řádu]] a schopnosti jejich aplikace.
+>
+> (3) Provádění zkoušky zabezpečuje Agentura.
+>
+> (4) Složení zkoušky se prokazuje osvědčením o vykonání zkoušky. Vzor osvědčení stanoví Agentura vyhláškou.
+>
+> (5) Neuspěla-li fyzická osoba při zkoušce, může zkoušku dvakrát opakovat. Opakovanou zkoušku je možno vykonat nejdříve za 60 dnů a nejpozději do 90 dnů ode dne konání zkoušky, při níž fyzická osoba neuspěla.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9c4dd2127230c41d2147 -->
+
 ## § 30a — Rozšíření pojmu „právnická osoba"
 
 > **§ 30a**
@@ -3453,6 +5619,52 @@ Při neúspěchu lze zkoušku opakovat **dvakrát** (tj. celkem 3 pokusy). Mezi 
 **Typicky rozhodné důkazy / podklady:** výpis z ROS a evidence svěřenských fondů; doklad o přidělení IČO; výpis z ISDS o existenci DS; doklad o osobě jednající za fond (svěřenský správce).
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=aac8d489854202990812 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 30a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> Hovoří-li se v tomto zákoně o právnické osobě, rozumí se tím rovněž jiné právní uspořádání.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aac8d489854202990812 -->
 
 ## § 31 — Přechodná ustanovení
 
@@ -3537,6 +5749,56 @@ Advokátům a daňovým poradcům byla DS zřízena **až 1. 7. 2012** (první d
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=7e97e67ec569927dae04 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 31 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> (1) Ministerstvo zřídí datovou schránku subjektům uvedeným v § 4 odst. 3, § 5 odst. 1 a § 6 odst. 1 s výjimkou advokáta a daňového poradce do 90 dnů ode dne nabytí účinnosti tohoto zákona. Datová schránka podle věty první je zpřístupněna prvním přihlášením osoby uvedené v § 8 odst. 1 až 4. Nepřihlásí-li se osoba uvedená v § 8 odst. 1 až 4 do datové schránky, datová schránka se zpřístupní dnem 1. listopadu 2009. Ustanovení [[§ 24 odst. 1|§ 24 odst. 1]] a [[2|2]] [[správního řádu|správního řádu]] se při doručení prvních přístupových údajů nepoužijí; lhůta stanovená v [[§ 23 odst. 4|§ 23 odst. 4]] [[správního řádu|správního řádu]] činí v tomto případě 90 dnů.
+>
+> (2) Subjekty uvedené v § 15 odst. 2 až 8 zašlou ministerstvu do 30 dnů ode dne nabytí účinnosti tohoto zákona údaje nezbytně nutné pro zřízení datové schránky vedené o osobách v evidencích uvedených v § 15 odst. 2 až 8 ke dni nabytí účinnosti tohoto zákona.
+>
+> (3) Ministerstvo zřídí advokátu a daňovému poradci datovou schránku podnikající fyzické osoby prvním dnem prvního kalendářního měsíce třetího roku po dni nabytí účinnosti tohoto zákona. Tím není dotčeno právo advokáta a daňového poradce na zřízení datové schránky podnikající fyzické osoby na žádost.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 5, § 6, § 8, § 24, § 23, § 15
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7e97e67ec569927dae04 -->
+
 ## § 32 — Účinnost
 
 > **§ 32**
@@ -3612,6 +5874,52 @@ V průběhu let se ZDS prokázal jako **funkční a robustní zákon** — přes
 **Typicky rozhodné důkazy / podklady:** text § 32 a údaj o vyhlášení ve Sbírce zákonů (částka 98/2008); datum posuzovaného úkonu; výpis z ISDS o zřízení/zpřístupnění DS (pro rok 2009); znění příslušné novely u pozdějších institutů.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=6f9900ecb14e2cb15d03 generator=2026-07-17.4 source_sha256=d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8 -->
+### Revizní doplnění k § 32 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/300-2008 Zákon o elektronických úkonech a autorizované konverzi dokumentů.md`; identifikátor verze: `SB-2008-00300_2026-01-01`; SHA-256: `d6fac9ed2a3de28f254995ea11ea72b442c6ead7add00eedf9422582484b6bf8`.
+
+#### Znění ustanovení
+
+> Tento zákon nabývá účinnosti dnem 1. července 2009.
+
+#### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+#### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+#### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+#### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+#### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+#### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+#### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6f9900ecb14e2cb15d03 -->
 
 ## Závěrečné shrnutí
 
